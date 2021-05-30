@@ -14,7 +14,7 @@ toc:
 
 Jx is what gives a court a power to act. Two kinds: subject matter jx (smjx) is the court’s power over a specific dispute. Personal jx (pjx) is the court’s power over an individual.  
 
-Beginning of a rule statement: a federal court can only hear cases where it has smjx and pjx. A federal court has smjx if a) there is a federal question, b) if there is diversity jurisdiction (divjx), or c) if supplemental jurisdiction. When federal court has jurisdiction over some claims, it can exercise supplemental jx over state claims arising from the same case or controversy.  
+See [Beginning of a rule statement](https://binipringle.github.io/civilprocedure/texts/1-rules/).
 
 Diversity jurisdiction (divjx) is (1) complete diversity of citizenship among all parties AND (2) amount in controversy (aic) exceeds $75k. Citizenship for persons is the state of residence. Citizenship for corporations is its principal place of biz OR where it is incorporated. *It gets tricky when there are multiple parties in different states and one moves.*
 
