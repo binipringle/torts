@@ -6,39 +6,61 @@ editor: Sabina Pringle
 source:
 ---
 
-CIVIL PROCEDURE
-MAY 25, 2021 | ONE PAGER
+# Rules of Civil Procedure
 
-I.	RULES OF CIVIL PROCEDURE
-a.	Federal Rules of Civil Procedure (“FRCP” or “The Rules”)
-b.	The U.S. Constitution
-c.	United States Treaties
+<p style="margin-left:5%; margin-right:10%;">a. Federal Rules of Civil Procedure (“FRCP” or “The Rules”)</p>
 
-II.	BASIC JURISDICTIONAL CONCEPTS
-a.	Jurisdiction is what gives a court the power to act.
-b.	Courts must have both subject matter jurisdiction and personal jurisdiction.
-c.	If there is no jurisdiction, the court has no power to act on the dispute at hand.
+<p style="margin-left:5%; margin-right:10%;">b. The U.S. Constitution</p>
 
-III.	SUBJECT MATTER JURISDICTION
-a.	Subject Matter Jurisdiction is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual.
-i.	SMJ has to do with whether the case can be in state or federal court
-b.	Subject Matter Jurisdiction in Federal Courts
-i.	Requirements:
-1.	Federal Question (28 USC 1331)
-a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
-b.	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
-2.	Diversity Jurisdiction (28 USC 1332)
-a.	Complete diversity of citizenship among all parties
-i.	“Citizenship”
-1.	For persons = residence
-2.	For corporations = place of primary business OR where it is incorporated
-ii.	“Among all parties”
-1.	No plaintiff can be from the same state as any defendant.
-b.	AND! Amount in Controversy exceeds $75K
-3.	Supplemental Jurisdiction (28 USC 1367)
-a.	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
-i.	Same case or controversy = “common nucleus of operative fact”
-ii.	In other words, the same transaction or occurrence
+<p style="margin-left:5%; margin-right:10%;">c. United States Treaties</p>
+
+# Basic Jurisdictional Concepts
+
+<p style="margin-left:5%; margin-right:10%;">a.	Jurisdiction is what gives a court the power to act.</p>
+
+<p style="margin-left:5%; margin-right:10%;">b.	Courts must have both subject matter jurisdiction and personal jurisdiction.</p>
+
+<p style="margin-left:5%; margin-right:10%;">c.	If there is no jurisdiction, the court has no power to act on the dispute at hand.</p>
+
+# Subject Matter Jurisdiction
+
+<p style="margin-left:5%; margin-right:10%;">a.	Subject Matter Jurisdiction is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual.</p>
+
+<p style="margin-left:10%; margin-right:10%;">i.	SMJ has to do with whether the case can be in state or federal court</p>
+
+<p style="margin-left:5%; margin-right:10%;">b. <b>Subject Matter Jurisdiction in Federal Courts</b></p>
+
+<p style="margin-left:10%; margin-right:10%;">i. Requirements:</p>
+
+<p style="margin-left:15%; margin-right:10%;">1.	<b>Federal Question</b><a href="https://www.law.cornell.edu/uscode/text/28/1331">(28 USC 1331)</a></p>
+
+<p style="margin-left:20%; margin-right:10%;">a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.</p>
+
+<p style="margin-left:20%; margin-right:10%;">b.	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)</p>
+
+<p style="margin-left:15%; margin-right:10%;">2.	<b>Diversity Jurisdiction</b><a href="https://www.law.cornell.edu/uscode/text/28/1332">(28 USC 1332)</a></p>
+
+<p style="margin-left:20%; margin-right:10%;">a.	Complete diversity of citizenship among all parties</p>
+
+<p style="margin-left:25%; margin-right:10%;">i.	“Citizenship”</p>
+
+<p style="margin-left:30%; margin-right:10%;">1.	For persons = residence</p>
+
+<p style="margin-left:30%; margin-right:10%;">2.	For corporations = place of primary business OR where it is incorporated</p>
+
+<p style="margin-left:25%; margin-right:10%;">ii.	“Among all parties”</p>
+
+<p style="margin-left:30%; margin-right:10%;">1.	No plaintiff can be from the same state as any defendant.</p>
+
+<p style="margin-left:20%; margin-right:10%;">b.	AND! Amount in Controversy exceeds $75K</p>
+
+<p style="margin-left:15%; margin-right:10%;">3.	<b>Supplemental Jurisdiction</b><a href="https://www.law.cornell.edu/uscode/text/28/1367">(28 USC 1367)</a></p>
+
+<p style="margin-left:20%; margin-right:10%;">a.	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy</p>
+
+<p style="margin-left:25%; margin-right:10%;">i.	Same case or controversy = “common nucleus of operative fact”</p>
+
+<p style="margin-left:25%; margin-right:10%;">ii.	In other words, the same transaction or occurrence</p>
 
 ---
 
