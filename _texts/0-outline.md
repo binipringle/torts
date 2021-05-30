@@ -28,6 +28,7 @@ toc:
 
 - {:.indent-3}a.	Subject Matter Jurisdiction is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual.
 - {:.indent-4}i.	SMJ has to do with whether the case can be in state or federal court
+
 - {:.indent-3}b. **Subject Matter Jurisdiction in Federal Courts (SMJx)**
 - {:.indent-4}i. Requirements:
 - {:.indent-5}1 .	Federal Question [(28 USC 1331)](https://www.law.cornell.edu/uscode/text/28/1331)
