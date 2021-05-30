@@ -29,7 +29,7 @@ toc:
 Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
 
 - {:.indent-3}**Subject Matter Jurisdiction in Federal Courts**
-- {:.indent-3}For a case to be heard in federal court, it must meet at least one of the following three requirements:
+- {:.indent-3}A federal court has SMJx if the claim meets at least one of the following requirements:
 
 - {:.indent-5}1 . **Federal Question** [(28 USC 1331)](https://www.law.cornell.edu/uscode/text/28/1331)
 - {:.indent-6}a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
