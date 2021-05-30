@@ -1,15 +1,14 @@
 ---
 layout: narrative
-title: Section One
+title: Templates
 author:
 editor: Sabina Pringle
+rights:
 source:
 toc:
--
-
 
 ---
 
-Hello
+This is where templates will go
 
----
+___

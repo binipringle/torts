@@ -1,14 +1,15 @@
 ---
 layout: narrative
-title: Section Two
+title: Rules
 author:
 editor: Sabina Pringle
-rights:
 source:
 toc:
+-
+
 
 ---
 
-Hi
+Hello
 
 ---
