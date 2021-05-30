@@ -1,12 +1,12 @@
 ---
-layout: narrative
+layout: poem
 title: Outline
 author:
 editor: Sabina Pringle
 source:
 ---
 
-# Rules of Civil Procedure
+## Rules of Civil Procedure
 
 <p style="margin-left:5%; margin-right:10%;">a. Federal Rules of Civil Procedure (“FRCP” or “The Rules”)</p>
 
@@ -14,7 +14,7 @@ source:
 
 <p style="margin-left:5%; margin-right:10%;">c. United States Treaties</p>
 
-# Basic Jurisdictional Concepts
+## Basic Jurisdictional Concepts
 
 <p style="margin-left:5%; margin-right:10%;">a.	Jurisdiction is what gives a court the power to act.</p>
 
@@ -22,7 +22,7 @@ source:
 
 <p style="margin-left:5%; margin-right:10%;">c.	If there is no jurisdiction, the court has no power to act on the dispute at hand.</p>
 
-# Subject Matter Jurisdiction
+## Subject Matter Jurisdiction
 
 <p style="margin-left:5%; margin-right:10%;">a.	Subject Matter Jurisdiction is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual.</p>
 
@@ -64,27 +64,25 @@ source:
 
 ---
 
-CIVIL PROCEDURE
-MAY 27, 2021 | ONE PAGER
+## Erie Doctrine 
 
-I.	ERIE DOCTRINE
-a.	Relates to which law is applied by the federal court sitting in DIVERSITY JX
-b.	Allows fed ct. to apply its own procedural laws but requires court to apply state substantive law (this is the VERTICAL choice of law - between fed and state cts)
-c.	So, what state law is considered procedural and what is considered substantive? Here are some high frequency examples of each:
-i.	Procedural laws
-1.	Civil procedure rules
-2.	Burden of proof standards
-ii.	Substantive laws
-1.	Claims based in state law
-2.	Damages
-3.	Statute of frauds
-4.	Choice of law rules
-a.	A fed ct. sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
-iii.	What about statute of limitations? It depends.
-1.	Where a substantive right is conditioned upon SOL -> substantive
-2.	Where a substantive right is not conditioned upon SOL -> procedural
-d.	Once applicable state law is determined, the fed ct. must apply the law as the forum state court would        
-i.	It cannot make its own independent judgment on the construction of the law
-ii.	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue. (sometimes called the “Erie educated guess” principle)
+- a.	Relates to which law is applied by the federal court sitting in DIVERSITY JX
+- b.	Allows fed ct. to apply its own procedural laws but requires court to apply state substantive law (this is the VERTICAL choice of law - between fed and state cts)
+- c.	So, what state law is considered procedural and what is considered substantive? Here are some high frequency examples of each:
+- {:.indent-3}i.	Procedural laws
+- {:.indent-4}1.	Civil procedure rules
+- {:.indent-4}2.	Burden of proof standards
+- {:.indent-3}ii.	Substantive laws
+- {:.indent-4}1.	Claims based in state law
+- {:.indent-4}2.	Damages
+- {:.indent-4}3.	Statute of frauds
+- {:.indent-4}4.	Choice of law rules
+- {:.indent-5}a.	A fed ct. sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
+- {:.indent-3}iii.	What about statute of limitations? It depends.
+- {:.indent-4}1.	Where a substantive right is conditioned upon SOL -> substantive
+- {:.indent-4}2.	Where a substantive right is not conditioned upon SOL -> procedural
+- d.	Once applicable state law is determined, the fed ct. must apply the law as the forum state court would        
+- {:.indent-3}i.	It cannot make its own independent judgment on the construction of the law
+- {:.indent-3}ii.	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue. (sometimes called the “Erie educated guess” principle)
 
 ---
