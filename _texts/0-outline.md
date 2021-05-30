@@ -74,6 +74,7 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-5}1 .	Where a substantive right is conditioned upon SOL -> substantive
 - {:.indent-5}2 .	Where a substantive right is not conditioned upon SOL -> procedural
 
+
 - {:.indent-3}d.	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
 - {:.indent-4}i.	The federal court cannot make its own independent judgment on the construction of the law
 - {:.indent-4}ii.	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue. (sometimes called the “Erie educated guess” principle)
