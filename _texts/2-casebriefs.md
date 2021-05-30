@@ -9,6 +9,6 @@ toc:
 
 ---
 
-Hi
+This is where case briefs will go
 
 ---
