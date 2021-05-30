@@ -26,10 +26,10 @@ toc:
 
 ## Subject Matter Jurisdiction
 
-- Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
+Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
 
 - {:.indent-3}**Subject Matter Jurisdiction in Federal Courts**
-- {:.indent-4}For a case to be heard in federal court, it must meet at least one of the following three requirements:
+- {:.indent-3}For a case to be heard in federal court, it must meet at least one of the following three requirements:
 
 - {:.indent-5}1 . **Federal Question** [(28 USC 1331)](https://www.law.cornell.edu/uscode/text/28/1331)
 - {:.indent-6}a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
@@ -70,7 +70,7 @@ toc:
 - {:.indent-5}4 .	Choice of law rules
 - {:.indent-6}a.	A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
-- {:.indent-4}iii.	Statute of limitations (SOL) can be procedural or substantive.
+- {:.indent-4}iii.	**Statute of limitations** (SOL) can be procedural or substantive.
 - {:.indent-5}1 .	Where a substantive right is conditioned upon SOL -> substantive
 - {:.indent-5}2 .	Where a substantive right is not conditioned upon SOL -> procedural
 - {:.indent-3}d.	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
