@@ -7,6 +7,7 @@ rights:
 source:
 toc:
 - Pennoyer v Neff
+- International Shoe Co v Washington
 
 ---
 
@@ -15,6 +16,12 @@ toc:
 U.S. Supreme Court, 1877
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
+
+**Rule:** Under the Due Process Clause, no person is subject to the jurisdiction of a court unless she voluntarily appears in the court, is found within the state, resides in the state, or has property in the state that the court has attached.
+
+**Policy:**
+
+**Holding:** A state may not exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
 
 **Parties:** Marcus Neff (plaintiff) (non-resident of Oregon), Sylvester Pennoyer (defendant); J.H. Mitchell (party in original dispute where Mitchell seized property from Neff and transferred it to Pennoyer)
 
@@ -29,45 +36,41 @@ Procedural History: Mitchell sued Neff; default judgment against Neff; Mitchell 
 
 **Court’s Reasoning:** [The plaintiff asserts] that the judgment in the State court against the plaintiff was void for want of personal service of process on him, or of his appearance in the action in which it was rendered, and that the premises in controversy could not be subjected to the payment of the demand [722] of a resident creditor except by a proceeding in rem; that is, by a direct proceeding against the property for that purpose. [This assertion is sound based on two principles.] One of these principles is, that every State possesses exclusive jurisdiction and sovereignty over persons and property within its territory. [ … ] The other principle of public law referred to follows from the one mentioned; that is, that no State can exercise direct jurisdiction and authority over persons or property without its territory. [ … ] [723] So the State, through its tribunals, may subject property situated within its limits owned by non-residents to the payment of the demand of its own citizens against them; and the exercise of this jurisdiction in no respect infringes upon the sovereignty of the State where the owners are domiciled. [ … ] If the non-resident [724] have no property in the State, there is nothing upon which the tribunals can adjudicate.
 
-**Rule:** Under the Due Process Clause, no person is subject to the jurisdiction of a court unless she voluntarily appears in the court, is found within the state, resides in the state, or has property in the state that the court has attached.
-
-Application:
-
-Policy:
-
-**Holding:** A state may not exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
-
 **Disposition:** Judgment affirmed.
 
 ---
 
-Name v. Name Court, year (kind of court)
+## International Shoe Co v Washington
 
-Issue:
+U.S. Supreme Court, 1945
 
-Facts:
+**Issue:** Whether due process requires that a defendant not present within the territory of a forum should be subjected to a court's personal jurisdiction if the defendant has certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice.
 
-I. Uncontested facts:
+**Rule:** For a defendant not present within the territory of a forum to be subjected to a court's personal jurisdiction, due process requires that the defendant have certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice. To have minimum contact with the state, the defendant's contact must be systematic and continuous with the state even if the contact is unrelated to the lawsuit, OR single or occasional acts in a state might be sufficient, depending on their nature and circumstances.
 
-II. Appellant NAME’s factual allegations:
+**Policy:**
 
-III. Respondent NAME’s factual allegations:
+**Holding:**  Due process requires that a defendant not present within the territory of a forum be subjected to a court's personal jurisdiction if the defendant has certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice.
 
-IV. The appellate court’s resolution of the fact:
+**Parties:** Washington state (Plaintiff), International Shoe (Defendant)
 
-Procedural History:
+**Facts:**
 
-Court’s Reasoning:
+**I. Uncontested facts:** Washington state commissioner responsible for assessing and collecting contributions to an unemployment fund served a notice of assessment on International Shoe for failure to pay into the fund during the years 1937 to 1940. International Shoe was a Delaware corporation with its principal place of business in Missouri. International Shoe moved to set aside the notice on the grounds that it was not a corporation doing business in Washington, had no registered agent within the state, and was not an employer and did not furnish employment within the state as defined under state law.
 
-Rule/Law:
+**II. Plaintiff Washington state’s factual allegations:** International Shoe failed to meet their obligation to pay contributions to a Washington state unemployment fund during 1937-1940.
 
-Application:
+**III. Defendant International Shoe’s factual allegations:** International Shoe did not have an obligation to pay contributions to a Washington state unemployment fund because the company was based in Missouri.
 
-Policy:
+**IV. Lower court’s resolution of the fact:** denied International Shoe's motion to set aside the notice.
 
-Holding:
+**Procedural History:** Unemployment Commissioner > County Court > Washington Supreme Court > U.S. Supreme Court
 
-Disposition:
+**Court’s Reasoning:** The presence of International Shoe's salespeople in WA and the regular sale of goods to WA residents were sufficient to establish systematic and continuous contacts. This made it reasonable, under traditional notions of fair play and substantial justice, to permit the state to enforce the obligations which International Shoe has incurred there.
+
+**Concurrence:** Justice Black concurred, noting that states have an unfettered right to tax and permit their citizens to sue corporations whose agents do business in those states. However, Justice Black noted that by tying jurisdiction to minimum contacts, the Court’s decision diminishes the power of states to afford judicial protection to their citizens.
+
+**Disposition:** Decision of WA Supreme Court affirmed.
 
 ---
 
