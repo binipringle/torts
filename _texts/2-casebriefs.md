@@ -13,7 +13,8 @@ toc:
 ## Pennoyer v. Neff, U.S. Supreme Court, 1877
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
-Parties: Marcus Neff (plaintiff) (non-resident of Oregon), Sylvester Pennoyer (defendant)
+
+**Parties:** Marcus Neff (plaintiff) (non-resident of Oregon), Sylvester Pennoyer (defendant); J.H. Mitchell (party in original dispute where Mitchell seized property from Neff and transferred it to Pennoyer)
 
 **I. Uncontested facts:** Neff hired J.H Mitchell for legal work but did not pay Mitchell for his work. Mitchell sued in Oregon state court. Neff was not a resident of the state nor personally served with process (Mitchell published notice of the summons in Oregon). Neff failed to appear in court. The state court entered default judgment against Neff. Shortly thereafter, Neff took title to a tract of land in Oregon. Mitchell had the sheriff seize the land to be sold to satisfy the judgment. Mitchell bought the land at auction and assigned it to Pennoyer. Neff sued Pennoyer (defendant) to recover the property in the United States Circuit Court for the District of Oregon. The lower court concluded that Mitchell’s judgment was invalid due to defects in the affidavit on which the constructive service was based. Pennoyer appealed to the United States Supreme Court.
 
