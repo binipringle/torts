@@ -11,6 +11,12 @@ toc:
 
 ---
 
+## Erie v Tompkins
+
+See "Erie Doctrine" in [Notes](https://binipringle.github.io/civilprocedure/texts/3-classnotes/)
+
+---
+
 ## Pennoyer v Neff
 
 U.S. Supreme Court, 1877

@@ -6,7 +6,8 @@ editor: Sabina Pringle
 rights:
 source: Civil Procedure class
 toc:
-
+- Review of subject matter jurisdiction
+- The dreaded Erie Doctrine
 
 ---
 
@@ -26,7 +27,7 @@ Supplemental jurisdiction: when federal court has jurisdiction over some claims,
 
 5-27-21 class notes
 
-### Review of subject matter jurisdiction:
+## Review of subject matter jurisdiction
 
 The underlying presumption of civil procedure is testing the rules to see if we can get into federal court.
 
@@ -40,7 +41,7 @@ I have one lawsuit I want to file in state court – unlawful imprisonment – b
 
 If you’re doing an analysis you can skip the federal question – go straight to the state claim because you will address the federal question through supplemental jurisdiction.
 
-### The dreaded Erie Doctrine
+## The dreaded Erie Doctrine
 
 Erie Doctrine is not conceptually complex. It is technically tedious.
 
