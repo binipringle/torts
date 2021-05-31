@@ -6,20 +6,23 @@ editor: Sabina Pringle
 rights:
 source:
 toc:
+- Erie Railroad Co v Tompkins
 - Pennoyer v Neff
 - International Shoe Co v Washington
 
 ---
 
-## Erie v Tompkins
+## Erie Railroad Co v Tompkins
 
-See "Erie Doctrine" in [Notes](https://binipringle.github.io/civilprocedure/texts/3-classnotes/)
+U.S. Supreme Court, 304 U.S. 64 (1938)
+
+For a rambling brief see "The dreaded Erie Doctrine" in [Notes](https://binipringle.github.io/civilprocedure/texts/3-classnotes/).
 
 ---
 
 ## Pennoyer v Neff
 
-U.S. Supreme Court, 1877
+U.S. Supreme Court, 95 U.S. 714 (1877)
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
 
@@ -48,7 +51,7 @@ Procedural History: Mitchell sued Neff; default judgment against Neff; Mitchell 
 
 ## International Shoe Co v Washington
 
-U.S. Supreme Court, 1945
+U.S. Supreme Court, 326 U.S. 310 (1945)
 
 **Issue:** Whether due process requires that a defendant not present within the territory of a forum should be subjected to a court's personal jurisdiction if the defendant has certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice.
 
