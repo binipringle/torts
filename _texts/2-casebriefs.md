@@ -6,11 +6,13 @@ editor: Sabina Pringle
 rights:
 source:
 toc:
-- Pennoyer v. Neff, U.S. Supreme Court, 1877
+- Pennoyer v Neff
 
 ---
 
-## Pennoyer v. Neff, U.S. Supreme Court, 1877
+## Pennoyer v Neff
+
+U.S. Supreme Court, 1877
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
 
