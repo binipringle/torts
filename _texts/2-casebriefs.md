@@ -26,7 +26,7 @@ U.S. Supreme Court, 95 U.S. 714 (1877)
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
 
-**Rule:** Under the Due Process Clause, no person is subject to the jurisdiction of a court unless she voluntarily appears in the court, is found within the state, resides in the state, or has property in the state that the court has attached.
+**Rule:** Under the Due Process Clause, a person is only subject to the jurisdiction of a court if (1) they voluntarily appear in the court, (2) is found within the state, (3) resides in the state, or (4) has property in the state that the court has attached to the claim at issue.
 
 **Policy:**
 
@@ -77,9 +77,9 @@ U.S. Supreme Court, 326 U.S. 310 (1945)
 
 **Court’s Reasoning:** The presence of International Shoe's salespeople in WA and the regular sale of goods to WA residents were sufficient to establish systematic and continuous contacts. This made it reasonable, under traditional notions of fair play and substantial justice, to permit the state to enforce the obligations which International Shoe has incurred there.
 
-**Concurrence:** Justice Black concurred, noting that states have an unfettered right to tax and permit their citizens to sue corporations whose agents do business in those states. However, Justice Black noted that by tying jurisdiction to minimum contacts, the Court’s decision diminishes the power of states to afford judicial protection to their citizens. Black's discussion of "natural justice" is super interesting:
+**Concurrence:** Justice Black concurred, noting that states have an unfettered right to tax and permit their citizens to sue corporations whose agents do business in those states. However, Justice Black noted that by tying jurisdiction to minimum contacts, the Court’s decision diminishes the power of states to afford judicial protection to their citizens. Black's discussion of "natural law" is super interesting:
 
-- There is a strong emotional appeal in the words "fair play," "justice," and "reasonableness." But they were not chosen by those who wrote the original Constitution or the Fourteenth Amendment as a measuring rod for this Court to use in invalidating State or Federal laws passed by elected legislative representatives. [ … ]For application of this natural law concept, whether under the terms "reasonableness," "justice," or "fair play," makes judges the supreme arbiters of the country's laws and practices. [ … ] This result, I believe, alters the form of government our Constitution provides. I cannot agree. ... True, the State's power is here upheld. But the rule announced means that tomorrow's judgment may strike down a State or Federal enactment on the ground that it does not conform to this Court's idea of natural justice. [ … ]
+- There is a strong emotional appeal in the words "fair play," "justice," and "reasonableness." But they were not chosen by those who wrote the original Constitution or the Fourteenth Amendment as a measuring rod for this Court to use in invalidating State or Federal laws passed by elected legislative representatives. [ … ] For application of this natural law concept, whether under the terms "reasonableness," "justice," or "fair play," makes judges the supreme arbiters of the country's laws and practices. [ … ] This result, I believe, alters the form of government our Constitution provides. I cannot agree. ... True, the State's power is here upheld. But the rule announced means that tomorrow's judgment may strike down a State or Federal enactment on the ground that it does not conform to this Court's idea of natural justice. [ … ]
 
 
 **Disposition:** Decision of WA Supreme Court affirmed.
