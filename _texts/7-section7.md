@@ -6,6 +6,6 @@ editor: Sabina Pringle
 source:
 ---
 
-This is section seven, a page of possibilities. 
+This is section seven.
 
 ---

@@ -41,6 +41,8 @@ I have one lawsuit I want to file in state court – unlawful imprisonment – b
 
 If you’re doing an analysis you can skip the federal question – go straight to the state claim because you will address the federal question through supplemental jurisdiction.
 
+---
+
 ## The dreaded Erie Doctrine
 
 Erie Doctrine is not conceptually complex. It is technically tedious.

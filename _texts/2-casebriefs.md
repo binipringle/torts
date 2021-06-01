@@ -69,15 +69,18 @@ U.S. Supreme Court, 326 U.S. 310 (1945)
 
 **II. Plaintiff Washington state’s factual allegations:** International Shoe failed to meet their obligation to pay contributions to a Washington state unemployment fund during 1937-1940.
 
-**III. Defendant International Shoe’s factual allegations:** International Shoe did not have an obligation to pay contributions to a Washington state unemployment fund because the company was based in Missouri.
+**III. Defendant International Shoe’s factual allegations:** International Shoe did not have an obligation to pay contributions to a Washington state unemployment fund because the company was based in Missouri, and its activities within WA state were not sufficient to manifest its "presence" there and that in its absence the state courts were without jurisdiction.
 
-**IV. Lower court’s resolution of the fact:** denied International Shoe's motion to set aside the notice.
+**IV. Lower court’s resolution of the fact:** Denied International Shoe's motion to set aside the notice.
 
 **Procedural History:** Unemployment Commissioner > County Court > Washington Supreme Court > U.S. Supreme Court
 
 **Court’s Reasoning:** The presence of International Shoe's salespeople in WA and the regular sale of goods to WA residents were sufficient to establish systematic and continuous contacts. This made it reasonable, under traditional notions of fair play and substantial justice, to permit the state to enforce the obligations which International Shoe has incurred there.
 
-**Concurrence:** Justice Black concurred, noting that states have an unfettered right to tax and permit their citizens to sue corporations whose agents do business in those states. However, Justice Black noted that by tying jurisdiction to minimum contacts, the Court’s decision diminishes the power of states to afford judicial protection to their citizens.
+**Concurrence:** Justice Black concurred, noting that states have an unfettered right to tax and permit their citizens to sue corporations whose agents do business in those states. However, Justice Black noted that by tying jurisdiction to minimum contacts, the Court’s decision diminishes the power of states to afford judicial protection to their citizens. Black's discussion of "natural justice" is super interesting:
+
+- There is a strong emotional appeal in the words "fair play," "justice," and "reasonableness." But they were not chosen by those who wrote the original Constitution or the Fourteenth Amendment as a measuring rod for this Court to use in invalidating State or Federal laws passed by elected legislative representatives. [ … ]For application of this natural law concept, whether under the terms "reasonableness," "justice," or "fair play," makes judges the supreme arbiters of the country's laws and practices. [ … ] This result, I believe, alters the form of government our Constitution provides. I cannot agree. ... True, the State's power is here upheld. But the rule announced means that tomorrow's judgment may strike down a State or Federal enactment on the ground that it does not conform to this Court's idea of natural justice. [ … ]
+
 
 **Disposition:** Decision of WA Supreme Court affirmed.
 
