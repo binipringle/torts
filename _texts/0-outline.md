@@ -50,7 +50,7 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-7}i.	Same case or controversy = “common nucleus of operative fact”
 - {:.indent-7}ii.	In other words, the same transaction or occurrence
 
-[^1]: 28 U.S.C. § 1331 Federal question: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
+[^1]: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States. 28 U.S.C. § 1331. 
 
 ---
 
