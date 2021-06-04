@@ -9,6 +9,7 @@ toc:
 - Basic Jurisdictional Concepts
 - Subject Matter Jurisdiction
 - Erie Doctrine
+- Personal Jurisdiction
 
 ---
 
@@ -80,3 +81,36 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-4}ii.	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue. (sometimes called the “Erie educated guess” principle)
 
 ---
+
+## Personal Jurisdiction
+
+- {:.indent-3}a.	**Pennoyer v. Neff** (will not be on bar exam)
+
+- {:.indent-4}i.	Consent = Def. consents to Jx in a specific forum
+- {:.indent-4}ii.	In Personam = Def. served in hand within the forum state
+- {:.indent-4}iii.	In Rem = Def has property in forum state + litigation is about that property
+- {:.indent-4}iv.	Quasi In Rem = the Def. has property in forum state BUT litigation is not about that property AND court only has Jx up to the value of Def’s property in forum state
+
+- {:.indent-3}b.	**Current Rule that Matters**
+
+- {:.indent-4}i.	A federal court has personal jurisdiction based on either of two categories:
+- {:.indent-5}(1) The Traditional Basis of jurisdiction -OR- (2) Long-Arm Jurisdiction
+
+- {:.indent-4}ii.	Traditional Basis of Personal Jurisdiction (over defendant)
+- {:.indent-5}1 .	Domicile – where the Def. resides OR
+- {:.indent-5}2 .	Presence in the state when served OR
+- {:.indent-5}3 .	Consent – Def. consents to Jx in specific forum OR
+- {:.indent-5}4 .	Waiver – appearing in the action without objecting OR
+- {:.indent-5}5 .	ANY OF THESE must meet constitutional requirement of due process*
+
+- {:.indent-4}iii.	Long-Arm Jurisdiction
+- {:.indent-5}1 .	Applies when defendant is not a resident of the forum state -AND-
+- {:.indent-5}2 .	The forum state must have a long-arm statute AND must meet the constitutional requirement for due process*
+
+- {:.indent-4}iv.	*Constitutional requirement for due process – both prongs must be satisfied
+- {:.indent-5}1 .	Minimum contacts (more to come!) -AND-
+- {:.indent-5}2 .	Fair Play and Substantial Justice (more to come!)
+
+---
+
+put one pager from 6/3 here
