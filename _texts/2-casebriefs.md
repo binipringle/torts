@@ -26,7 +26,7 @@ U.S. Supreme Court, 95 U.S. 714 (1877)
 
 **Issue:** Whether a state may exercise personal jurisdiction over a nonresident on the basis of property ownership alone.
 
-**Rule:** Under the Due Process Clause, a person is only subject to the jurisdiction of a court if (1) they voluntarily appear in the court, (2) is found within the state, (3) resides in the state, or (4) has property in the state that the court has attached to the claim at issue.
+**Rule:** Under the Due Process Clause, a person is only subject to the jurisdiction of a court if (1) they voluntarily appear in the court, (2) is found within the state, (3) resides in the state, or (4) has property in the state that the court has attached (attached to what?).
 
 **Policy:**
 
