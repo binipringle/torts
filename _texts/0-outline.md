@@ -32,7 +32,7 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-3}**Subject Matter Jurisdiction in Federal Courts**
 - {:.indent-3}A federal court has SMJx if the claim meets at least one of the following requirements:
 
-- {:.indent-5}1 . **Federal Question** 28 USC 1331)[^1]
+- {:.indent-5}1 . **Federal Question** 28 USC 1331) [^1]
 - {:.indent-6}a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
 - {:.indent-6}b.	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
 
@@ -50,7 +50,7 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-7}i.	Same case or controversy = “common nucleus of operative fact”
 - {:.indent-7}ii.	In other words, the same transaction or occurrence
 
-[^1]:28 U.S.C. § 1331 Federal question: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
+[^1]: 28 U.S.C. § 1331 Federal question: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
 ---
 
 ## Erie Doctrine
