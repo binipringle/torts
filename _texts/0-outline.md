@@ -32,11 +32,11 @@ a. Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dis
 - {:.indent-3}i. **Subject Matter Jurisdiction in Federal Courts**
 - {:.indent-3}A federal court has SMJx if the claim meets at least one of the following requirements:
 
-- {:.indent-5}1 . **Federal Question** (28 USC 1331) [^1]
+- {:.indent-5}1 . **Federal Question** (28 USC § 1331 [^1])
 - {:.indent-6}a.	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
 - {:.indent-6}b.	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
 
-- {:.indent-5}2 .	**Diversity Jurisdiction (DivJx)** [(28 USC 1332)](https://www.law.cornell.edu/uscode/text/28/1332) [^2]
+- {:.indent-5}2 .	**Diversity Jurisdiction (DivJx)** (28 USC § 1332 [^2])
 - {:.indent-6}a.	There must be complete diversity of citizenship among all parties
 - {:.indent-7}i.	“Citizenship”
 - {:.indent-8}1 .	For persons = residence
@@ -45,16 +45,16 @@ a. Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dis
 - {:.indent-8}1 .	No plaintiff can be from the same state as any defendant.
 - {:.indent-6}b.	**AND** the amount in Controversy must exceed $75K
 
-- {:.indent-5}3 .	**Supplemental Jurisdiction (SuppJx)** [(28 USC 1367)](https://www.law.cornell.edu/uscode/text/28/1367) [^3]
+- {:.indent-5}3 .	**Supplemental Jurisdiction (SuppJx)** (28 USC § 1367 [^3])
 - {:.indent-6}a.	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
 - {:.indent-7}i.	Same case or controversy = “common nucleus of operative fact”
 - {:.indent-7}ii.	In other words, the same transaction or occurrence
 
 [^1]: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States. 28 U.S.C. § 1331.
 
-[^2]: 28 U.S.C. § 1332.
+[^2]: 28 U.S.C. § 1332 is openly accessible at [(Cornell Law School's Legal Information Institute)](https://www.law.cornell.edu/uscode/text/28/1332)
 
-[^3]: 28 U.S.C. § 1367.
+[^3]: 28 U.S.C. § 1367 is openly accessible at [(Cornell Law School's Legal Information Institute)](https://www.law.cornell.edu/uscode/text/28/1367)
 
 ---
 
