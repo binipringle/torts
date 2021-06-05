@@ -5,11 +5,11 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- Rules of Civil Procedure
-- Basic Jurisdictional Concepts
-- Subject Matter Jurisdiction
-- Erie Doctrine
-- Personal Jurisdiction
+- I. Rules of Civil Procedure
+- II. Basic Jurisdictional Concepts
+- III. Subject Matter Jurisdiction
+- IV. Erie Doctrine
+- V. Personal Jurisdiction
 
 ---
 
@@ -86,7 +86,7 @@ d.	Once applicable state law is determined, the federal court must apply the law
 
 ---
 
-## Personal Jurisdiction
+## V. Personal Jurisdiction
 
 a.	**Pennoyer v. Neff** (will not be on bar exam)
 
@@ -125,7 +125,7 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 - {:.indent-7}b.	**Specific jurisdiction**
 - {:.indent-8}i.	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
 - {:.indent-8}ii.	There must be a connection between the forum state and the underlying controversy.
-- {:.indent-9}1.	Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
+- {:.indent-9}1 .	Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
 
 - {:.indent-6}2 . The **second prong** is **fair play and substantial justice (“fairness”)**.
 - {:.indent-7}a. Even if the minimum contacts test is met, it must be fair and reasonable for the defendant to be sued in the forum state, "so as not to offend notions of fair play and substantial justice.”
