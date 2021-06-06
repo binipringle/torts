@@ -86,6 +86,58 @@ U.S. Supreme Court, 326 U.S. 310 (1945)
 
 ---
 
+## World-Wide Volkswagen Corp v Woodson
+
+U.S. Supreme Court, 444 U.S. 286 (1980)
+
+**Issue:** Whether a state court can exercise jurisdiction over a business with no ties to that state, except for the fact that its product ended up causing injury there. (underlying issue whether or not Oklahoma’s long arm jx is compatible with constitutional due process)
+
+**Facts:**
+
+**I.	Uncontested facts:** harry and kay robinson bought an audi in ny, and went on a journey. They were driving through Oklahoma and another car rammed into the car from behind and the audi caught fire, and kay robinson and two of her children were severely burned. Robinsons brought a products liability suit against three companies (see below)
+
+**II. Respondent** (formerly plaintiff) Robinson family alleged that the car was badly built
+
+**III. Movant** Worldwide alleged that the court in Oklahoma (where Robinsons had brought suit) had no Jx over a NY company which did not do business in Oklahoma
+
+**Procedural History:** Robinsons brought a products liability action in district court for creek county in Oklahoma against three companies:
+
+- Audi NSU Auto Union Aktiengesellschaft (Audi);
+- its importer, Volkswagen of America, Inc. (Volkswagen);
+- its regional distributor, petitioner World-Wide Volkswagen Corp. (World-Wide); and
+- its retail dealer, petitioner Seaway.
+
+Seaway and World-Wide entered special appearances,[ … ]claiming that Oklahoma's exercise of jurisdiction over them would offend the limitations on the State's jurisdiction imposed by the Due Process Clause of the Fourteenth Amendment.[ … ] District Court rejected this constitutional claim and reaffirmed that ruling in denying petitioners' motion for reconsideration. [ … ] Petitioners then sought a writ of prohibition in the Supreme Court of Oklahoma [ … ]. The Supreme Court of Oklahoma denied the writ[ … ] USSC granted certiorari, 440 U. S. 907 (1979), to consider an important constitutional question with respect to state-court jurisdiction and to resolve a conflict between the Supreme Court of Oklahoma and the highest courts of at least four other States.[ … ]. USSC reverse.
+
+**Court’s Reasoning:**
+
+Test: 1. Is asserting jurisdiction over the defendant reasonable? 2. Other factors:
+
+**Rule:** Foreseeability alone is not sufficient to authorize a state court’s assertion of personal jurisdiction over a non-resident defendant that has no contacts, ties, or relations with the forum state.
+
+Application:
+
+Policy:
+
+Holding:
+
+Disposition:
+
+
+---
+
+## Asahi Metal Industry Co v Superior Court of CA Solano County
+
+(1987)
+
+___
+
+## Burger King Corp v Rudzewicz
+
+(1984)
+
+___
+
 Name v. Name Court, year (kind of court)
 
 Issue:

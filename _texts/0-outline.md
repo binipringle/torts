@@ -50,11 +50,11 @@ a. Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dis
 - {:.indent-7}i.	Same case or controversy = “common nucleus of operative fact”
 - {:.indent-7}ii.	In other words, the same transaction or occurrence
 
-[^1]: The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States. 28 U.S.C. § 1331.
+[^1]: 28 U.S. Code § 1331 states that "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States." 28 U.S.C. § 1331 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1331)
 
-[^2]: 28 U.S.C. § 1332 is openly accessible at [(Cornell Law School's Legal Information Institute)](https://www.law.cornell.edu/uscode/text/28/1332)
+[^2]: 28 U.S.C. § 1332 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1332)
 
-[^3]: 28 U.S.C. § 1367 is openly accessible at [(Cornell Law School's Legal Information Institute)](https://www.law.cornell.edu/uscode/text/28/1367)
+[^3]: 28 U.S.C. § 1367 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1367)
 
 ---
 
@@ -88,7 +88,7 @@ d.	Once applicable state law is determined, the federal court must apply the law
 
 ## V. Personal Jurisdiction
 
-a.	**Pennoyer v. Neff** (will not be on bar exam)
+a.	Vocabulary from **Pennoyer v. Neff** (this case will not be on the bar exam)
 
 - {:.indent-3}i.	**Consent**: defendant consents to jurisdiction in a specific forum.
 - {:.indent-3}ii.	**In personam**: defendant is served in hand within the forum state.

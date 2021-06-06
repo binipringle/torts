@@ -13,15 +13,15 @@ toc:
 
 5-25-21 class notes
 
-Jx is what gives a court a power to act. Two kinds: subject matter jx (smjx) is the court’s power over a specific dispute. Personal jx (pjx) is the court’s power over an individual.  
+Jx is what gives a court a power to act. Two kinds: subject matter Jx (SMJx) is the court’s power over a specific dispute. Personal Jx (PJx) is the court’s power over an individual.  
 
 See [Beginning of a rule statement](https://binipringle.github.io/civilprocedure/texts/1-rules/).
 
-Diversity jurisdiction (divjx) is (1) complete diversity of citizenship among all parties AND (2) amount in controversy (aic) exceeds $75k. Citizenship for persons is the state of residence. Citizenship for corporations is its principal place of biz OR where it is incorporated. *It gets tricky when there are multiple parties in different states and one moves.*
+Diversity jurisdiction (DivJx) is (1) complete diversity of citizenship among all parties AND (2) amount in controversy (aic) exceeds $75k. Citizenship for persons is the state of residence. Citizenship for corporations is its principal place of biz OR where it is incorporated. *It gets tricky when there are multiple parties in different states and one moves.*
 
 So there has to be complete diversity of citizenship? In other words, the opposing parties need to reside in diverse places. If they live in the same place there is not diversity of residence/citizenship.
 
-Supplemental jurisdiction: when federal court has jurisdiction over some claims, it can exercise supplemental jx over state claims arising from the same case or controversy **if there is a common nucleus of operative fact.** When there is a federal claim, then the plaintiff can bring her state claims *only if* the federal claim and the state claim have a common nucleus of operative fact.
+Supplemental jurisdiction: when federal court has jurisdiction over some claims, it can exercise supplemental Jx over state claims arising from the same case or controversy **if there is a common nucleus of operative fact.** When there is a federal claim, then the plaintiff can bring her state claims *only if* the federal claim and the state claim have a common nucleus of operative fact.
 
 ---
 
@@ -80,8 +80,8 @@ Rules of Decisions Act aka 28 USC 1652
 
 **Tyson v Swift** became the law of the land for really long – courts interpreted “laws of the several states” to mean only statutory law “written law” “codified law” – held that in diversity jurisdiction only statutory law could be read … In 1842 this was a strange way to interpret this because if a fed court was in state jurisdiction and there was a written state law the fed court would use it but if there was no state written law, the fed could devise a law.
 
-- Dv jx – scenario a – in a state where there is a statutory law – fed district court uses it
-- Dv jx – scenario b – no statutory law – fed district court uses common law
+- Dv Jx – scenario a – in a state where there is a statutory law – fed district court uses it
+- Dv Jx – scenario b – no statutory law – fed district court uses common law
 
 So there was a big discrepancy between what could happen in one state or another because if no statute in a state federal district court would use common federal law that was developing. Huge discrepancy in potential outcome of a case. No equal protection of the laws.
 
@@ -95,11 +95,11 @@ Erie v. Tompkins = Railroad v. Person
 
 Tompkins was a resident of PA walking along the road in PA when RR Co. (NY company) passed by, door swinging open, hits Tompkins, severs his arm. Tompkins wanted money damages. For negligence. Tompkins takes it to NY. The law was so different that in NY he was awarded $30K. Erie applies for certiorari (asks supreme court to take the case). When Erie applies for cert it is saying that the rules of the game are unfair, the rules are rigged, because the way that plaintiffs can go forum shopping is unfair, no due process.
 
-Brandeis is looking for a reason to overturn Swift v. Tyler. Interesting that this is 1938 – for a long time there were all sorts of courts doing all sorts of things; this is really a modern rule that has brought us to where we are right now. Federal law no longer rules; not binding authority, but there are lots of ways in which federal 2nd circuit law affects state law, and that is what Erie did; it brought a lot of vertical conformity between courts. Erie doctrine relates to which law is applied by the federal court sitting in divjx.
+Brandeis is looking for a reason to overturn Swift v. Tyler. Interesting that this is 1938 – for a long time there were all sorts of courts doing all sorts of things; this is really a modern rule that has brought us to where we are right now. Federal law no longer rules; not binding authority, but there are lots of ways in which federal 2nd circuit law affects state law, and that is what Erie did; it brought a lot of vertical conformity between courts. Erie doctrine relates to which law is applied by the federal court sitting in DivJx.
 
 - **Rule from Erie:** federal courts are allowed to apply their own rules when it’s procedure, but requires federal court to apply state substantive law.  
 
-Divjx does not have to have any federal claim; it’s when its citizens of different states. Because courts specifically wanted to avoid me being able to drag someone’s ass to ny if I want to sue someone from Texas. In divjx there is no federal claim being raised. Do we go to the state where something happened? Generally, like in the situation in Erie, it’s not in the state where it happened, but the state where the defendant is from (Erie from NY).
+DivJx does not have to have any federal claim; it’s when its citizens of different states. Because courts specifically wanted to avoid me being able to drag someone’s ass to ny if I want to sue someone from Texas. In DivJx there is no federal claim being raised. Do we go to the state where something happened? Generally, like in the situation in Erie, it’s not in the state where it happened, but the state where the defendant is from (Erie from NY).
 
 Q: What state law is considered procedural and which is considered substantive?
 
@@ -140,10 +140,119 @@ Let' s say you're a state court judge – and the case law is unclear. The role 
 
 I think here we have already found that the law is substantive; ask Rosa!!!
 
-Hypo will always start in state law. Hypo will say you are in federal district court in divjx and there is a law that is state law that you want to argue can be applied to your case.
+Hypo will always start in state law. Hypo will say you are in federal district court in DivJx and there is a law that is state law that you want to argue can be applied to your case.
 
 What is the bird balancing test? Ask Rosa.
 
 For next week the case she really wants us to read for Thursday is Worldwide
 
 ---
+
+6-1-21 class notes
+
+Jurisdiction is a moment – doesn’t come up too much in practice, but in the bar exam it’s 90% jurisdiction. It's on the bar exam because it’s easy to test people on. Once you file your case most of what you do is discovery, but the bar exam wants us to learn jurisdiction.
+
+To get a case into fed court, the federal court has to have SMJx.
+
+If $75K does not meet standard. Has to exceed $75K.
+
+A federal court can have Jx over some claims arising from the same case or controversy. a federal court may decline SupPJx over state claims when a) the state claim raises a novel or complex issue of state law, or b) the state claim substantially predominates over federal question claims or c) when the federal claims are dismissed and only state claims remain.
+
+**Hypo**
+
+Gayle lives in NY. Victim of sexual harassment by her boss (title VII). Boss occasionally blocks her from being able to leave the office (NY Civil Law – false imprisonment and battery). For us our best option is SupPJx because Gayle might get damages in both Jx, fed and state. You have to file EEOC within state. Under these facts we'd be able to get her SupPJx.
+
+Clearly (a) is met because there's a complex and novel issue of state law, (b) is met because the state claim substantially predominates, but if Title VII was dismissed we'd be back in state court.
+
+Neither fed nor state has first choice; it’s up to the plaintiff and their attorney which is the best forum and the best venue and its up to the plaintiff where they want to bring their claim; if they go to one venue and they don’t like it they can also ask to move.
+
+Nicholson is an example of when federal court had SupPJx but declined because a novel or complex issue was raised – look at para in Nicholson –
+
+**Personal jurisdiction**
+
+PJx is about whether this forum can host this litigation. PJx is not about whether this is the best forum.
+
+In PJx the big question is due process: can this forum host this litigation? So long as it is compatible with constitutional due process, yes (for example, what’s fair, was there appropriate notice).
+
+NOT REAL RULE (earliest rules of PJx) (this is the rule that came out of pennoyer) (also glossary: consent, in personam, in rem, quasi in rem)
+
+Under the Due Process Clause, a person is only subject to the jurisdiction of a court if (1) the person consents to jurisdiction, (2) the person is served in hand within the forum state (in personam), or in rem (def has property in the forum state and litigation is about the property), or quasi in rem (def has property in the forum state but litigation is not about the property).
+
+Attachment means there is a lean or a conflict – some sort of public process
+
+**Pennoyer v Neff**
+
+The “traditional Test” (current rule): A federal court can exercise PJx over a defendant in a forum where the defendant is domiciled, is present, gives consent or there is a waiver. Must be compatible with constitutional due process.
+
+- Domicile – defendant resides in the forum state
+- Presence – defendant is within the forum state when served
+- Consent – defendant consents to Jx within a specific forum
+- Waiver – defendant appears in action without objection
+- Due process - Must be compatible with constitutional due process (fairness, notice, right to be heard)
+
+DPCWDP = Duh, Pennoyer can’t. why? Due process!
+
+What is consent? Is it express consent? Or is it implied consent? I don’t live here but I do a lot of business here so I consent to state law.
+
+Waiver – if def appears and doesn’t object to Jx they may have waived their right to an objection –
+
+With such clear rules, what could possibly go wrong?
+
+In Pennoyer, courts were trying to make very clear laws, trying to narrowly tailor rules so that the rules wouldn’t be exploited or misapplied, but sometimes if rules are too narrow, too specific, it has the opposite effect where people can exploit laws. You make a rule, you think you’re really clear, but when defendants start playing the game by pretending they live somewhere else.
+
+What about presence? There have been cases where defs have been kidnapped and dragged to the forum state and served. Or people enticed to come into state for prize money then served.
+
+**International Shoe**
+
+Corporation based in St. Louis with 11 to 13 shoe salesmen who live in Washington State and get samples which are one shoe of each pair and get commissions on sales from going door to door –
+
+Para 24 –
+
+If you are benefiting from roads and everything that is in a state and you have activities in the state, you have an obligation to pay taxes in a state.
+
+This is what International Shoe adds: **long-arm jurisdiction**
+
+- Long-arm Jx applies when the defendant is not a resident of the forum state
+- The forum state must have a long-arm statute
+- Must be compatible with constitutional due process
+
+Every state has a long-arm statute now. Basically you can bring a person under PJx of a state if sth ...
+
+**Personal Jurisdiction**
+
+| Traditional basis | OR | Long-arm Jx |
+| Duh, Pennoyer can’t. why? Due process! | --- |	minimum contacts + fair play and substantial justice |
+
+
+Pennoyer morphed into the traditional basis. It’s not gone; you can still have traditional basis – domicile, presence, consent, waiver – but you can *also* have long-arm Jx. When do we employ one and when the other? Completely fact-based analysis.
+
+---
+
+6-3-21 class notes
+
+Most of the cases we are talking about is 14th a because we are usually saying can a state do this here or can fed courts do this here
+
+We learned that the Pennoyer test turned into the “Traditional Test” (domicile, presence, consent, waiver, must be compatible with constitutional due process)
+
+PJx = the court’s power over an individual
+
+Two ways you can get PJx: traditional basis or long arm Jx.
+
+Multiple-choice question  
+
+A pilot from state A brought suit against a librarian from state B, in a single count complaint filed in a federal district court located in state A. The librarian sold the pilot expensive collectible watch through an internet site that generated a valid sales contract. The pilot’s complaint alleges that the librarian breached the contract’s terms because the librarian sold the pilot a watch that materially varied from the description the librarian had provided. The pilot sought $175,000 in damages.
+
+Shortly after selling the watch, the librarian went to state A to vacation with her family. This was the librarian’s first time ever in state A. While visiting the state capitol in state A, the librarian was served with the pilot’s complaint and a summons in accordance with state A law. The librarians lawyer files a motion to dismiss for lack of jurisdiction. Will the court ... SEE SLIDE
+
+
+**Worldwide VW**
+
+The year is 1976. Interstate travel is booming (1959 is when Eisenhower started the interstate). Now novel question is how do we deal with cars, and people moving freely from state to state with cars.
+
+International Shoe was about if you do commerce in a state and benefit from that state you have an obligation to be under that states Jx. Worldwide VW is about ...  
+
+Could the plaintiffs bring the case in NY? yes. Again here we look at which will be the best venue. 
+
+**Asahi Metal Industry Co v superior court of CA Solano County (1987)**
+
+**Burger King Corp v Rudzewicz (1984)**
