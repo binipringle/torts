@@ -12,6 +12,7 @@ toc:
 - World-Wide Volkswagen Corp v Woodson
 - Asahi Metal Industry Co v Superior Court of CA Solano County
 - Burger King Corp v Rudzewicz
+- Piper Aircraft Co v Reyno
 
 ---
 
@@ -141,11 +142,52 @@ ___
 
 ___
 
-Name v. Name Court, year (kind of court)
+## Piper Aircraft Co v Reyno
 
-Issue:
+U.S. Supreme Court, 454 U.S. 235 (1981)
 
-Facts:
+Issue: Whether a change in substantive law is reason not to grant a forum non convenience motion.
+
+Rule: A plaintiff may not defeat a motion to dismiss on grounds of forum non conveniens merely by showing that the substantive law that would be applied in the alternative forum is less favorable to the plaintiffs than that of the present forum.  
+
+Facts: Aircraft twin-engine Piper Aztec was
+
+- manufactured in PA by Piper Aircraft Co.
+- fitted with propellors manufactured in Ohio by Hartzell Propellor Inc.
+- registered in Great Britain
+- owned and maintained in Great Britain by UK-organized Air Navigation and Trading Co. Ltd.
+- operated by UK-organized Scottish air taxi service McDonald Aviation Ltd.
+- crashed in Scotland during flight from Blackpool (England) to Perth (Scotland)
+- flown by Scottish pilot
+- all passsengers were Scottish   
+- wreckage of plane now in hangar in Farnsborough, England
+
+British Dept. of Trade suggested mechanical failure of propellors, and pilot error may have contributed to the accident.
+
+Reyno was administrator of passengers' estates. Sued Piper in CA state court. Case was removed to CA federal court, and then transferred to PA federal district court. Piper and Hartzell moved to dismiss based on forum non convenience. Reyno admitted that was bringing suit in U.S. because laws were more favorable to plaintiffs. Fed district judge ruled that case was overwhelmingly connected to Scotland and should be tried in Scotland.
+
+Reyno appealed. Court of Appeals for the 3rd Circuit reversed, ruling that forum non convenience is inappropriate if the alternative forum's law is less favorable to the plaintiff.
+
+Piper appealed. U.S. Supreme Court granted cert. Issue was whether a change in substantive law precluded a *forum non conveniens* dismissal. Justice Thurgood Marshall writing for the USSC ruled no, a change in substantive law is not enough to preclude a forum non conveniens dismissal.
+
+Reasoning: Because the doctrine of forum non convenience is based primarily on convenience, if trial courts engage in complex comparative law analyses, especially when applying foreign law, it defeats convenience that the doctrine is intended to offer (but whose convenience are we talking about?).
+
+A plaintiff's choice of forum is based on a presumption of legitimacy. This presumption is weakened when the parties who stand to benefit are foreign citizens. If public policy reasons this can be overcome. Private interest factors include (1) access to physical evidence, (2) witnesses, or (3) locations to try the case. Here, private interest factors favored trial in Scotland because
+
+1. the evidence is located in Great Britain
+2. key witnesses are located in Great Britain
+
+Public factors (the case's administrative burden on the court system as opposed to the forum's interest in resolving the case)
+
+1. the accident occurred in Scotland
+2. the victims were Scottish
+3. most parties were English or Scottish
+4. the complexity of the case would impose a heavy burden on an American court (applying both Scottish law and PA law might confuse the jury)
+
+Ruling: Reversed. The U.S. Supreme Court supported the PA district court's dismissal of the motion for forum non convenience.
+
+Dissent: Stevens dissented. He agreed that a forum non convenience should be dismissed because law of the other forum less convenient. He believed however that the case should be returned to the appellate court.
+
 
 I. Uncontested facts:
 
