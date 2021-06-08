@@ -170,7 +170,9 @@ Reyno appealed. Court of Appeals for the 3rd Circuit reversed, ruling that forum
 
 Piper appealed. U.S. Supreme Court granted cert. Issue was whether a change in substantive law precluded a *forum non conveniens* dismissal. Justice Thurgood Marshall writing for the USSC ruled no, a change in substantive law is not enough to preclude a forum non conveniens dismissal.
 
-**Reasoning:** Because the doctrine of forum non convenience is based primarily on convenience, if trial courts engage in complex comparative law analyses, especially when applying foreign law, it defeats convenience that the doctrine is intended to offer (but whose convenience are we talking about?).
+**Reasoning:** Because the doctrine of forum non convenience is based primarily on convenience, if trial courts engage in complex comparative law analyses, especially when applying foreign law, it defeats convenience that the doctrine is intended to offer.
+
+at 58, the opinion state that "It would be far more convenient, however, to resolve all claims in one trial." (whose convenience are we talking about?). 
 
 A plaintiff's choice of forum is based on a presumption of legitimacy. This presumption is weakened when the parties who stand to benefit are foreign citizens. If public policy reasons this can be overcome. Private interest factors include (1) access to physical evidence, (2) witnesses, or (3) locations to try the case. Here, private interest factors favored trial in Scotland because
 
@@ -183,6 +185,10 @@ Public factors (the case's administrative burden on the court system as opposed 
 2. the victims were Scottish
 3. most parties were English or Scottish
 4. the complexity of the case would impose a heavy burden on an American court (applying both Scottish law and PA law might confuse the jury)
+
+Justice Thurgood writes that "The Court of Appeals' approach also poses substantial practical problems [because] at least where the foreign plaintiff named an American manufacturer as defendant, a court could not dismiss the case on grounds of *forum non conveniens* where dismissal might lead to an unfavorable change in law. The American courts, which are already extremely attractive to foreign plaintiffs, would become even more attractive. The flow of litigation into the United States would increase and further congest already crowded courts."
+
+"We do not hold that the possibility of an unfavorable change in law should never be a relevant consideration in a *forum non conveniens* inquiry. Of course, if the remedy provided by the alternative forum is so clearly inadequate or unsatisfactory that it is no remedy at all, the unfavorable change in law may be given substantial weight; the district court may conclude that dismissal would not be in the interests of justice. In these cases, however, the remedies that would be provided by the Scottish courts do not fall within this category"
 
 **Holding:** A change in substantive law alone is not a reason to dismiss a forum non convenience motion.
 
