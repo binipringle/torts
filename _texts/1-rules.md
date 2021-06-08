@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: poem
 title: Rules
 author:
 editor: Sabina Pringle
