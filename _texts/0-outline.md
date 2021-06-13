@@ -17,6 +17,10 @@ toc:
 
 ---
 
+1L student outline based on Civil Procedure taught by Annie Seifullah, CUNY School of Law, Summer 2021.
+
+---
+
 ## I. Rules of Civil Procedure
 
 - {:.indent-3}(a) Federal Rules of Civil Procedure (“FRCP” or “The Rules”)
