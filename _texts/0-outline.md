@@ -10,7 +10,7 @@ toc:
 - III. Subject Matter Jurisdiction
 - IV. Erie Doctrine
 - V. Personal Jurisdiction
-- Removal
+- VI. Removal
 
 ---
 
@@ -138,73 +138,99 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 
 ---
 
-## Removal
+## VI. Removal
 
-a.	Defendant has a right to remove case from state to federal court (vertical movement) within the forum state where the claim was filed if:
-i.	The federal court has (or would have) SMJx over the matter
-ii.	No defendant is a resident of the forum state
--AND-
-iii.	All defendants agree to removal
-b.	Procedure = Def. files a Notice of Removal in District Court (See 28 USC § 1446(a)), then serves notice upon all parties and with the state court. Removal is automatic; state court takes no further action.
-c.	A plaintiff CANNOT remove a case to federal court. This right only resides with Defendant.
+a.	Defendant has a right to remove a case from state to federal court within the forum state where the claim was filed if
+- {:.indent-3}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
+- {:.indent-3}ii. no defendant is a resident of the forum state; and
+- {:.indent-3}iii.	all defendants agree to removal
 
-II.	VENUE (FYI: the most consistently tested rules of Civ Pro on bar exam, only after SMJx + PJx)
-a.	Key concept: venue and forum are different in that venue refers to the specific district, whereas forum refers to the entire state. (i.e. New York is forum; SDNY is venue)
-b.	Venue is proper in any district where:
-i.	Any Defendant resides, so long as all Def’s are resident of forum state
-1.	How is residence determined for venue?
-a.	Domicile = residence AND subjective intent to stay permanently
-b.	For corporation/business/organization, Residence = any district where Def is subject to PJX
-ii.	Where substantial portion of claim occurred
-iii.	Where property connected to the action is located
-iv.	If none above apply (rare), venue is proper In any judicial district where Def is subject to PJx
-(this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis)
-c.	TRANSFER OF VENUE (horizontal movement) (must do this analysis EVEN IF you find venue is proper)
-i.	If venue is improper, the court MUST either:
-1.	Dismiss -OR-
-2.	Transfer to the proper venue if the interest of justice requires it*
-ii.	Even if venue is proper, the court MAY use its discretion to transfer venue if:
-1.	it is needed for the convenience of the parties + convenience of witnesses
--AND- if the interest of justice requires it*
--AND- the action could have been brought in the receiving court  
-2.	OR… DISMISS! When the more appropriate forum is not a U.S. District Court (aka Forum Non Conveniens)
-a.	Courts will apply balancing test between private and public interests
-i.	Private = access to evidence & witnesses, connection of Pl.’s claim to forum, etc.
-ii.	Public = good use of court’s finite resources? multiple sets of laws may confuse jury, local interest in having case heard at home, etc.
-iii.	Not taken into consideration = which forum has more favorable laws for Pl.’s claim
+b.	Procedure for removal: Defendant files a Notice of Removal in District Court (See 28 USC § 1446(a)), then serves notice upon all parties and with the state court. Removal is automatic; state court takes no further action.
 
-III.	SERVICE OF PROCESS AND NOTICE
-a.	Important: Insufficient or defective service of process can result in technical dismissal!  
-b.	Terms that no one ever explains:
-i.	Service simply refers to the delivery of the required documents
-ii.	Process is another name for the summons
-iii.	Notice is what you are trying to accomplish (notifying the Defendant of action)
+c.	A plaintiff **cannot** remove a case to federal court. This right only resides with defendant.
+
+---
+
+## VII. Venue
+
+(Vertical movement)
+
+*Note: venue is the most consistently tested rule of civil procedure on the bar exam, only after SMJx + PJx*
+
+a.	**Venue and forum** are different in that venue refers to the specific district, whereas forum refers to the entire state. (i.e. New York is forum; SDNY is venue)
+
+b.	Venue is proper in any district where
+- {:.indent-3}i.	any defendant resides, so long as all defendants are residents of the forum state.
+- {:.indent-4}1 .	For the purpose of venue, residence is determined as follows:
+- {:.indent-5}a.	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
+- {:.indent-5}b.	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction.
+
+- {:.indent-3}ii.	**And/or (?)** where substantial portion of claim occurred; **and/or (?)**
+
+- {:.indent-3}iii.	**And/or (?)** where property connected to the action is located.
+
+- {:.indent-3}iv.	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
+
+---
+
+## Transfer of venue  
+
+(horizontal movement)
+
+*Must do this analysis even if I find venue is proper*
+
+If venue is improper, the court **must** either (1) transfer to the proper venue if the interest of justice so requires, or (2)	dismiss.
+
+- {:.indent-3}i. Where venue is proper.	Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
+
+- {:.indent-3}ii.	Forum non conveniens. When the more appropriate forum is not a U.S. District Court (aka Forum Non Conveniens), courts will apply a balancing test between private and public interests. (rule from case we read)
+- {:.indent-4}1 .	**Private interests** include access to evidence and witnesses, connection of plaintiff’s claim to forum, etc.
+- {:.indent-4}2 . **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, etc.
+- {:.indent-4}Courts do not take into consideration which forum has more favorable laws for plaintiff's claim (get language from above mentioned case).
+
+## VIII Service of process and notice
+
+a.	**Important: Insufficient or defective service of process can result in technical dismissal**  
+
+b.	Disambiguation of terms:
+- {:.indent-3}i.	**Service** simply refers to the delivery of the required documents
+- {:.indent-3}ii.	**Process** is another name for the summons
+- {:.indent-3}iii.	**Notice** is what you are trying to accomplish (notify the defendant of action)
+
 c.	Must have Summons and Complaint
-i.	Summons notifies the Def. of required details facilitating their right to be heard, including:
-1.	Name the court and the parties
-2.	State the name of plaintiff’s attorney (if there is one)
-3.	State date and time within which def. must appear and/or defend
-4.	Notify the def. that failure to appear or answer will result in a default judgment!
-5.	(For a list of required items, see FRCP 4(a)… FRCP! Wheeeeeeee!!!!)
-ii.	Complaint is the instrument by which a lawsuit is filed (hint: it’s a copy of the lawsuit)
-d.	Service must be made by person at least 18 years old AND not a party to the action.
-e.	Method of service must be consistent with the constitutional requirements of Due Process Clause**  
-i.	Serving an individual
-1.	To the individual personally
-2.	To someone of suitable age + discretion at individual’s current dwelling
-3.	To an authorized agent
-ii.	Serving a corporation, partnership or association
-1.	In accordance with state law of forum state + state where service occurs
-2.	Delivery to an officer or agent of the corporation
-a.	Officer = person in executive role
-b.	Agent = managing or authorized agent
-iii.	Serving a foreign defendant
-1.	By internationally agreed to means
--OR-
-2.	If an international agreement exists -AND- it satisfies constitutional requirements of due process**
-iv.	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
-FRCP! Wheeeeeeee!!!!
-f.	And another thing: the FRCP actually incentivizes parties to accept service and waive their right to object by giving them a longer window to respond.
+- {:.indent-3}i.	A **summons** notifies the defendant of required details facilitating their right to be heard. The summons should
+- {:.indent-4}1 .	Name the court and the parties
+- {:.indent-4}2 .	State the name of plaintiff’s attorney (if there is one)
+- {:.indent-4}3 .	State date and time within which defendent must appear and/or defend
+- {:.indent-4}4 .	Notify the defendant that failure to appear or answer will result in a default judgment
+- {:.indent-4}5 .	For a list of required items, see FRCP 4(a)
 
+- {:.indent-3}ii.	Complaint is the instrument by which a lawsuit is filed (hint: it’s a copy of the lawsuit)
 
-**When analyzing whether the “constitutional requirements of due process” are met service of process hypo, a helpful question to answer is: Was the service of process “reasonably calculated” to notify the defendant of the action and give them an opportunity to object?
+d.	Service must be made by person at least 18 years old who is not a party to the action.
+
+e.	The method of service must be consistent with the constitutional requirements of due process
+- {:.indent-3}i.	Serving an individual
+- {:.indent-4}1 .	To the individual personally
+- {:.indent-4}2 .	To someone of suitable age and discretion at individual’s current dwelling
+- {:.indent-4}3 .	To an authorized agent
+
+- {:.indent-3}ii.	Serving a corporation, partnership or association
+- {:.indent-4}1 .	In accordance with state law of forum state + state where service occurs
+- {:.indent-4}2 .	Delivery to an officer or agent of the corporation
+- {:.indent-5}a.	Officer = person in executive role
+- {:.indent-5}b.	Agent = managing or authorized agent
+
+- {:.indent-3}iii.	Serving a foreign defendant
+- {:.indent-4}1 .	By internationally agreed to means; or
+- {:.indent-4}2 .	If an international agreement exists **and** it satisfies constitutional requirements of due process
+
+- {:.indent-3}iv.	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
+
+**Notes**
+
+The FRCP actually incentivizes parties to accept service and waive their right to object by giving them a longer window to respond.
+
+When analyzing whether the “constitutional requirements of due process” are met service of process hypo, a helpful question to answer is: Was the service of process “reasonably calculated” to notify the defendant of the action and give them an opportunity to object?
+
+---
