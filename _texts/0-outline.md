@@ -77,7 +77,7 @@ toc:
 - {:.indent-4}(4)	Choice of law rules
 - {:.indent-5}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
-- {:.indent-3}(iii)	**Statute of limitations** (SOL) can be procedural or substantiv(e)
+- {:.indent-3}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
 - {:.indent-4}(1)	Where a substantive right is conditioned upon SOL -> substantive
 - {:.indent-4}(2)	Where a substantive right is not conditioned upon SOL -> procedural
 
@@ -86,7 +86,7 @@ toc:
 - {:.indent-3}(i)	The federal court cannot make its own independent judgment on the construction of the law
 - {:.indent-3}(ii)	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue (sometimes called the “Erie educated guess” principle)
 
-[^4]: Some state laws are considered procedural and others are considered substantiv(e) [A federal court can only apply substantive state law, not procedural. When a federal court applies state law, this application is the **vertical** choice of law (between federal and state courts) as opposed to the **horizontal** choice of law (between state courts of different states). This isn't Erie-specific; it's called the Choice of Law doctrine.  
+[^4]: Some state laws are considered procedural and others are considered substantive. A federal court can only apply substantive state law, not procedural. When a federal court applies state law, this application is the **vertical** choice of law (between federal and state courts) as opposed to the **horizontal** choice of law (between state courts of different states). This isn't Erie-specific; it's called the Choice of Law doctrine.  
 
 ---
 
@@ -99,7 +99,7 @@ toc:
 - {:.indent-3}(iii)	**In rem**: defendant has property in forum state, and the litigation is about that property.
 - {:.indent-3}iv.	**Quasi in rem**: defendant has property in the forum state **but** litigation is not about that property **and** court only has Jx up to the value of defendant’s property in the forum state.
 
-(b)	**Current Rule that Matters**
+(b)	**Current rule that matters:**
 
 A federal court has personal jurisdiction based on either of two categories: (i) the **Traditional Basis of jurisdiction** or (ii) **Long-Arm Jurisdiction**.
 
@@ -130,6 +130,7 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 - {:.indent-8}(i)	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
 - {:.indent-8}(ii)	There must be a connection between the forum state and the underlying controversy.
 - {:.indent-9}(1)	Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
+
 - {:.indent-6}(2) The **second prong** is **fair play and substantial justice (“fairness”)**.
 - {:.indent-7}(a) Even if the minimum contacts test is met, it must be fair and reasonable for the defendant to be sued in the forum state, "so as not to offend notions of fair play and substantial justice.”
 - {:.indent-7}(b) The burden is on the defendant to show that it would be unreasonable to defend themselves in the forum state that it would constitute a violation of Due Process.
@@ -160,9 +161,9 @@ Defendant has a right to remove a case from state to federal court within the fo
 
 *Note: venue is the most consistently tested rule of civil procedure on the bar exam, only after SMJx + PJx*
 
-**Venue and forum** are different in that venue refers to the specific district, whereas forum refers to the entire state. (e.g., New York is forum; SDNY is venue).
+(a) **Venue and forum** are different in that venue refers to the specific district, whereas forum refers to the entire state. (e.g., New York is forum; SDNY is venue).
 
-(a) Venue is proper in any district where
+(b) Venue is proper in any district where
 - {:.indent-3}(i)	any defendant resides, so long as all defendants are residents of the forum state.
 - {:.indent-4}(1)	For the purpose of venue, residence is determined as follows:
 - {:.indent-5}(a)	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
@@ -225,7 +226,7 @@ If venue is improper, the court **must** either (1) transfer to the proper venue
 - {:.indent-4}(1)	By internationally agreed to means; or
 - {:.indent-4}(2)	If an international agreement exists **and** it satisfies constitutional requirements of due process
 
-- {:.indent-3}iv.	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
+- {:.indent-3}(iv)	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
 
 **Notes**
 
