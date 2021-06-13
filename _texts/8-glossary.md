@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: narrative
 title: Glossary
 author:
 editor: Sabina Pringle
