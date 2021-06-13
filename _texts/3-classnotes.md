@@ -251,8 +251,156 @@ The year is 1976. Interstate travel is booming (1959 is when Eisenhower started 
 
 International Shoe was about if you do commerce in a state and benefit from that state you have an obligation to be under that states Jx. Worldwide VW is about ...  
 
-Could the plaintiffs bring the case in NY? yes. Again here we look at which will be the best venue. 
+Could the plaintiffs bring the case in NY? yes. Again here we look at which will be the best venue.
 
 **Asahi Metal Industry Co v superior court of CA Solano County (1987)**
 
 **Burger King Corp v Rudzewicz (1984)**
+
+---
+
+6-8-21 class notes
+
+Constitution 5th a due process
+
+90% of the time in this class we are talking about property. You cannot deprive a person of
+
+Procedural vs substantive due process
+
+Procedural
+
+Cannot deprive person of property
+
+Substantive
+
+… SEE SLIDE! It was rather good
+
+Service of process + notice
+
+If a plaintiff brings a case and the
+
+Service = delivery of the required documents
+
+Of
+
+Process = another name for the “summons”
+
++ notice = the goal: to notify the defendant …
+
+Why does it matter
+
+D has constitutional right to be notice
+
+ A complaint is the instrument we use to file a lawsuit
+
+Service of process + notice
+
+Rule 4. Summons
+Must have both the summons and the complaint
+The complaint notifies them of what they are …
+Lots of rules saying how to serve different kinds of parties
+But the important rules – the ones on the bar exam – are how to serve an individual, how to serve a corporation, and how to serve a foreign defendant
+
+How to serve an individual:
+
+Remember these are federal rules (in state rules I can serve by certified mail) but not in all places can you serve by mail
+
+Federal rules
+
+Must be served upon the individual personally
+OR to someone of a suitable age + distretion at individual’s current dwelling
+OR to the individual’s authorized agent (hard to know who the person’s authorized agent is, but if I know who the individual’s attorney is I can say I’m serving you on behalf of your client)
+
+The last rule on this is you can serve to a …
+
+How to serve a corporation:
+
+In accordance with state law of the forum state
+OR laws of state where service occurs
+Delivery to an officer or agent of the corporation
+
+Officer = person in executive role
+Agent = managing agent or authorized agent
+
+How to serve foreign defendant:
+
+By internationally agreed to means
+OR
+According to an international agreement, if one exists AND it satisfies the constitutional requirements of the due process clause
+
+Multiple choice question
+
+An investor from state a filed against state b stockbroket in feed cut in state a … hypo about serving
+
+Jurisdiction
+
+Smjx (fq divjx suppjx) + pjx (trad basis min contacts + fp/sj)
+
+Once a plaintiff takes a complaint and files it in fed court. What happens then? If plaintiff wants to sue in another forum … removal … venue
+
+Part of smjx analysis will funnel into removal
+
+Part of pjx analysis will funnel into venue
+
+Question: can this case move to a different court? Generally q that resides with the defendant
+
+If I’m in state court in ny and I want case to go to fed ct in pa. not possible. But I can move to fed court in ny, vertically, and then request change of venue. Venue transfer is when you are moving from one fed district to another. Can be in same state.
+
+Removal 28 usc § 1441
+
+A procedure by which a defendant can have a case filed against them in state court removed to a federal court
+
+Why do people want to move? Theres a perception that fed courts are more friendly to strangers. Theres an idea that if you go to a fed court in another state they’ll be more friendly to you. State courts are more local.
+
+Fed court is more friendly to corporations, big institutions.
+
+People assume that ny courts are progressive. However a lot of judges who get into ny judicial system come from big money and are quite conservative in the way they practice their jurisprudence, even though they consider themselves liberal/progressive.
+
+RULE: defendant has a right to remove a case from state to federal court within the forum state if: 1 the fed court has smjx AND no defendant is a resident of the forum state.
+
+Removal
+
+How does a defendant remove to fed court?
+
+Defendant files a notice of removal in the district court of the forum where the complaint was filed. (28 usc 1446(a))
+Serves a notice upon all parties plus a copy upon the state court
+Removal is AUTOMATIC!!!
+Judges don’t like it. They have so much resources and they don’t like it when a case suddenly pops into your docket.
+
+Additional items of notes:
+A plaintiff cannot remove a case to fed court. This is a right that resides only in the defenedant
+However plaintiff can motion for remand if the removal was improper
+Practitioner note: fed judges are known to love remanding back to state court
+
+Mpc
+
+Worker farmer
+
+Worker state a
+Worker Sues farmer state b
+State court in state b
+
+Farmer files notice of removal in fed court of state b
+Worker files motion for remand to state court
+
+There was sth wrong w hypo
+
+Venue – protects def against risk of unfair or inconvenient location of litigation and trial
+
+Venue analusis similar to pjx but different in that venue is based on federal judicial district boundaries rather than the geographic boundaries of the forum state
+
+RULE: Venue is proper in any judicial district where
+Any defendant resides in the judicial district AND all defendants are residents of the forum state (for venue analysis, residence is, for individual, domicile [where live and where intend to stay] and for corporation any jx where def is subject to pjx) OR
+Substantial portion of the claims occurred OR
+Property connected to the action is located OR
+If none of the above apply (rare) … than any judicial district where defendant is subject to pjx.
+
+Subjective intent to reside = where a person means to permanently reside. If not in place where lives, go back to where they lived before – it’s a subjective analysis – based on factors –
+
+---
+
+6-10-21 class notes
+
+I seem to have lost my notes for this day. I didn't take many notes. We played jeopardy.
+
+--- 

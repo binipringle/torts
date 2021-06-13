@@ -17,13 +17,15 @@ toc:
 
 ---
 
-1L student outline based on Civil Procedure taught by Annie Seifullah, CUNY School of Law, Summer 2021.
+See [Glossary](https://binipringle.github.io/civilprocedure/texts/8-glossary/) for terms.
+
+See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofcivilprocedure.org/frcp/) for law.
 
 ---
 
 ## I. Rules of Civil Procedure
 
-- {:.indent-3}(a) Federal Rules of Civil Procedure (“FRCP” or “The Rules”)
+- {:.indent-3}(a) Federal Rules of Civil Procedure (FRCP)
 - {:.indent-3}(b) The U.S. Constitution
 - {:.indent-3}(c) United States Treaties
 
