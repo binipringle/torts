@@ -189,6 +189,8 @@ If venue is improper, the court **must** either (1) transfer to the proper venue
 - {:.indent-4}(2) **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, et(c)
 - {:.indent-4}Courts do not take into consideration which forum has more favorable laws for plaintiff's claim (get language from above mentioned case).
 
+---
+
 ## VIII. Service of process and notice
 
 (a)	**Important: Insufficient or defective service of process can result in technical dismissal**  
@@ -227,8 +229,6 @@ If venue is improper, the court **must** either (1) transfer to the proper venue
 - {:.indent-4}(2)	If an international agreement exists **and** it satisfies constitutional requirements of due process
 
 - {:.indent-3}(iv)	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
-
-**Notes**
 
 The FRCP actually incentivizes parties to accept service and waive their right to object by giving them a longer window to respond.
 
