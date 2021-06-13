@@ -23,11 +23,15 @@ toc:
 - {:.indent-3}(b) The U.S. Constitution
 - {:.indent-3}(c) United States Treaties
 
+---
+
 ## II. Basic Jurisdictional Concepts
 
 - {:.indent-3}(a)	Jurisdiction is what gives a court the power to act.
 - {:.indent-3}(b)	Courts must have both subject matter jurisdiction and personal jurisdiction.
-- {:.indent-3}(c)	If there is no jurisdiction, the court has no power to act on the dispute at han(d)
+- {:.indent-3}(c)	If there is no jurisdiction, the court has no power to act on the dispute at hand.
+
+---
 
 ## III. Subject Matter Jurisdiction
 
@@ -54,7 +58,7 @@ toc:
 - {:.indent-7}(i)	Same case or controversy = “common nucleus of operative fact”
 - {:.indent-7}(ii)	In other words, the same transaction or occurrence
 
-[^1]: 28 U.S. Code § 1331 states that "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States." 28 U.S.(c) § 1331 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1331)
+[^1]: 28 U.S. Code § 1331 "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States."
 
 [^2]: 28 U.S.(c) § 1332 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1332)
 
