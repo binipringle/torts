@@ -6,10 +6,10 @@ editor: Sabina Pringle
 source:
 ---
 
-The glossary will go here
+**Forum** refers to the entire state
 
----
+**Venue** refers to the specific district (e.g., New York is forum; SDNY is venue)
 
-- {:.indent-3}                                                                                      [Return to Outline](https://binipringle.github.io/civilprocedure/texts/0-outline/)
+[Return to Outline](https://binipringle.github.io/civilprocedure/texts/0-outline/)
 
 ---
