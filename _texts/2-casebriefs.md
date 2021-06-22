@@ -13,6 +13,7 @@ toc:
 - Asahi Metal Industry Co v Superior Court of CA Solano County
 - Burger King Corp v Rudzewicz
 - Piper Aircraft Co v Reyno
+- Ford Motor Company v Montana Eighth Judicial District Court
 
 ---
 
@@ -172,7 +173,7 @@ Piper appealed. U.S. Supreme Court granted cert. Issue was whether a change in s
 
 **Reasoning:** Because the doctrine of forum non convenience is based primarily on convenience, if trial courts engage in complex comparative law analyses, especially when applying foreign law, it defeats convenience that the doctrine is intended to offer.
 
-at 58, the opinion state that "It would be far more convenient, however, to resolve all claims in one trial." (whose convenience are we talking about?). 
+at 58, the opinion state that "It would be far more convenient, however, to resolve all claims in one trial." (whose convenience are we talking about?).
 
 A plaintiff's choice of forum is based on a presumption of legitimacy. This presumption is weakened when the parties who stand to benefit are foreign citizens. If public policy reasons this can be overcome. Private interest factors include (1) access to physical evidence, (2) witnesses, or (3) locations to try the case. Here, private interest factors favored trial in Scotland because
 
@@ -198,32 +199,20 @@ Justice Thurgood writes that "The Court of Appeals' approach also poses substant
 
 ---
 
-Name v. Name Court, year (kind of court)
+## Twombly
 
-Issue:
+Twombly will go here
 
-Facts:
+---
 
-I. Uncontested facts:
+## Iqbal
 
-II. Appellant NAME’s factual allegations:
+Iqbal will go here
 
-III. Respondent NAME’s factual allegations:
+---
 
-IV. The appellate court’s resolution of the fact:
+## Ford Motor Company v Montana Eighth Judicial District Court
 
-Procedural History:
-
-Court’s Reasoning:
-
-Rule/Law:
-
-Application:
-
-Policy:
-
-Holding:
-
-Disposition:
+Brand new SCOTUS rule: 8-0 ruling (March 25, 2021)
 
 ---
