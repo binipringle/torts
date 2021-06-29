@@ -91,6 +91,7 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 - {:.indent-4}(1)	Where a substantive right is conditioned upon SOL -> substantive
 - {:.indent-4}(2)	Where a substantive right is not conditioned upon SOL -> procedural
 
+*If SOL is substantive, Federal Court applies it. If SOL is procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
 
 (d)	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
 - {:.indent-3}(i)	The federal court cannot make its own independent judgment on the construction of the law
