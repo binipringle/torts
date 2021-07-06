@@ -18,6 +18,12 @@ source:
 
 **Quasi in rem**: defendant has property in the forum state **but** litigation is not about that property **and** court only has Jx up to the value of defendant’s property in the forum state. (vocabulary from *Pennoyer*)
 
+**Service** simply refers to the delivery of the required documents
+
+**Process** is another name for the summons
+
+**Notice** is what you are trying to accomplish (notify the defendant of action)
+
 [Return to Outline](https://binipringle.github.io/civilprocedure/texts/0-outline/)
 
 ---
