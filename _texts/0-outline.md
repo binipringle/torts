@@ -10,10 +10,12 @@ toc:
 - III. Subject Matter Jurisdiction
 - IV. Erie Doctrine
 - V. Personal Jurisdiction
-- VI. Removal
-- VII. Venue
+- VI. Purposeful Availment
+- PJX Analysis Flow
+- VII. Removal
+- VIII. Venue
 - Transfer of venue
-- VIII. Service of process and notice
+- IX. Service of process and notice
 
 ---
 
@@ -84,7 +86,7 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 - {:.indent-4}(1) Claims based in state law
 - {:.indent-4}(2)	Damages
 - {:.indent-4}(3)	Statute of frauds
-- {:.indent-4}(4)	Choice of law rules
+- {:.indent-4}(4)	Choice of law rules (will be triggered in fact pattern; for example, in a contract there could be a clause saying that another state's law applies. I think.)
 - {:.indent-5}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
 - {:.indent-3}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
@@ -103,14 +105,7 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ## V. Personal Jurisdiction
 
-(a)	Vocabulary from **Pennoyer v. Neff** (this case will not be on the bar exam)
-
-- {:.indent-3}(i)	**Consent**: defendant consents to jurisdiction in a specific forum.
-- {:.indent-3}(ii)	**In personam**: defendant is served in hand within the forum state
-- {:.indent-3}(iii)	**In rem**: defendant has property in forum state, and the litigation is about that property.
-- {:.indent-3}iv.	**Quasi in rem**: defendant has property in the forum state **but** litigation is not about that property **and** court only has Jx up to the value of defendant’s property in the forum state.
-
-(b)	**Current rule that matters:**
+**Current rule that matters:**
 
 A federal court has personal jurisdiction based on either of two categories: (i) the **Traditional Basis of jurisdiction** or (ii) **Long-Arm Jurisdiction**.
 
@@ -153,7 +148,55 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 
 ---
 
-## VI. Removal
+## VI. Purposeful Availment
+
+- {:.indent-0}A non-resident defendant is subject to personal jurisdiction when its contacts with the forum state
+- {:.indent-3}(a) demonstrate a purposeful availment of the benefits of the forum state; and
+- {:.indent-3}(b) the cause of action is related to those contacts.
+
+Purposeful availment includes any resources that the state has to offer and that the defendant benefited from using. For example, the use of roads, airports, institutions and police power.
+
+The idea is that if you expected the state to support you while you were interacting with it, then it is fair for you to be brought under its jurisdiction.  
+
+---
+
+## PJX Analysis Flow
+
+1. Where was defendant properly served?
+
+- {:.indent-3}**In forum state?**
+- {:.indent-5}Traditional test (general jurisdiction applies)
+- {:.indent-7}Domicile
+- {:.indent-7}Presence
+- {:.indent-7}Waiver
+- {:.indent-7}Consent
+- {:.indent-5}Under general jurisdiction, claims do not have to arise from or relate to defendant’s contacts with the forum state; defendant can be sued for essentially anything (i.e. courts have personal jurisdiction over defendant generally)
+
+- {:.indent-3}**Not served in forum state?**
+- {:.indent-5}Is d citizen of forum state?
+- {:.indent-7}No
+- {:.indent-9}Does the state have a long arm statute?
+- {:.indent-11}Yes
+- {:.indent-13}Does/did the defendant have minimum contacts with the forum state?
+- {:.indent-13}Even if minimum contacts test was met: was there fair play and substantial justice? (discuss factors and come to conclusion about fairness)
+- {:.indent-15}If both prongs are met, specific jurisdiction.
+- {:.indent-5}There is specific jurisdiction if the plaintiff's claims arise out of or relate to the defendant’s contact with the forum state (i.e. courts have personal jurisdiction over defendant in this specific dispute)
+
+**Watch out** because contacts might be so substantial that the defendant is essentially “at home” in forum state (if at home court has general jurisdiction). “So systematic and continuous that defendant is essentially at home in the forum state”
+
+If the defendant purposefully availed themself of the benefits of the forum state **and** should have anticipated that personal jurisdiction was foreseeable and/or reasonable, only go to purposeful availment analysis.
+
+---
+
+**Brand new SCOTUS rule March 25, 2021**
+
+*Ford Motor Company v. Montana Eighth Judicial District Court*: 8-0 ruling (March 25, 2021)
+
+The Supreme Court, Justice Kagan, held that: (1) due process test for specific personal jurisdiction did not depend on a strict causation-only approach that would ask where the vehicles were originally sold, or where they were designed and manufacture; and (2) manufacturer's substantial business in forum States supported specific personal jurisdiction under due process principles. *Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.*, 141 S. Ct. 1017, 209 L. Ed. 2d 225 (2021).
+
+---
+
+## VII. Removal
 
 Defendant has a right to remove a case from state to federal court within the forum state where the claim was filed if
 - {:.indent-3}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
@@ -166,7 +209,7 @@ Defendant has a right to remove a case from state to federal court within the fo
 
 ---
 
-## VII. Venue
+## VIII. Venue
 
 (Vertical movement)
 
@@ -202,7 +245,7 @@ If venue is improper, the court **must** either (1) transfer to the proper venue
 
 ---
 
-## VIII. Service of process and notice
+## IX. Service of process and notice
 
 (a)	**Important: Insufficient or defective service of process can result in technical dismissal**  
 

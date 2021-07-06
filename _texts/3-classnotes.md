@@ -403,4 +403,237 @@ Subjective intent to reside = where a person means to permanently reside. If not
 
 I seem to have lost my notes for this day. I didn't take many notes. We played jeopardy.
 
---- 
+---
+
+6-10-17 class notes
+
+See also my notes in case simulation claims chart
+
+Email from boss: please conduct an interview with our new potential client …
+
+What you don’t want to do as a lawyer is over-plead; don’t throw in a ton of claims. Also what you want is either a settlement or a jury trial. Federal court trials can be two days; so only file the claims that are most solid – you don’t want to overwhelm the jury. One claim that is unfavored is malicious prosecution. In this case we chose malicious prosecution and it was tricky. If there are too many claims it shows that lawyer doesn’t have a clear theory of the case.
+
+Often it comes down to who tells the best story wins. Who tells the most compelling story wins.
+
+The point too is that the plaintiff has the burden of proof. Every claim you make you are going to have to defend, going to have to
+
+A new world: post-Twombly and Iqbal.
+
+New pleading standard: a claim must be plausible, not merely possible
+
+How does court decide wants plausible? By drawing on its “experience and common sense.”
+
+Michelle’s claims:
+
+42 usc § 1983
+
+- Unreasonable seizure (unlawful arrest)
+- Monell claim: unconstitutional custom, practice or policy  (monell doctrine brougjt in through 1983 – has to do w holding a municipality/city responsible for the actions of their officers) here we are going to try to prove that
+- Monell claim: failure to train – officers not prepared to verify digital evidence. Not trained in digital forensics
+- False Imprisonment
+- Malicious prosecution
+- Intentional infliction of emotional distress
+
+Timelinr
+
+- 2019-10-28 Michelle and Ian met
+- 2019-12-23 Ian moved into condo
+- 2020-10-2 Michelle moved out and went to her parents
+- 2020-12-8 Michelle found out about Angela
+- 2020-12-12 signed settlement agreement
+- 2021-1-14 PD showed up and inspected M’s phone
+- 2021-2-9 M arrested
+- 2021-5-15 M let out of prison (note she said 90 days but we counted 88 days)
+
+Really short notice of claim period in this type of claim – each claim has its own statute of limitations.
+
+Even though we haven’t taken torts yet, intentional infliction of emotional distress usu has a one year statute of limitations – although there are extensions after discovery – the substantive claim part is super important but not what we’re looking at in this class.
+
+Drops document in chat: outline of complaint
+
+AS had convo with M’s real estate attny sarah sneedy. She is horrified about what happened. She will send over case file immediately so that we can review the settlement agreement.
+Usu a settlement agreement is a dual waiver of claims. We want to see if the settlement agreement waiver was overbroad and would preclude real estate lawyer from suing in civil court
+
+Also spoke with criminal defense attny mike musty. Seemed disinterested and in a rush. Said he “couldn’t remember” details of what led to m’s exoneration needed to look at his notes. There was sth “exculpatory” on her devices. Will send file over.
+
+Often crim defense attnys don’t want to get involved in civil rights scuffles with anheim pd because he is in court all the time against anheim pd. Mike did a good job. He got m out of jail.
+
+Can we argue that m signed settlement agreement out of duress? Yes! If settlement agreement not good for her we should see how we can wiggle out, prove that settlement agreement not enforceable.
+
+As made a table for each claim. Claim: 42 usc § 1983, unreasonable seizure of a person
+Against: individual detective/s or officers involved
+
+Elements: what we know/have (attribution:	what do we need? What would be helpful?
+
+Angela Sandiego has been arrested. Pled guilty to false police reports and fabricating evidence. Detective skunha found surveillance footage which showed that no on came to the condo on the da a and I claimed that attempted rape happened. Search warrant results on the threatening emails revealed the ip address of the condo where sandiegos wehre living. Ian sandiego is not arrested da wont say whether ian under investigation.
+
+TAKE A BREAK
+
+GET NEW RULE FOR PJX FROM SLIDES
+
+When def definitely not a res of a state and don’t do substantia.l business
+
+New rule “purposeful availment”
+
+Purposeful availment part of fairness standard of minimum contacts. If you come and avail yourself of the resources of a state – Saturday night live; protection by state police if you are robbed; if someone goes to a state and has a significant contact with the forum state and expect state to protect you and take all benefits of forum state
+
+---
+
+6-22-21 class notes
+
+How to survive a 12(b)(6)
+
+Wtf are the rules
+
+Rules tested on bar exam are settled law
+
+Organization (or “flow”) and exact wording of rules varies depending on your source.
+
+PJX analysis flow
+
+Where was d properly served?
+
+In forum state?
+
+- Traditional test (general jx applies)
+- Domicile
+- Presence 
+- Waiver
+- Consent
+
+General jurisdiction: claims do not have to arise from or relate to d’s contacts with forum state – d can be sued for essentiall y anything (i.e. courts have pjx over d generally)
+
+Not served in forum state?
+Is d citizen of forum state?
+No > long arm statute?
+Yes > minimum contacts? + fair play/substantial justice? (discuss factors and come to conclusion about fairness)
+Specific jurisdiction > ps claims arise out of or relate to the d’s contact with the forum state (i.e. courts have pjx over d in this specific dispute)
+
+Watch out because contacts might be so substantial that the d is essentially “at home” in forum state (if at home court has general jurisdiction)  “so systematic and continuous that d is essentially at home in the forum state”
+
+The d purposefully availed itself to the benefits of the forum state AND should have anticipated that pjx was foreseea2e/reasonable (only go to purposeful availment analysis).
+
+Brand new SCOTUS rule March 25, 2021
+
+Ford Motor Company v. Montana Eighth Judicial District Court: 8-0 ruling (March 25, 2021)
+
+---
+
+Case simulation
+
+Todays goal is developing a COMPLAINT that will overcome the anticipated 12b6 motion to dismiss on the merits.
+Every element of every claim must be not just possible but plausible to a judge
+How does a judge decide? Common sense and good judgment
+
+What are michelles claims?
+
+- 42 usc sec 1983
+- Monell claim: unconstitutional custom, practice or policy
+- Monell claim: failure to train
+- False imprisonment
+- Malicious prosecution
+- Intentional infliction of emotional distress
+
+Rule 11: signing pleadings, motions and other papers; representations to the court; sanctions
+
+https://www.federalrulesofcivilprocedure.org/frcp/title-iii-pleadings-and-motions/rule-11-signing-pleadings-motions-and-other-papers-representations-to-the-court-sanctions/
+
+Rule 11(b) really important –
+
+After that a really useful rule is rule 15 – amended and supplemental pleadings
+
+https://www.federalrulesofcivilprocedure.org/frcp/title-iii-pleadings-and-motions/rule-15-amended-and-supplemental-pleadings/
+
+we get over the motion to dismiss and when we get through discovery if we discover new facts we can amend the complaint
+
+think like an investigative journalist. Q: what information is potentially available to us pre-discovery that we can use to make our claims more plausible in order to survive mtd 12(b)(6)
+
+sequence of case:
+
+angela sandiego plead guilty to crimes relating to the wrongful conviction and confinement of michelle. before angela plead guilty, there was a preliminary hearing against a in which the pd shared testimony re investigation behind people v angela sandiego. detective skunha testified over four days and we have over 400 pages of transcripts detailing his testimony. we asked our junior associate, Julie junior, to read carefully through these transcripts and provide an accounting of detective skunha testimony that might be useful for us.
+
+we have acquired the therapy notes from michelle’s psychotherapist
+
+we can ask for any info publicly available re cops – social media
+
+- social media on cops
+- detectives search warrant when they went to michelle’s house
+- copy of our criminal’s case file
+- copy of all affidavits and briefs, dockets in people v. angela sandiego
+- linkedin info of people who just left da – see if they will testify
+- policy manuals of police searches
+- our clients real estate docs
+- affidavits from michelle’s parents
+
+---
+
+6-29-21 class notes
+
+What would you say to someone who asks “why didn’t you just leave?”
+
+A: He threatened to “turn it on me” if I ever tried to get an order of protection.
+I didn’t want to leave my condo, my home. He had guns. Three he kept in his house.
+Something else (see slides)
+
+The theory of the case that we think is plausible: there was some level of collusion between ian sandiego and the Anaheim defendants on account of him being a law enforcement officer
+
+We know sandiego and skunha met in Disneyland but that was after a lot happened
+
+Rita calls people she know to give her insight into law enforcement culture: A former nypd officer now distinguished anti discrim attny; Her cousin who works for slc pd (trump supporter); Her law school classmate, retired nypd; Her friend’s dad, retired lapd.
+
+Q: is my theory plausible?
+A: hell. Yes.
+
+Rule 11: where court asking if plausible – if reasonable inquiry
+
+We read the complaint
+Another memo
+And a slide on a clause in the property agreement whereby michelle can’t sue other parties yikes eek
+
+Defenses
+
+FRCP 8 (c ) Affirmative Defenses
+
+This is the go-to for defendants. They don’t have to state any facts. They can say yes we did that but we have qualified immunity or there’s another reason why we’re not liable
+
+- Accord and satisfaction;
+- Arbitration and award;
+- Assumption of risk;
+- Contributory negligence;
+- Duress
+- Estoppel
+- Failure of consideration
+- Fraud
+- Illegality
+- Injury by fellow servant
+- Laches
+- License
+- Payment
+- Release
+- Res judicata
+- Statute of frauds
+- Statute of limitations
+- Waiver
+
+Rules for bar exam
+
+- Claim preclusion (res judicata)
+- Issue preclusion (collateral estoppel)
+
+“double jeopardy for civil trials”
+
+Magic words: was it dismissed … With prejudice? Without prejudice?
+
+Affirmative defenses – most important ones for practice:
+
+Statute of limitations
+
+- Look for a tolling provision (timing stops temporarily) or a statutory exception
+
+Release
+
+- A plaintiff might have given up their right to file a lawsuit and not even know it
+- Arbitration agreements
+- General release provisions
+
+For example, arbitration clause in a work contract (you can’t sue employer; have to take dispute to arbitration);
