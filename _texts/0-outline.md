@@ -27,44 +27,45 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ## I. Rules of Civil Procedure
 
-- {:.indent-3}(a) Federal Rules of Civil Procedure (FRCP)
-- {:.indent-3}(b) The U.S. Constitution
-- {:.indent-3}(c) United States Treaties
+- {:.indent-3}Federal Rules of Civil Procedure (FRCP)
+- {:.indent-3}The U.S. Constitution
+- {:.indent-3}United States Treaties
 
 ---
 
 ## II. Basic Jurisdictional Concepts
 
-- {:.indent-3}(a)	Jurisdiction is what gives a court the power to act.
-- {:.indent-3}(b)	Courts must have both subject matter jurisdiction and personal jurisdiction.
-- {:.indent-3}(c)	If there is no jurisdiction, the court has no power to act on the dispute at hand.
+- {:.indent-3}Jurisdiction is what gives a court the power to act.
+- {:.indent-3}Courts must have both subject matter jurisdiction and personal jurisdiction.
+- {:.indent-3}If there is no jurisdiction, the court has no power to act on the dispute at hand.
 
 ---
 
 ## III. Subject Matter Jurisdiction
 
-(a) Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
+Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
 
-- {:.indent-3}(i) **Subject Matter Jurisdiction in Federal Courts**
+- {:.indent-3}**Subject Matter Jurisdiction in Federal Courts**
 - {:.indent-3}A federal court has SMJx if the claim meets at least one of the following requirements:
 
-- {:.indent-5}(1) **Federal Question** (28 USC § 1331 [^1])
-- {:.indent-6}(a)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
-- {:.indent-6}(b)	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
+- {:.indent-5}(1) **Federal Question** 28 USC § 1331 [^1]
+- {:.indent-7}(a)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
+- {:.indent-7}(b)	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
 
-- {:.indent-5}(2)	**Diversity Jurisdiction (DivJx)** (28 USC § 1332 [^2])
-- {:.indent-6}(a)	There must be complete diversity of citizenship among all parties
-- {:.indent-7}(i)	“Citizenship”
-- {:.indent-8}(1)	For persons = residence
-- {:.indent-8}(2)	For corporations = place of primary business **OR** where it is incorporated
-- {:.indent-7}(ii)	“Among all parties”
-- {:.indent-8}(1)	No plaintiff can be from the same state as any defendant.
-- {:.indent-6}(b)	**AND** the amount in Controversy must exceed $75K
+- {:.indent-5}(2)	**Diversity Jurisdiction (DivJx)** 28 USC § 1332 [^2]
+- {:.indent-7}(a)	There must be complete diversity of citizenship among all parties
+- {:.indent-9}(i)	“Citizenship”
+- {:.indent-11}(1)	For persons = residence
+- {:.indent-11}(2)	For corporations = place of primary business **OR** where it is incorporated
+- {:.indent-9}(ii)	“Among all parties”
+- {:.indent-11}(1)	No plaintiff can be from the same state as any defendant.
+- {:.indent-7}(b)	**AND** the amount in Controversy must exceed $75K
 
-- {:.indent-5}(3)	**Supplemental Jurisdiction (SuppJx)** (28 USC § 1367 [^3])
-- {:.indent-6}(a)	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
-- {:.indent-7}(i)	Same case or controversy = “common nucleus of operative fact”
-- {:.indent-7}(ii)	In other words, the same transaction or occurrence
+- {:.indent-5}**Supplemental Jurisdiction (SuppJx)** 28 USC § 1367 [^3]
+- {:.indent-5}Supplemental jurisdiction is the authority of federal courts to hear additional claims substantially related to the original claim even though the court would lack the subject-matter jurisdiction to hear the additional claims independently.
+- {:.indent-7}(a)	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
+- {:.indent-9}(i)	Same case or controversy = “common nucleus of operative fact”
+- {:.indent-9}(ii)	In other words, the same transaction or occurrence
 
 [^1]: 28 U.S. Code § 1331 "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States."
 
@@ -76,22 +77,22 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ## IV. Erie Doctrine
 
-(a) The Erie Doctrine relates to which law is applied by the federal court **sitting in Diversity Jurisdiction.** The Erie Doctrine allows the federal court to apply its own procedural laws but requires the court to apply state substantive law. [^4] A federal court cannot apply state procedural laws. The following are some high frequency examples of procedural and substantive laws:
+The Erie Doctrine relates to which law is applied by the federal court **sitting in Diversity Jurisdiction.** The Erie Doctrine allows the federal court to apply its own procedural laws but requires the court to apply state substantive law. [^4] A federal court cannot apply state procedural laws. The following are some high frequency examples of procedural and substantive laws:
 
 - {:.indent-3}(i)	**Procedural laws**
-- {:.indent-4}(1)	Civil procedure rules
-- {:.indent-4}(2)	Burden of proof standards
+- {:.indent-5}(1) Civil procedure rules
+- {:.indent-5}(2) Burden of proof standards
 
 - {:.indent-3}(ii)	**Substantive laws**
-- {:.indent-4}(1) Claims based in state law
-- {:.indent-4}(2)	Damages
-- {:.indent-4}(3)	Statute of frauds
-- {:.indent-4}(4)	Choice of law rules (will be triggered in fact pattern; for example, in a contract there could be a clause saying that another state's law applies. I think.)
-- {:.indent-5}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
+- {:.indent-5}(1) Claims based in state law
+- {:.indent-5}(2)	Damages
+- {:.indent-5}(3)	Statute of frauds
+- {:.indent-5}(4)	Choice of law rules (will be triggered in fact pattern; for example, in a contract there could be a clause saying that another state's law applies. I think.)
+- {:.indent-7}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
 - {:.indent-3}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
-- {:.indent-4}(1)	Where a substantive right is conditioned upon SOL -> substantive
-- {:.indent-4}(2)	Where a substantive right is not conditioned upon SOL -> procedural
+- {:.indent-5}(1)	Where a substantive right is conditioned upon SOL -> substantive
+- {:.indent-5}(2)	Where a substantive right is not conditioned upon SOL -> procedural
 
 *If SOL is substantive, Federal Court applies it. If SOL is procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
 
@@ -110,41 +111,41 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 A federal court has personal jurisdiction based on either of two categories: (i) the **Traditional Basis of jurisdiction** or (ii) **Long-Arm Jurisdiction**.
 
 - {:.indent-3}(i)	**Traditional Basis of Personal Jurisdiction** (over defendant)
-- {:.indent-4}(1)	Domicile (where defendant resides); or
-- {:.indent-4}(2)	Presence in the state when served; or
-- {:.indent-4}(3)	Consent (defendant consents to jurisdiction in a specific forum); or
-- {:.indent-4}(4)	Waiver (by not objecting defendant waives right to object).
-- {:.indent-4}(5)	**Any of these** must meet the constitutional requirement of due process.
+- {:.indent-5}(1)	Domicile (where defendant resides); or
+- {:.indent-5}(2)	Presence in the state when served; or
+- {:.indent-5}(3)	Consent (defendant consents to jurisdiction in a specific forum); or
+- {:.indent-5}(4)	Waiver (by not objecting defendant waives right to object).
+- {:.indent-5}(5)	**Any of these** must meet the constitutional requirement of due process.
 
 - {:.indent-3}(ii)	**Long-Arm Jurisdiction**
-- {:.indent-4}(1)	Applies when defendant is not a resident of the forum state; **and**
-- {:.indent-4}(2)	the forum state must have a long-arm statute; **and**
-- {:.indent-4}(3)[the claim] must meet the constitutional requirement for due process.*
+- {:.indent-5}(1)	Applies when defendant is not a resident of the forum state; **and**
+- {:.indent-5}(2)	the forum state must have a long-arm statute; **and**
+- {:.indent-5}(3)[the claim] must meet the constitutional requirement for due process.*
 
-- {:.indent-5}(a) **Two Prongs**. The constitutional requirement for due process has two prongs. These are (1) minimum contacts and (2) fair play and substantial justice To satisfy the constitutional requirement for due process, both prongs must be satisfied.  
+- {:.indent-3}**Two Prongs**. The constitutional requirement for due process has two prongs. These are (1) minimum contacts and (2) fair play and substantial justice To satisfy the constitutional requirement for due process, both prongs must be satisfied.  
 
-- {:.indent-6}(1) The **first prong** is **minimum contacts** (“contacts and relatedness”). Sufficient minimum contacts exist when there is either general jurisdiction or specific jurisdiction.
+- {:.indent-5}(1) The **first prong** is **minimum contacts** (“contacts and relatedness”). Sufficient minimum contacts exist when there is either general jurisdiction or specific jurisdiction.
 
 - {:.indent-7}(a)	**General jurisdiction**
-- {:.indent-8}(i)	Exists when the defendant’s contacts with the forum state are so substantial and of such a nature that the defendant is essentially at home in the state
-- {:.indent-8}(ii)	Claim does not need to relate to or arise from the defendant’s contacts with the forum state.
-- {:.indent-8}(iii)	Defendant must be a citizen of the forum state for general jurisdiction to apply.
-- {:.indent-8}(1)	If the defendant is a natural person, they must be domiciled in the forum state.
-- {:.indent-8}(2)	If the defendant is a corporation, it must be “at home” in the forum state.
+- {:.indent-9}(i)	Exists when the defendant’s contacts with the forum state are so substantial and of such a nature that the defendant is essentially at home in the state
+- {:.indent-9}(ii)	Claim does not need to relate to or arise from the defendant’s contacts with the forum state.
+- {:.indent-9}(iii)	Defendant must be a citizen of the forum state for general jurisdiction to apply.
+- {:.indent-9}(1)	If the defendant is a natural person, they must be domiciled in the forum state.
+- {:.indent-9}(2)	If the defendant is a corporation, it must be “at home” in the forum state.
 
 - {:.indent-7}(b)	**Specific jurisdiction**
-- {:.indent-8}(i)	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
-- {:.indent-8}(ii)	There must be a connection between the forum state and the underlying controversy.
-- {:.indent-9}(1)	Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
+- {:.indent-9}(i)	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
+- {:.indent-9}(ii)	There must be a connection between the forum state and the underlying controversy.
+- {:.indent-11}Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
 
-- {:.indent-6}(2) The **second prong** is **fair play and substantial justice (“fairness”)**.
+- {:.indent-5}(2) The **second prong** is **fair play and substantial justice (“fairness”)**.
 - {:.indent-7}(a) Even if the minimum contacts test is met, it must be fair and reasonable for the defendant to be sued in the forum state, "so as not to offend notions of fair play and substantial justice.”
 - {:.indent-7}(b) The burden is on the defendant to show that it would be unreasonable to defend themselves in the forum state that it would constitute a violation of Due Process.
-- {:.indent-8}(i) When calculating burden on defendant, a court will consider
-- {:.indent-9}(1) the burden on the defendant of litigating in the forum state; and
-- {:.indent-9}(2) the state’s interest in providing a forum; and
-- {:.indent-9}(3) the plaintiff’s interest in a convenient forum; and
-- {:.indent-9}(4) the interest of the judicial system to efficiently resolve disputes.
+- {:.indent-9}(i) When calculating burden on defendant, a court will consider
+- {:.indent-11}(1) the burden on the defendant of litigating in the forum state; and
+- {:.indent-11}(2) the state’s interest in providing a forum; and
+- {:.indent-11}(3) the plaintiff’s interest in a convenient forum; and
+- {:.indent-11}(4) the interest of the judicial system to efficiently resolve disputes.
 
 ---
 
@@ -157,6 +158,14 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 Purposeful availment includes any resources that the state has to offer and that the defendant benefited from using. For example, the use of roads, airports, institutions and police power.
 
 The idea is that if you expected the state to support you while you were interacting with it, then it is fair for you to be brought under its jurisdiction.  
+
+---
+
+**Brand new SCOTUS rule March 25, 2021**
+
+*Ford Motor Company v. Montana Eighth Judicial District Court*: 8-0 ruling (March 25, 2021)
+
+The Supreme Court, Justice Kagan, held that: (1) due process test for specific personal jurisdiction did not depend on a strict causation-only approach that would ask where the vehicles were originally sold, or where they were designed and manufacture; and (2) manufacturer's substantial business in forum States supported specific personal jurisdiction under due process principles. *Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.*, 141 S. Ct. 1017, 209 L. Ed. 2d 225 (2021).
 
 ---
 
@@ -185,14 +194,6 @@ The idea is that if you expected the state to support you while you were interac
 **Watch out** because contacts might be so substantial that the defendant is essentially “at home” in forum state (if at home court has general jurisdiction). “So systematic and continuous that defendant is essentially at home in the forum state”
 
 If the defendant purposefully availed themself of the benefits of the forum state **and** should have anticipated that personal jurisdiction was foreseeable and/or reasonable, only go to purposeful availment analysis.
-
----
-
-**Brand new SCOTUS rule March 25, 2021**
-
-*Ford Motor Company v. Montana Eighth Judicial District Court*: 8-0 ruling (March 25, 2021)
-
-The Supreme Court, Justice Kagan, held that: (1) due process test for specific personal jurisdiction did not depend on a strict causation-only approach that would ask where the vehicles were originally sold, or where they were designed and manufacture; and (2) manufacturer's substantial business in forum States supported specific personal jurisdiction under due process principles. *Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.*, 141 S. Ct. 1017, 209 L. Ed. 2d 225 (2021).
 
 ---
 
