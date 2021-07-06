@@ -146,6 +146,8 @@ What is the bird balancing test? Ask Rosa.
 
 For next week the case she really wants us to read for Thursday is Worldwide
 
+[Back to Erie Doctrine in Outline](https://binipringle.github.io/civilprocedure/texts/0-outline/#iv-erie-doctrine)
+
 ---
 
 6-1-21 class notes
@@ -497,7 +499,7 @@ In forum state?
 
 - Traditional test (general jx applies)
 - Domicile
-- Presence 
+- Presence
 - Waiver
 - Consent
 

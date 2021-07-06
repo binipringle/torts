@@ -46,11 +46,11 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
 
 - {:.indent-2}**Subject Matter Jurisdiction in Federal Courts**
-- {:.indent-2}A federal court has SMJx if the claim meets at least one of the following requirements:
+- {:.indent-2}(a) A federal court has SMJx if the claim meets at least one of the following requirements:
 
 - {:.indent-3}(1) **Federal Question** 28 USC § 1331 [^1]
-- {:.indent-5}(a)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
-- {:.indent-5}(b)	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
+- {:.indent-5}(i)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
+- {:.indent-5}(ii)	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
 
 - {:.indent-3}(2)	**Diversity Jurisdiction (DivJx)** 28 USC § 1332 [^2]
 - {:.indent-5}(a)	There must be complete diversity of citizenship among all parties
@@ -59,7 +59,7 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-9}(2)	for corporations, place of primary business **OR** where it is incorporated
 - {:.indent-7}(ii)	“Among all parties”
 - {:.indent-9}(1)	No plaintiff can be from the same state as any defendant; **and**
-- {:.indent-7}(b)	the amount in Controversy must exceed $75K
+- {:.indent-9}(2)	the amount in Controversy must exceed $75K
 
 - {:.indent-3}**Supplemental Jurisdiction (SuppJx)** 28 USC § 1367 [^3]
 - {:.indent-3}(a) Supplemental jurisdiction is the authority of federal courts to hear additional claims substantially related to the original claim even though the court would lack the subject-matter jurisdiction to hear the additional claims independently.
