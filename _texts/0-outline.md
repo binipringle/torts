@@ -27,17 +27,17 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ## I. Rules of Civil Procedure
 
-- {:.indent-3}Federal Rules of Civil Procedure (FRCP)
-- {:.indent-3}The U.S. Constitution
-- {:.indent-3}United States Treaties
+- {:.indent-2}Federal Rules of Civil Procedure (FRCP)
+- {:.indent-2}The U.S. Constitution
+- {:.indent-2}United States Treaties
 
 ---
 
 ## II. Basic Jurisdictional Concepts
 
-- {:.indent-3}Jurisdiction is what gives a court the power to act.
-- {:.indent-3}Courts must have both subject matter jurisdiction and personal jurisdiction.
-- {:.indent-3}If there is no jurisdiction, the court has no power to act on the dispute at hand.
+- {:.indent-2}Jurisdiction is what gives a court the power to act.
+- {:.indent-2}Courts must have both subject matter jurisdiction and personal jurisdiction.
+- {:.indent-2}If there is no jurisdiction, the court has no power to act on the dispute at hand.
 
 ---
 
@@ -45,8 +45,8 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
 
-- {:.indent-3}**Subject Matter Jurisdiction in Federal Courts**
-- {:.indent-3}A federal court has SMJx if the claim meets at least one of the following requirements:
+- {:.indent-2}**Subject Matter Jurisdiction in Federal Courts**
+- {:.indent-2}A federal court has SMJx if the claim meets at least one of the following requirements:
 
 - {:.indent-5}(1) **Federal Question** 28 USC § 1331 [^1]
 - {:.indent-7}(a)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
@@ -55,10 +55,10 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-5}(2)	**Diversity Jurisdiction (DivJx)** 28 USC § 1332 [^2]
 - {:.indent-7}(a)	There must be complete diversity of citizenship among all parties
 - {:.indent-9}(i)	“Citizenship”
-- {:.indent-11}(1)	For persons = residence
-- {:.indent-11}(2)	For corporations = place of primary business **OR** where it is incorporated
+- {:.indent-9}(1)	For persons = residence
+- {:.indent-9}(2)	For corporations = place of primary business **OR** where it is incorporated
 - {:.indent-9}(ii)	“Among all parties”
-- {:.indent-11}(1)	No plaintiff can be from the same state as any defendant.
+- {:.indent-9}(1)	No plaintiff can be from the same state as any defendant.
 - {:.indent-7}(b)	**AND** the amount in Controversy must exceed $75K
 
 - {:.indent-5}**Supplemental Jurisdiction (SuppJx)** 28 USC § 1367 [^3]
@@ -79,26 +79,26 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 
 The Erie Doctrine relates to which law is applied by the federal court **sitting in Diversity Jurisdiction.** The Erie Doctrine allows the federal court to apply its own procedural laws but requires the court to apply state substantive law. [^4] A federal court cannot apply state procedural laws. The following are some high frequency examples of procedural and substantive laws:
 
-- {:.indent-3}(i)	**Procedural laws**
+- {:.indent-2}(i)	**Procedural laws**
 - {:.indent-5}(1) Civil procedure rules
 - {:.indent-5}(2) Burden of proof standards
 
-- {:.indent-3}(ii)	**Substantive laws**
+- {:.indent-2}(ii)	**Substantive laws**
 - {:.indent-5}(1) Claims based in state law
 - {:.indent-5}(2)	Damages
 - {:.indent-5}(3)	Statute of frauds
 - {:.indent-5}(4)	Choice of law rules (will be triggered in fact pattern; for example, in a contract there could be a clause saying that another state's law applies. I think.)
 - {:.indent-7}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
-- {:.indent-3}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
+- {:.indent-2}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
 - {:.indent-5}(1)	Where a substantive right is conditioned upon SOL -> substantive
 - {:.indent-5}(2)	Where a substantive right is not conditioned upon SOL -> procedural
 
 *If SOL is substantive, Federal Court applies it. If SOL is procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
 
 (d)	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
-- {:.indent-3}(i)	The federal court cannot make its own independent judgment on the construction of the law
-- {:.indent-3}(ii)	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue (sometimes called the “Erie educated guess” principle)
+- {:.indent-2}(i)	The federal court cannot make its own independent judgment on the construction of the law
+- {:.indent-2}(ii)	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue (sometimes called the “Erie educated guess” principle)
 
 [^4]: Some state laws are considered procedural and others are considered substantive. A federal court can only apply substantive state law, not procedural. When a federal court applies state law, this application is the **vertical** choice of law (between federal and state courts) as opposed to the **horizontal** choice of law (between state courts of different states). This isn't Erie-specific; it's called the Choice of Law doctrine.  
 
@@ -110,19 +110,19 @@ The Erie Doctrine relates to which law is applied by the federal court **sitting
 
 A federal court has personal jurisdiction based on either of two categories: (i) the **Traditional Basis of jurisdiction** or (ii) **Long-Arm Jurisdiction**.
 
-- {:.indent-3}(i)	**Traditional Basis of Personal Jurisdiction** (over defendant)
+- {:.indent-2}(i)	**Traditional Basis of Personal Jurisdiction** (over defendant)
 - {:.indent-5}(1)	Domicile (where defendant resides); or
 - {:.indent-5}(2)	Presence in the state when served; or
 - {:.indent-5}(3)	Consent (defendant consents to jurisdiction in a specific forum); or
 - {:.indent-5}(4)	Waiver (by not objecting defendant waives right to object).
 - {:.indent-5}(5)	**Any of these** must meet the constitutional requirement of due process.
 
-- {:.indent-3}(ii)	**Long-Arm Jurisdiction**
+- {:.indent-2}(ii)	**Long-Arm Jurisdiction**
 - {:.indent-5}(1)	Applies when defendant is not a resident of the forum state; **and**
 - {:.indent-5}(2)	the forum state must have a long-arm statute; **and**
 - {:.indent-5}(3)[the claim] must meet the constitutional requirement for due process.*
 
-- {:.indent-3}**Two Prongs**. The constitutional requirement for due process has two prongs. These are (1) minimum contacts and (2) fair play and substantial justice To satisfy the constitutional requirement for due process, both prongs must be satisfied.  
+- {:.indent-2}**Two Prongs**. The constitutional requirement for due process has two prongs. These are (1) minimum contacts and (2) fair play and substantial justice To satisfy the constitutional requirement for due process, both prongs must be satisfied.  
 
 - {:.indent-5}(1) The **first prong** is **minimum contacts** (“contacts and relatedness”). Sufficient minimum contacts exist when there is either general jurisdiction or specific jurisdiction.
 
@@ -136,24 +136,24 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 - {:.indent-7}(b)	**Specific jurisdiction**
 - {:.indent-9}(i)	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
 - {:.indent-9}(ii)	There must be a connection between the forum state and the underlying controversy.
-- {:.indent-11}Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
+- {:.indent-9}Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
 
 - {:.indent-5}(2) The **second prong** is **fair play and substantial justice (“fairness”)**.
 - {:.indent-7}(a) Even if the minimum contacts test is met, it must be fair and reasonable for the defendant to be sued in the forum state, "so as not to offend notions of fair play and substantial justice.”
 - {:.indent-7}(b) The burden is on the defendant to show that it would be unreasonable to defend themselves in the forum state that it would constitute a violation of Due Process.
 - {:.indent-9}(i) When calculating burden on defendant, a court will consider
-- {:.indent-11}(1) the burden on the defendant of litigating in the forum state; and
-- {:.indent-11}(2) the state’s interest in providing a forum; and
-- {:.indent-11}(3) the plaintiff’s interest in a convenient forum; and
-- {:.indent-11}(4) the interest of the judicial system to efficiently resolve disputes.
+- {:.indent-9}(1) the burden on the defendant of litigating in the forum state; and
+- {:.indent-9}(2) the state’s interest in providing a forum; and
+- {:.indent-9}(3) the plaintiff’s interest in a convenient forum; and
+- {:.indent-9}(4) the interest of the judicial system to efficiently resolve disputes.
 
 ---
 
 ## VI. Purposeful Availment
 
 - {:.indent-0}A non-resident defendant is subject to personal jurisdiction when its contacts with the forum state
-- {:.indent-3}(a) demonstrate a purposeful availment of the benefits of the forum state; and
-- {:.indent-3}(b) the cause of action is related to those contacts.
+- {:.indent-2}(a) demonstrate a purposeful availment of the benefits of the forum state; and
+- {:.indent-2}(b) the cause of action is related to those contacts.
 
 Purposeful availment includes any resources that the state has to offer and that the defendant benefited from using. For example, the use of roads, airports, institutions and police power.
 
@@ -173,7 +173,7 @@ The Supreme Court, Justice Kagan, held that: (1) due process test for specific p
 
 1. Where was defendant properly served?
 
-- {:.indent-3}**In forum state?**
+- {:.indent-2}**In forum state?**
 - {:.indent-5}Traditional test (general jurisdiction applies)
 - {:.indent-7}Domicile
 - {:.indent-7}Presence
@@ -181,11 +181,11 @@ The Supreme Court, Justice Kagan, held that: (1) due process test for specific p
 - {:.indent-7}Consent
 - {:.indent-5}Under general jurisdiction, claims do not have to arise from or relate to defendant’s contacts with the forum state; defendant can be sued for essentially anything (i.e. courts have personal jurisdiction over defendant generally)
 
-- {:.indent-3}**Not served in forum state?**
+- {:.indent-2}**Not served in forum state?**
 - {:.indent-5}Is d citizen of forum state?
 - {:.indent-7}No
 - {:.indent-9}Does the state have a long arm statute?
-- {:.indent-11}Yes
+- {:.indent-9}Yes
 - {:.indent-13}Does/did the defendant have minimum contacts with the forum state?
 - {:.indent-13}Even if minimum contacts test was met: was there fair play and substantial justice? (discuss factors and come to conclusion about fairness)
 - {:.indent-15}If both prongs are met, specific jurisdiction.
@@ -200,9 +200,9 @@ If the defendant purposefully availed themself of the benefits of the forum stat
 ## VII. Removal
 
 Defendant has a right to remove a case from state to federal court within the forum state where the claim was filed if
-- {:.indent-3}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
-- {:.indent-3}(ii) no defendant is a resident of the forum state; and
-- {:.indent-3}(iii)	all defendants agree to removal.
+- {:.indent-2}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
+- {:.indent-2}(ii) no defendant is a resident of the forum state; and
+- {:.indent-2}(iii)	all defendants agree to removal.
 
 (b)	Procedure for removal: Defendant files a Notice of Removal in District Court (See 28 USC § 1446(a)), then serves notice upon all parties and with the state court. Removal is automatic; state court takes no further action.
 
@@ -219,13 +219,13 @@ Defendant has a right to remove a case from state to federal court within the fo
 (a) **Venue and forum** are different in that venue refers to the specific district, whereas forum refers to the entire state. (e.g., New York is forum; SDNY is venue).
 
 (b) Venue is proper in any district where
-- {:.indent-3}(i)	any defendant resides, so long as all defendants are residents of the forum state.
+- {:.indent-2}(i)	any defendant resides, so long as all defendants are residents of the forum state.
 - {:.indent-4}(1)	For the purpose of venue, residence is determined as follows:
 - {:.indent-5}(a)	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
 - {:.indent-5}(b)	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction.
-- {:.indent-3}(ii)	**And/or (?)** where substantial portion of claim occurred; **and/or (?)**
-- {:.indent-3}(iii)	**And/or (?)** where property connected to the action is locate(d)
-- {:.indent-3}iv.	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
+- {:.indent-2}(ii)	**And/or (?)** where substantial portion of claim occurred; **and/or (?)**
+- {:.indent-2}(iii)	**And/or (?)** where property connected to the action is locate(d)
+- {:.indent-2}iv.	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
 
 ---
 
@@ -237,9 +237,9 @@ Defendant has a right to remove a case from state to federal court within the fo
 
 If venue is improper, the court **must** either (1) transfer to the proper venue if the interest of justice so requires, or (2)	dismiss.
 
-- {:.indent-3}(i) Where venue is proper.	Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
+- {:.indent-2}(i) Where venue is proper.	Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
 
-- {:.indent-3}(ii)	Forum non conveniens. When the more appropriate forum is not a U.S. District Court (aka Forum Non Conveniens), courts will apply a balancing test between private and public interests. (rule from case we read)
+- {:.indent-2}(ii)	Forum non conveniens. When the more appropriate forum is not a U.S. District Court (aka Forum Non Conveniens), courts will apply a balancing test between private and public interests. (rule from case we read)
 - {:.indent-4}(1)	**Private interests** include access to evidence and witnesses, connection of plaintiff’s claim to forum, et(c)
 - {:.indent-4}(2) **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, et(c)
 - {:.indent-4}Courts do not take into consideration which forum has more favorable laws for plaintiff's claim (get language from above mentioned case).
@@ -251,39 +251,39 @@ If venue is improper, the court **must** either (1) transfer to the proper venue
 (a)	**Important: Insufficient or defective service of process can result in technical dismissal**  
 
 (b)	Disambiguation of terms:
-- {:.indent-3}(i)	**Service** simply refers to the delivery of the required documents
-- {:.indent-3}(ii)	**Process** is another name for the summons
-- {:.indent-3}(iii)	**Notice** is what you are trying to accomplish (notify the defendant of action)
+- {:.indent-2}(i)	**Service** simply refers to the delivery of the required documents
+- {:.indent-2}(ii)	**Process** is another name for the summons
+- {:.indent-2}(iii)	**Notice** is what you are trying to accomplish (notify the defendant of action)
 
 (c)	Must have Summons and Complaint
-- {:.indent-3}(i)	A **summons** notifies the defendant of required details facilitating their right to be hear(d) The summons should
+- {:.indent-2}(i)	A **summons** notifies the defendant of required details facilitating their right to be hear(d) The summons should
 - {:.indent-4}(1)	Name the court and the parties
 - {:.indent-4}(2)	State the name of plaintiff’s attorney (if there is one)
 - {:.indent-4}(3)	State date and time within which defendent must appear and/or defend
 - {:.indent-4}(4)	Notify the defendant that failure to appear or answer will result in a default judgment
 - {:.indent-4}(5)	For a list of required items, see FRCP 4(a)
 
-- {:.indent-3}(ii)	Complaint is the instrument by which a lawsuit is filed (hint: it’s a copy of the lawsuit)
+- {:.indent-2}(ii)	Complaint is the instrument by which a lawsuit is filed (hint: it’s a copy of the lawsuit)
 
 (d)	Service must be made by person at least 18 years old who is not a party to the action.
 
 (e)	The method of service must be consistent with the constitutional requirements of due process
-- {:.indent-3}(i)	Serving an individual
+- {:.indent-2}(i)	Serving an individual
 - {:.indent-4}(1)	To the individual personally
 - {:.indent-4}(2)	To someone of suitable age and discretion at individual’s current dwelling
 - {:.indent-4}(3)	To an authorized agent
 
-- {:.indent-3}(ii)	Serving a corporation, partnership or association
+- {:.indent-2}(ii)	Serving a corporation, partnership or association
 - {:.indent-4}(1)	In accordance with state law of forum state + state where service occurs
 - {:.indent-4}(2)	Delivery to an officer or agent of the corporation
 - {:.indent-5}(a)	Officer = person in executive role
 - {:.indent-5}(b)	Agent = managing or authorized agent
 
-- {:.indent-3}(iii)	Serving a foreign defendant
+- {:.indent-2}(iii)	Serving a foreign defendant
 - {:.indent-4}(1)	By internationally agreed to means; or
 - {:.indent-4}(2)	If an international agreement exists **and** it satisfies constitutional requirements of due process
 
-- {:.indent-3}(iv)	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
+- {:.indent-2}(iv)	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
 
 The FRCP actually incentivizes parties to accept service and waive their right to object by giving them a longer window to respond.
 
