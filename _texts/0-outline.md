@@ -27,17 +27,17 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ## I. Rules of Civil Procedure
 
-- Federal Rules of Civil Procedure (FRCP)
-- The U.S. Constitution
-- United States Treaties
+- {:.indent-2}Federal Rules of Civil Procedure (FRCP)
+- {:.indent-2}The U.S. Constitution
+- {:.indent-2}United States Treaties
 
 ---
 
 ## II. Basic Jurisdictional Concepts
 
-- Jurisdiction is what gives a court the power to act.
-- Courts must have both subject matter jurisdiction and personal jurisdiction.
-- If there is no jurisdiction, the court has no power to act on the dispute at hand.
+- {:.indent-2}Jurisdiction is what gives a court the power to act.
+- {:.indent-2}Courts must have subject matter jurisdiction **and** personal jurisdiction.
+- {:.indent-2}If there no jurisdiction, court has no power to act on dispute at hand.
 
 ---
 
@@ -58,13 +58,13 @@ Subject Matter Jurisdiction (SMJx) is the court’s power over a specific disput
 - {:.indent-9}(1)	for persons, residence
 - {:.indent-9}(2)	for corporations, place of primary business **OR** where it is incorporated
 - {:.indent-7}(ii)	“Among all parties”
-- {:.indent-9}(1)	No plaintiff can be from the same state as any defendant.
-- {:.indent-7}(b)	**AND** the amount in Controversy must exceed $75K
+- {:.indent-9}(1)	No plaintiff can be from the same state as any defendant; **and**
+- {:.indent-7}(b)	the amount in Controversy must exceed $75K
 
 - {:.indent-3}**Supplemental Jurisdiction (SuppJx)** 28 USC § 1367 [^3]
 - {:.indent-3}(a) Supplemental jurisdiction is the authority of federal courts to hear additional claims substantially related to the original claim even though the court would lack the subject-matter jurisdiction to hear the additional claims independently.
 - {:.indent-5}(i)	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
-- {:.indent-7}(1)	Same case or controversy = “common nucleus of operative fact” (in other words, the same transaction or occurrence)
+- {:.indent-7}(1)	Same case or controversy is when there is a “common nucleus of operative fact” (in other words, the same transaction or occurrence)
 
 [^1]: 28 U.S. Code § 1331 "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States."
 
@@ -98,6 +98,8 @@ The Erie Doctrine relates to which law is applied by the federal court **sitting
 (d)	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
 - {:.indent-2}(i)	The federal court cannot make its own independent judgment on the construction of the law
 - {:.indent-2}(ii)	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue (sometimes called the “Erie educated guess” principle)
+
+For more on Erie Doctrine, see ["The Dreaded Erie Doctrine" in Notes](https://binipringle.github.io/civilprocedure/texts/3-classnotes/#the-dreaded-erie-doctrine)
 
 [^4]: Some state laws are considered procedural and others are considered substantive. A federal court can only apply substantive state law, not procedural. When a federal court applies state law, this application is the **vertical** choice of law (between federal and state courts) as opposed to the **horizontal** choice of law (between state courts of different states). This isn't Erie-specific; it's called the Choice of Law doctrine.  
 
@@ -188,7 +190,8 @@ The idea is that if you expected the state to support you while you were interac
 - {:.indent-9}Does/did the defendant have minimum contacts with the forum state?
 - {:.indent-4}Even if minimum contacts test was met: fair play/substantial justice?
 - {:.indent-6}Discuss factors and come to conclusion about fairness
-- {:.indent-4}If both prongs are met, specific jurisdiction (there is specific jurisdiction if the plaintiff's claims arise out of or relate to the defendant’s contact with the forum state [i.e. courts have personal jurisdiction over defendant in this specific dispute])
+
+If both prongs are met, specific jurisdiction (there is specific jurisdiction if the plaintiff's claims arise out of or relate to the defendant’s contact with the forum state [i.e. courts have personal jurisdiction over defendant in this specific dispute])
 
 **Watch out** because contacts might be so substantial that the defendant is essentially “at home” in forum state (if at home court has general jurisdiction). “So systematic and continuous that defendant is essentially at home in the forum state”
 
@@ -221,10 +224,10 @@ If the defendant purposefully availed themself of the benefits of the forum stat
 - {:.indent-2}(i)	any defendant resides, so long as all defendants are residents of the forum state.
 - {:.indent-4}(1)	For the purpose of venue, residence is determined as follows:
 - {:.indent-6}(a)	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
-- {:.indent-6}(b)	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction.
-- {:.indent-2}(ii)	**And/or (?)** where substantial portion of claim occurred; **and/or (?)**
-- {:.indent-2}(iii)	**And/or (?)** where property connected to the action is locate(d)
-- {:.indent-2}iv.	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
+- {:.indent-6}(b)	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction
+- {:.indent-2}(ii)	**or** where substantial portion of claim occurred; **or**
+- {:.indent-2}(iii)	**or** where property connected to the action is located
+- {:.indent-2}(iv)	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
 
 ---
 
@@ -236,13 +239,13 @@ If the defendant purposefully availed themself of the benefits of the forum stat
 
 If venue is improper, the court **must** either (1) transfer to the proper venue if the interest of justice so requires, or (2)	dismiss.
 
-- {:.indent-2}(i) Where venue is proper.	Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
+- {:.indent-2}(i) Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
 
-- {:.indent-2}(ii)	Forum non conveniens. When the more appropriate forum is not a U.S. District Court (aka Forum Non Conveniens), courts will apply a balancing test between private and public interests. (rule from case we read)
-- {:.indent-4}(1)	**Private interests** include access to evidence and witnesses, connection of plaintiff’s claim to forum, et(c)
-- {:.indent-4}(2) **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, et(c)
+- {:.indent-2}(ii)	**Forum non conveniens**. When the more appropriate forum is not a U.S. District Court (aka forum non conveniens), courts will apply a balancing test between private and public interests.
+- {:.indent-4}(1)	**Private interests** include access to evidence and witnesses, connection of plaintiff’s claim to forum, etc.
+- {:.indent-4}(2) **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, etc.
 
-Courts do not take into consideration which forum has more favorable laws for plaintiff's claim (get language from above mentioned case).
+Courts do not take into consideration which forum has more favorable laws for plaintiff's claim.
 
 ---
 
@@ -256,7 +259,7 @@ Courts do not take into consideration which forum has more favorable laws for pl
 - {:.indent-2}(iii)	**Notice** is what you are trying to accomplish (notify the defendant of action)
 
 (c)	Must have Summons and Complaint
-- {:.indent-2}(i)	A **summons** notifies the defendant of required details facilitating their right to be hear(d) The summons should
+- {:.indent-2}(i)	A **summons** notifies the defendant of required details facilitating their right to be heard. The summons should
 - {:.indent-4}(1)	Name the court and the parties
 - {:.indent-4}(2)	State the name of plaintiff’s attorney (if there is one)
 - {:.indent-4}(3)	State date and time within which defendent must appear and/or defend
@@ -274,7 +277,7 @@ Courts do not take into consideration which forum has more favorable laws for pl
 - {:.indent-4}(3)	To an authorized agent
 
 - {:.indent-2}(ii)	Serving a corporation, partnership or association
-- {:.indent-4}(1)	In accordance with state law of forum state + state where service occurs
+- {:.indent-4}(1)	In accordance with state law of forum state and state where service occurs
 - {:.indent-4}(2)	Delivery to an officer or agent of the corporation
 - {:.indent-6}(a)	Officer = person in executive role
 - {:.indent-6}(b)	Agent = managing or authorized agent
