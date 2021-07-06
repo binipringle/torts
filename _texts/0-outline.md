@@ -187,8 +187,9 @@ The idea is that if you expected the state to support you while you were interac
 - {:.indent-6}No
 - {:.indent-7}Does the state have a long arm statute?
 - {:.indent-8}Yes
-- {:.indent-9}Does/did the defendant have minimum contacts with the forum state?
-- {:.indent-4}Even if minimum contacts test was met: fair play/substantial justice?
+- {:.indent-9}Did defendant have minimum contacts with forum state?
+- {:.indent-4}**Even if minimum contacts test was met:**
+- {:.indent-4}Was there fair play/substantial justice?
 - {:.indent-6}Discuss factors and come to conclusion about fairness
 
 If both prongs are met, specific jurisdiction (there is specific jurisdiction if the plaintiff's claims arise out of or relate to the defendant’s contact with the forum state [i.e. courts have personal jurisdiction over defendant in this specific dispute])
@@ -251,7 +252,7 @@ Courts do not take into consideration which forum has more favorable laws for pl
 
 ## IX. Service of process and notice
 
-(a)	**Important: Insufficient or defective service of process can result in technical dismissal**  
+(a)	Insufficient or defective service of process can result in technical dismissal. 
 
 (b)	Disambiguation of terms:
 - {:.indent-2}(i)	**Service** simply refers to the delivery of the required documents
