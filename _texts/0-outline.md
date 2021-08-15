@@ -41,6 +41,12 @@ See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofci
 
 ---
 
+*State courts and all sorts of specialty courts can hear federal questions if the plaintiff brings it there and the federal question pertains to the claim.* State courts have general jurisdiction.
+
+Federal courts have a more specific analysis. It's more difficult to bring a claim in federal court.  
+
+---
+
 ## III. Subject Matter Jurisdiction
 
 Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
@@ -113,10 +119,12 @@ A federal court has personal jurisdiction based on either of two categories: (i)
 
 - {:.indent-2}(i)	**Traditional Basis of Personal Jurisdiction** (over defendant)
 - {:.indent-5}(1)	Domicile (where defendant resides); or
-- {:.indent-5}(2)	Presence in the state when served; or
+- {:.indent-5}(2)	Presence in the state when served;[^5] or
 - {:.indent-5}(3)	Consent (defendant consents to jurisdiction in a specific forum); or
 - {:.indent-5}(4)	Waiver (by not objecting defendant waives right to object).
 - {:.indent-5}(5)	**Any of these** must meet the constitutional requirement of due process.
+
+[^5]: Although presence is a basis for PJx, presence by way of service does not necessarily make the venue proper. Because there are other districts where the action could have properly been brought, the fact that the defendant was subject to PJx (by way of service) in the state where they were served does not render it a proper venue under 28 U.S.C. § SOME SECTION SEE SLIDE.  
 
 - {:.indent-2}(ii)	**Long-Arm Jurisdiction**
 - {:.indent-5}(1)	Applies when defendant is not a resident of the forum state; **and**
@@ -205,17 +213,41 @@ If the defendant purposefully availed themself of the benefits of the forum stat
 (a) Defendant has a right to remove a case from state to federal court within the forum state where the claim was filed if
 - {:.indent-2}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
 - {:.indent-2}(ii) no defendant is a resident of the forum state; and
-- {:.indent-2}(iii)	all defendants agree to removal.
+- {:.indent-2}(iii)	all defendants agree to removal.[^6]
+
+[^6]: If there is only one defendant, raise and resolve. (iii only applies if there are multiple defendants; if only one I can even ignore iii)
 
 (b)	Procedure for removal: Defendant files a Notice of Removal in District Court (See 28 USC § 1446(a)), then serves notice upon all parties and with the state court. Removal is automatic; state court takes no further action.
 
-(c)	A plaintiff **cannot** remove a case to federal court. This right only resides with defendant.
+(c)	A plaintiff **cannot** remove a case to federal court. This right only resides with defendant. **But** if a defendant removes improperly, the plaintiff can move to have it remanded back to state court where it originated.
+
+---
+
+Call of the question is often is removal proper or is remand proper? (this is a really common trigger)
+
+Removal analysis is usually triggered when
+
+- {:.indent-2}(1) The lawsuit was filed in state court where defendant is not a resident of the state; or
+- {:.indent-2}(2) the lawsuit is removed to fed ct and issue is whether plaintiff can remand.
+
+---
+
+## Removal Flow  
+
+- {:.indent-2}(1) Is SMJx proper?
+- {:.indent-3}If yes >
+- {:.indent-5}(2) Is any defendant a resident of forum state?
+- {:.indent-6}If no >
+- {:.indent-8}(3) Do all defendants agree to removal?
+- {:.indent-9}If yes > **removal is proper**
+
+*this might be in final exam*
 
 ---
 
 ## VIII. Venue
 
-(Vertical movement)
+Venue analysis has to do with horizontal movement between something (see slide) venue protects ... see slide w usc 28 from slides of 7-8-21. See also important personal injury rule in slides from today.
 
 *Note: venue is the most consistently tested rule of civil procedure on the bar exam, only after SMJx + PJx*
 
@@ -226,7 +258,9 @@ If the defendant purposefully availed themself of the benefits of the forum stat
 - {:.indent-4}(1)	For the purpose of venue, residence is determined as follows:
 - {:.indent-6}(a)	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
 - {:.indent-6}(b)	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction
-- {:.indent-2}(ii)	**or** where substantial portion of claim occurred; **or**
+- {:.indent-2}(ii)	**or** where substantial portion of claim occurred;
+- {:.indent-4}(*) Important sub-rule: For venue analysis on a personal injury case, the venue is proper where injury occurred, not where medical treatment was received;
+- {:.indent-2}(ii)**or**
 - {:.indent-2}(iii)	**or** where property connected to the action is located
 - {:.indent-2}(iv)	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
 
@@ -252,7 +286,7 @@ Courts do not take into consideration which forum has more favorable laws for pl
 
 ## IX. Service of process and notice
 
-(a)	Insufficient or defective service of process can result in technical dismissal. 
+(a)	Insufficient or defective service of process can result in technical dismissal.
 
 (b)	Disambiguation of terms:
 - {:.indent-2}(i)	**Service** simply refers to the delivery of the required documents
