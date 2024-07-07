@@ -96,10 +96,10 @@ The Erie Doctrine relates to which law is applied by the federal court **sitting
 - {:.indent-7}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
 
 - {:.indent-2}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
-- {:.indent-5}(1)	Where a substantive right is conditioned upon SOL -> substantive
-- {:.indent-5}(2)	Where a substantive right is not conditioned upon SOL -> procedural
+- {:.indent-5}(1)	Where a substantive right is conditioned upon statute of limitations-> substantive
+- {:.indent-5}(2)	Where a substantive right is not conditioned upon statute of limitations-> procedural
 
-*If SOL is substantive, Federal Court applies it. If SOL is procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
+*If statute of limitationsis substantive, Federal Court applies it. If statute of limitationsis procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
 
 (d)	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
 - {:.indent-2}(i)	The federal court cannot make its own independent judgment on the construction of the law
