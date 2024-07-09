@@ -1,330 +1,209 @@
 ---
-layout: poem
+layout: narrative
 title: Outline
 author:
 editor: Sabina Pringle
+rights:
 source:
 toc:
-- I. Rules of Civil Procedure
-- II. Basic Jurisdictional Concepts
-- III. Subject Matter Jurisdiction
-- IV. Erie Doctrine
-- V. Personal Jurisdiction
-- VI. Purposeful Availment
-- Personal Jurisdiction Analysis Flow
-- VII. Removal
-- VIII. Venue
-- Transfer of venue
-- IX. Service of process and notice
+
+- Subject Matter Jurisdiction
+- Personal Jurisdiction
+- The Erie Doctrine
+- Procedural Law Post-Erie
+- General Rules of Pleading
 
 ---
 
-See [Glossary](https://binipringle.github.io/civilprocedure/texts/8-glossary/) for terms.
+## Subject Matter Jurisdiction
 
-See [Federal Rules of Civil Procedure 2021 Edition](https://www.federalrulesofcivilprocedure.org/frcp/) for law.
+Subject-matter jurisdiction is the power of a court to hear a specific kind of claim. Federal courts have limited subject matter jurisdiction. They have subject matter jurisdiction if (1) the case is a federal question; or (2) there is complete diversity of citizenship between adverse parties and the amount in controversy is more than $75,000.
 
----
+## Federal Question
 
-## I. Rules of Civil Procedure
+Federal courts have subject matter jurisdiction over a case if the cause of action states that there has been a violation of federal law. The alleged violation of federal law has to be the reason why the case is being brought; it cannot be an additional charge if that charge does not go to the heart of the alleged offense.
 
-- {:.indent-2}Federal Rules of Civil Procedure (FRCP)
-- {:.indent-2}The U.S. Constitution
-- {:.indent-2}United States Treaties
+**Federal common law** is generally confined to (1) maritime law; (2) foreign relations; (3) commercial rights and liabilities of the federal government; and (4) property rights and liabilities of the federal government. In these cases, federal courts will apply (and, if need be, create) federal common law and ignore any state law that might otherwise apply.[^1]
 
----
-
-## II. Basic Jurisdictional Concepts
-
-- {:.indent-2}Jurisdiction is what gives a court the power to act.
-- {:.indent-2}Courts must have subject matter jurisdiction **and** personal jurisdiction.
-- {:.indent-2}If there no jurisdiction, court has no power to act on dispute at hand.
+[^1]:EXAMPLE: The U.S. Treasury issued a check that was stolen and fraudulently cashed at a bank. The bank has asked the federal government to pay it the funds that it paid out to the fraudster. If the check was issued by a private individual, state law would control the check writer’s obligation and require the check writer to pay the funds. Because this case concerns the commercial rights and obligation of the federal government, however, the federal courts have the power to craft federal common law that will preempt any contrary state law. The federal courts may craft a rule that relieves the federal government of any obligation to pay on the check.
 
 ---
 
-*State courts and all sorts of specialty courts can hear federal questions if the plaintiff brings it there and the federal question pertains to the claim.* State courts have general jurisdiction.
+## Diversity Jurisdiction
 
-Federal courts have a more specific analysis. It's more difficult to bring a claim in federal court.  
+Federal courts can have subject matter jurisdiction if there is (a) complete diversity of citizenship between adverse parties and (b) the amount in controversy is more than $75,000. Complete diversity of citizenship is when all the adverse parties are citizens of different states.
 
----
+A **person** is a citizen of a state where they have their domicile. A domicile is the place where a person lives and intends to continue living in the foreseeable future. Factors that contribute to showing that a state is a person’s domicile include whether that person resides in the state, owns property in the state, is licensed in the state, participates in political processes in the state (i.e., voting), pays taxes in the state, and is involved in community activities in the states.
 
-## III. Subject Matter Jurisdiction
+A **corporation** is domiciled (1) where it was incorporated, and (2) where its principal place of business is located (where principal officers control corporate activities or the corporation has its “nerve center”).
 
-Subject Matter Jurisdiction (SMJx) is the court’s power over a specific dispute, as contrasted to Personal Jurisdiction (PJx) which relates to the court’s power over an individual. SMJx has to do with whether the case can be in state or federal court.
+The second requirement for a federal court to have diversity jurisdiction is that **the amount in controversy be more than $75,000**. A court will defer to the plaintiff’s allegation of financial injury unless it appears to a legal certainty that the plaintiff's allegation is incorrect.
 
-- {:.indent-2}**Subject Matter Jurisdiction in Federal Courts**
-- {:.indent-2}(a) A federal court has SMJx if the claim meets at least one of the following requirements:
-
-- {:.indent-3}(1) **Federal Question** 28 USC § 1331 [^1]
-- {:.indent-5}(i)	A claim arising under federal statute, U.S. Constitution, or U.S. treaties.
-- {:.indent-5}(ii)	Other exceptions (like if the US is a party, or specialty courts like Bankruptcy)
-
-- {:.indent-3}(2)	**Diversity Jurisdiction (DivJx)** 28 USC § 1332 [^2]
-- {:.indent-5}(a)	There must be complete diversity of citizenship among all parties
-- {:.indent-7}(i)	“Citizenship” is  
-- {:.indent-9}(1)	for persons, residence
-- {:.indent-9}(2)	for corporations, place of primary business **OR** where it is incorporated
-- {:.indent-7}(ii)	“Among all parties”
-- {:.indent-9}(1)	No plaintiff can be from the same state as any defendant; **and**
-- {:.indent-9}(2)	the amount in Controversy must exceed $75K
-
-- {:.indent-3}**Supplemental Jurisdiction (SuppJx)** 28 USC § 1367 [^3]
-- {:.indent-3}(a) Supplemental jurisdiction is the authority of federal courts to hear additional claims substantially related to the original claim even though the court would lack the subject-matter jurisdiction to hear the additional claims independently.
-- {:.indent-5}(i)	When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims if they arise from the same case or controversy
-- {:.indent-7}(1)	Same case or controversy is when there is a “common nucleus of operative fact” (in other words, the same transaction or occurrence)
-
-[^1]: 28 U.S. Code § 1331 "The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States."
-
-[^2]: 28 U.S.(c) § 1332 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1332)
-
-[^3]: 28 U.S.(c) § 1367 is openly accessible at [Cornell Law School's Legal Information Institute](https://www.law.cornell.edu/uscode/text/28/1367)
+The court **will aggregate claims** if the plaintiff brings multiple claims against a **single defendant**. The claims can be totally unrelated; there is no same transaction or occurrence. The court **will not aggregate claims** against **multiple defendants**.
 
 ---
 
-## IV. Erie Doctrine
+## Supplemental Jurisdiction
 
-The Erie Doctrine relates to which law is applied by the federal court **sitting in Diversity Jurisdiction.** The Erie Doctrine allows the federal court to apply its own procedural laws but requires the court to apply state substantive law. [^4] A federal court cannot apply state procedural laws. The following are some high frequency examples of procedural and substantive laws:
+28 U.S.C. 1367(a) provides that where federal district courts have subject matter jurisdiction in any civil action, they also have **supplemental jurisdiction** over other claims so related to the original claim that they form part of the same case or controversy under Article III of the Constitution. Supplemental jurisdiction includes claims asserted by the original plaintiff against the original defendant, but also by the defendant against the plaintiff or other parties, or by plaintiffs against such parties, or by defendants against one another, and so on. See 28 U.S.C. 1367(a) (affirming that supplemental jurisdiction covers matters involving the joinder of additional parties).
 
-- {:.indent-2}(i)	**Procedural laws**
-- {:.indent-5}(1) Civil procedure rules
-- {:.indent-5}(2) Burden of proof standards
+The test for “same case or controversy” is if a claim for which there is no independent basis for federal jurisdiction has a **common  nucleus of operative fact** with a claim that does have an independent basis for federal jurisdiction. For there to be a common nucleus of operative fact there must be a logical relationship between the claims. The two claims do not need to have exactly the same facts, but they should be “so logically connected that considerations of judicial economy and fairness dictate that all issues be resolved in one lawsuit.” *Jones v. Ford Motor Credit Co.*, 358 F.3d 205, 209-211 (2d. Cir. 2004).
 
-- {:.indent-2}(ii)	**Substantive laws**
-- {:.indent-5}(1) Claims based in state law
-- {:.indent-5}(2)	Damages
-- {:.indent-5}(3)	Statute of frauds
-- {:.indent-5}(4)	Choice of law rules (will be triggered in fact pattern; for example, in a contract there could be a clause saying that another state's law applies. I think.)
-- {:.indent-7}(a) A federal court sitting in DivJx must apply the forum state’s choice of law rules to determine which state’s substantive law applies to the action. (this isn’t Erie specific, Choice of Law doctrine generally dictates HORIZONTAL choice of law - between different states)
+*Watch out for sneaky plaintiffs in diversity jurisdiction trying to sneak claims which would not normally be allowed in diversity jurisdiction:*
 
-- {:.indent-2}(iii)	**Statute of limitations** (SOL) can be procedural or substantive.
-- {:.indent-5}(1)	Where a substantive right is conditioned upon statute of limitations-> substantive
-- {:.indent-5}(2)	Where a substantive right is not conditioned upon statute of limitations-> procedural
+28 U.S.C. 1367(b) places a **limitation on supplemental jurisdiction** where the sole basis for federal subject matter jurisdiction over any part of the case is **diversity jurisdiction**. The basic purpose of 28 U.S.C. 1367(b) is to prevent the original plaintiff to a lawsuit from commencing a suit where initially there is complete diversity, but later on the plaintiff tries to bring in a non-diverse party by asserting a supplemental jurisdiction claim against that party, in a seeming effort to use supplemental jurisdiction to sneak past the complete diversity requirements of 28 U.S.C. 1332.
 
-*If statute of limitationsis substantive, Federal Court applies it. If statute of limitationsis procedural, Federal Court will not apply it. Instead, I think the Federal Court will come up with a law.*
-
-(d)	Once applicable state law is determined, the federal court must apply the law as the forum state court would        
-- {:.indent-2}(i)	The federal court cannot make its own independent judgment on the construction of the law
-- {:.indent-2}(ii)	When no controlling state case law is available to provide federal court with guidance, the federal court must predict how the state’s highest court would rule on the issue (sometimes called the “Erie educated guess” principle)
-
-For more on Erie Doctrine, see ["The Dreaded Erie Doctrine" in Notes](https://binipringle.github.io/civilprocedure/texts/3-classnotes/#the-dreaded-erie-doctrine)
-
-[^4]: Some state laws are considered procedural and others are considered substantive. A federal court can only apply substantive state law, not procedural. When a federal court applies state law, this application is the **vertical** choice of law (between federal and state courts) as opposed to the **horizontal** choice of law (between state courts of different states). This isn't Erie-specific; it's called the Choice of Law doctrine.  
+Under 28 U.S.C. 1367(c), **a federal court may decline to exercise supplemental jurisdiction** over a claim if (1) the claim raises a **novel or complex issue of state law**; (2) the claim as to which there is only supplemental jurisdiction **substantially predominates** over those as to which there is freestanding subject matter jurisdiction; (3) the federal court has **dismissed** all claims with independent subject matter jurisdiction; or (4) other compelling reasons in exceptional circumstances.
 
 ---
 
-## V. Personal Jurisdiction
+## Personal Jurisdiction
 
-**Current rule that matters:**
+In addition to subject matter jurisdiction over the case, a federal court must have personal jurisdiction over the defendant. The three different types of personal jurisdiction a federal court can have are **general jurisdiction**; **in personam jurisdiction**; or **minimum contacts**.
 
-A federal court has personal jurisdiction based on either of two categories: (i) the **Traditional Basis of jurisdiction** or (ii) **Long-Arm Jurisdiction**.
+For a federal court to have **general jurisdiction** over a person, the person must (1) be domiciled in the forum state or (2) assents to the case being heard in the forum state.
 
-- {:.indent-2}(i)	**Traditional Basis of Personal Jurisdiction** (over defendant)
-- {:.indent-5}(1)	Domicile (where defendant resides); or
-- {:.indent-5}(2)	Presence in the state when served;[^5] or
-- {:.indent-5}(3)	Consent (defendant consents to jurisdiction in a specific forum); or
-- {:.indent-5}(4)	Waiver (by not objecting defendant waives right to object).
-- {:.indent-5}(5)	**Any of these** must meet the constitutional requirement of due process.
+A federal court has **in personam jurisdiction** if the person is transient in the forum state and is notified.
 
-[^5]: Although presence is a basis for PJx, presence by way of service does not necessarily make the venue proper. Because there are other districts where the action could have properly been brought, the fact that the defendant was subject to PJx (by way of service) in the state where they were served does not render it a proper venue under 28 U.S.C. § SOME SECTION SEE SLIDE.  
+A federal court can exercise specific general jurisdiction over a defendant that has **minimum contacts** with forum the state, meaning that the contacts with the forum state must have been (1) purposefully undertaken by the defendant; (2) such that it is foreseeable that he could be sued there; and (3) the exercise of jurisdiction would not offend traditional notions of fair play and substantial justice.
 
-- {:.indent-2}(ii)	**Long-Arm Jurisdiction**
-- {:.indent-5}(1)	Applies when defendant is not a resident of the forum state; **and**
-- {:.indent-5}(2)	the forum state must have a long-arm statute; **and**
-- {:.indent-5}(3)[the claim] must meet the constitutional requirement for due process.*
+If the defendant is engaged in **e-commerce**, courts look at three factors to determine if the defendant’s product reached the forum state through e-commerce: (1) The level of interactivity on the defendant’s website; (2) The extent of “hits” on that website by users located in the forum state; and (3) The extent of commercial activity conducted by defendant in the forum state.
+In determining whether the exercise of personal jurisdiction is fair and reasonable courts consider (1) the burden on the defendant of having to litigate in the forum state; (2) the plaintiff’s interest in a convenient forum for obtaining relief; (3) the state’s interest in providing a forum; and (4) the interests of the interstate judicial system in efficiently resolving disputes.
 
-**Two Prongs**. The constitutional requirement for due process has two prongs. These are (1) minimum contacts and (2) fair play and substantial justice To satisfy the constitutional requirement for due process, both prongs must be satisfied.  
+**Long-Arm Statute**
 
-- {:.indent-3}(1) The **first prong** is **minimum contacts** (“contacts and relatedness”). Sufficient minimum contacts exist when there is either general jurisdiction or specific jurisdiction.
-
-- {:.indent-5}(a)	**General jurisdiction**
-- {:.indent-7}(i)	Exists when the defendant’s contacts with the forum state are so substantial and of such a nature that the defendant is essentially at home in the state
-- {:.indent-7}(ii)	Claim does not need to relate to or arise from the defendant’s contacts with the forum state.
-- {:.indent-7}(iii)	Defendant must be a citizen of the forum state for general jurisdiction to apply.
-- {:.indent-9}(1)	If the defendant is a natural person, they must be domiciled in the forum state.
-- {:.indent-9}(2)	If the defendant is a corporation, it must be “at home” in the forum state.
-
-- {:.indent-5}(b)	**Specific jurisdiction**
-- {:.indent-9}(i)	Exists when the suit arises out of or relates to the defendant’s contacts with the forum state.
-- {:.indent-9}(ii)	There must be a connection between the forum state and the underlying controversy.
-- {:.indent-9}Regularly occurring sales of a product in a state does not justify the exercise of jurisdiction over a claim unrelated to those sales.
-
-- {:.indent-3}(2) The **second prong** is **fair play and substantial justice (“fairness”)**.
-- {:.indent-5}(a) Even if the minimum contacts test is met, it must be fair and reasonable for the defendant to be sued in the forum state, "so as not to offend notions of fair play and substantial justice.”
-- {:.indent-5}(b) The burden is on the defendant to show that it would be unreasonable to defend themselves in the forum state that it would constitute a violation of Due Process.
-- {:.indent-7}(i) When calculating burden on defendant, a court will consider
-- {:.indent-9}(1) the burden on the defendant of litigating in the forum state; and
-- {:.indent-9}(2) the state’s interest in providing a forum; and
-- {:.indent-9}(3) the plaintiff’s interest in a convenient forum; and
-- {:.indent-9}(4) the interest of the judicial system to efficiently resolve disputes.
+A state long-arm statute often says that a state may exercise jurisdiction over absent defendants to the “full extent permitted by the due process clause of the United States Constitution.”
 
 ---
 
-## VI. Purposeful Availment
+## Venue
 
-A non-resident defendant is subject to personal jurisdiction when its contacts with the forum state
-
-- {:.indent-2}(a) demonstrate a purposeful availment of the benefits of the forum state; and
-- {:.indent-2}(b) the cause of action is related to those contacts.
-
-Purposeful availment includes any resources that the state has to offer and that the defendant benefited from using. For example, the use of roads, airports, institutions and police power.
-
-The idea is that if you expected the state to support you while you were interacting with it, then it is fair for you to be brought under its jurisdiction.  
+When a federal court’s jurisdiction is based on diversity, venue is proper (1) in any district where a defendant resides if all defendants reside in the same state, or (2) in any district where a substantial part of the acts or omissions giving rise to the action occurred, or (3) in any district where any defendant is subject to personal jurisdiction, if there is no other district in which the action might be brought.
 
 ---
 
-**Brand new SCOTUS rule March 25, 2021**
+## Removal
 
-*Ford Motor Company v. Montana Eighth Judicial District Court*: 8-0 ruling (March 25, 2021)[^5]
-
-[^5]: The Supreme Court, Justice Kagan, held that: (1) due process test for specific personal jurisdiction did not depend on a strict causation-only approach that would ask where the vehicles were originally sold, or where they were designed and manufacture; and (2) manufacturer's substantial business in forum States supported specific personal jurisdiction under due process principles. *Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.*, 141 S. Ct. 1017, 209 L. Ed. 2d 225 (2021).
+I need to add removal here. vertical and horizontal and transfer.
 
 ---
 
-## Personal Jurisdiction Analysis Flow
+## The Erie Doctrine
 
-1. Where was defendant properly served?
+The Erie Doctrine concerns whether a federal court should apply federal substantive law or state substantive law in a civil case. Substantive law is the part of law that creates, defines and regulates the rights, duties and powers of the parties.
 
-- {:.indent-2}**In forum state?**
-- {:.indent-4}Traditional test (general jurisdiction applies)(under general jurisdiction, claims do not have to arise from or relate to defendant’s contacts with the forum state; defendant can be sued for essentially anything [i.e. courts have personal jurisdiction over defendant generally])
-- {:.indent-6}Domicile
-- {:.indent-6}Presence
-- {:.indent-6}Waiver
-- {:.indent-6}Consent
+In Erie, the Supreme Court ruled that in any civil case where there is no governing substantive federal statutory law or constitutional law, federal courts should apply state substantive law, regardless of whether it is state statutory law or state common law.
 
-- {:.indent-2}**Not served in forum state?**
-- {:.indent-4}Is defendant a citizen of forum state?
-- {:.indent-6}No
-- {:.indent-7}Does the state have a long arm statute?
-- {:.indent-8}Yes
-- {:.indent-9}Did defendant have minimum contacts with forum state?
-- {:.indent-4}**Even if minimum contacts test was met:**
-- {:.indent-4}Was there fair play/substantial justice?
-- {:.indent-6}Discuss factors and come to conclusion about fairness
+When a federal court sits in diversity jurisdiction and there is no controlling federal law, the federal court should apply the law of the state where the federal court sits, including the state’s choice of law rules, which could lead to the application of another state’s laws. Federal courts are generally required to apply substantive state law as the state’s highest court would rule.
 
-If both prongs are met, specific jurisdiction (there is specific jurisdiction if the plaintiff's claims arise out of or relate to the defendant’s contact with the forum state [i.e. courts have personal jurisdiction over defendant in this specific dispute])
+## Procedural Law Post-Erie
 
-**Watch out** because contacts might be so substantial that the defendant is essentially “at home” in forum state (if at home court has general jurisdiction). “So systematic and continuous that defendant is essentially at home in the forum state”
+In cases where there is no controlling substantive federal statutory law or constitutional law, federal courts must apply state substantive law and federal procedural law unless the federal procedural law is in substance, for that case, substantive. Procedural law consists of the rules that prescribe the steps for having a right or duty judicially enforced, as opposed to the law that defines the specific rights or duties themselves. In federal court, even in a case where state substantive law applies, the Federal Rules of Civil Procedure are the rules of procedure even to the displacement of any contrary state rules so long as the Federal Rule is consistent with the Constitution and the Rules Enabling Act. The Rules Enabling Act allows the Supreme Court to promulgate rules for civil practices in federal court so long as they don’t abridge,  enlarge, or modify any substantive right.
 
-If the defendant purposefully availed themself of the benefits of the forum state **and** should have anticipated that personal jurisdiction was foreseeable and/or reasonable, only go to purposeful availment analysis.
+To determine the difference between procedural and substantive in a case where Erie mandates the application of state substantive law, if there is a conflict between a state rule and a codified Federal Rule of Civil Procedure, the Federal Rule controls so long as the Federal Rule is consistent with the Constitution and the Rules Enabling Act (it almost always is).
+
+Where the competing federal rule is an uncodified judicial practice, Courts look to Erie, York, and sometimes Byrd to see whether the federal rule would hearken back to pre-Erie abuses (forum shopping and unequitable application of law). If it does, then it is “substantive,” and the state rule should apply under Erie—unless perhaps, as in Byrd, a significant federal-specific interest justifies applying the federal rule anyway.
 
 ---
 
-## VII. Removal
+## General Rules of Pleading
 
-(a) Defendant has a right to remove a case from state to federal court within the forum state where the claim was filed if
-- {:.indent-2}(i) the federal court has (or would have) subject matter jurisdiction over the matter;
-- {:.indent-2}(ii) no defendant is a resident of the forum state; and
-- {:.indent-2}(iii)	all defendants agree to removal.[^6]
-
-[^6]: If there is only one defendant, raise and resolve. (iii only applies if there are multiple defendants; if only one I can even ignore iii)
-
-(b)	Procedure for removal: Defendant files a Notice of Removal in District Court (See 28 USC § 1446(a)), then serves notice upon all parties and with the state court. Removal is automatic; state court takes no further action.
-
-(c)	A plaintiff **cannot** remove a case to federal court. This right only resides with defendant. **But** if a defendant removes improperly, the plaintiff can move to have it remanded back to state court where it originated.
+A complaint must have (1) grounds for subject-matter jurisdiction; (2) a statement of facts sufficient to show that the plaintiff is entitled to relief; and (3) a demand for judgment and the relief sought. Rule 8.
 
 ---
 
-Call of the question is often is removal proper or is remand proper? (this is a really common trigger)
+## Amendments
 
-Removal analysis is usually triggered when
+A party can amend a pleading once as a **matter of right**. A complaint can be amended within 21 days of serving the original complaint or within 21 days of being served an answer or a motion to dismiss. A party can amend an answer within 21 days of serving the original answer.
 
-- {:.indent-2}(1) The lawsuit was filed in state court where defendant is not a resident of the state; or
-- {:.indent-2}(2) the lawsuit is removed to fed ct and issue is whether plaintiff can remand.
-
----
-
-## Removal Flow  
-
-- {:.indent-2}(1) Is SMJx proper?
-- {:.indent-3}If yes >
-- {:.indent-5}(2) Is any defendant a resident of forum state?
-- {:.indent-6}If no >
-- {:.indent-8}(3) Do all defendants agree to removal?
-- {:.indent-9}If yes > **removal is proper**
-
-*this might be in final exam*
+A party can amend a pleading with **permission** of the opposing party or permission of the court, which will consider the reason for delay and prejudice (usually granted).
 
 ---
 
-## VIII. Venue
+## Amendments and Statue of Limitations
 
-Venue analysis has to do with horizontal movement between something (see slide) venue protects ... see slide w usc 28 from slides of 7-8-21. See also important personal injury rule in slides from today.
+When **adding new claims**, the date of filing of an amendment will **relate back** to the original filing date if the new claim arises from the same transaction or occurrence as the existing claim (relation back rule).
 
-*Note: venue is the most consistently tested rule of civil procedure on the bar exam, only after SMJx + PJx*
+When **adding new parties**, the date of filing will relate back to the original filing date if (1) the new claim arises from the same transaction and occurrence as the existing claim; (2) the new party knew of the suit soon enough not to be prejudiced (generally during the time permitted for service of the original complaint); and (3) the new party should have expected to be named, but-for a mistake in identity. [^2] [^3]
 
-(a) **Venue and forum** are different in that venue refers to the specific district, whereas forum refers to the entire state. (e.g., New York is forum; SDNY is venue).
+[^2]:EXAMPLE: P sued Astro Inc., a large multinational company, for breach of contract. Astro Inc. filed an answer truthfully denying that it had anything to do with the alleged contract. During discovery, P realized that her contract was not with Astro Inc., but with Astro Holdings LLC. Astro Holdings is a different legal entity but is managed by the same persons who manage Astro Inc. P now wishes to amend her complaint to add a claim against Astro Holdings (and dismiss her claim against Astro Inc.), but the statute of limitations has run. *P’s claim against Astro Holdings will probably be considered timely because Astro Holdings knew of her suit within the statute of limitations, knew it was the proper party, and was most likely not sued because of P’s mistake in identifying it as the proper party.*
 
-(b) Venue is proper in any district where
-- {:.indent-2}(i)	any defendant resides, so long as all defendants are residents of the forum state.
-- {:.indent-4}(1)	For the purpose of venue, residence is determined as follows:
-- {:.indent-6}(a)	For persons, residence is domicile (get language from statute). Domicile is residence **and** subjective intent to stay permanently.
-- {:.indent-6}(b)	For corporations/businesses/organizations, residence is any district where the defendant is subject to personal jurisdiction
-- {:.indent-2}(ii)	**or** where substantial portion of claim occurred;
-- {:.indent-4}(*) Important sub-rule: For venue analysis on a personal injury case, the venue is proper where injury occurred, not where medical treatment was received;
-- {:.indent-2}(ii)**or**
-- {:.indent-2}(iii)	**or** where property connected to the action is located
-- {:.indent-2}(iv)	If none of the above apply (rare), venue is proper in any judicial district where the defendant is subject to personal jurisdiction (this is why you always do the PJx analysis first! The PJx analysis often feeds directly into venue analysis).
+[^3]:EXAMPLE: P sued Hospital for injuries she suffered in a surgery. Her doctor learned of the lawsuit when Hospital was served and was relieved not to be named as a defendant. During discovery and after the statute of limitations has run, she learns that Hospital is in horrible financial shape and will not be able to pay any judgment she obtains. She therefore seeks to amend her complaint to add the surgeon who performed the operation. *This amendment will not “relate back” because, although the surgeon knew of the lawsuit and may even have expected to be sued, P did not fail to sue the surgeon because of a mistaken identity. She simply made a conscious decision not to sue the surgeon. Put differently, her mistake was in litigation strategy, not in the identity of a would-be defendant.*
 
 ---
 
-## Transfer of venue  
+## Service of Process
 
-(horizontal movement)
+When bringing a civil suit in federal court, a plaintiff must serve **both the complaint and the summons** within **90 days** of filing the complaint. If the plaintiff fails to serve the defendant within 90 days, the court must dismiss the suit without prejudice. However, if the plaintiff can show good cause, the court must provide the plaintiff additional time for service.
 
-*Must do this analysis even if I find venue is proper*
+To serve process, a person must be at least 18 years old and not a party to the suit. Process can be served (1) in the manner prescribed by the state court in (a) the state where the federal suit was filed; or (b) the state where the defendant is currently located, even if it is not where the defendant resides or where the lawsuit is filed.
 
-If venue is improper, the court **must** either (1) transfer to the proper venue if the interest of justice so requires, or (2)	dismiss.
+Process can be served (2) according to Rule 4 of the Federal Rules of Civil Procedure, which provides that (a) if the defendant is a **natural person**, process can be (i) delivered to the defendant through a third party; (ii) left at the defendant’s usual abode with a person of suitable age and discretion residing there; (iii) delivered to the defendant’s registered agent; or (iv) mailed with a letter requesting the defendant waive in-person service (if the defendant declines to waive, they become responsible for the cost of personal service). If the defendant is a **corporation, partnership, or association**, process can be (i) delivered to an officer; (ii) delivered to to a managing agent or general agent; or (iii) delivered to any other agent authorized by appointment or by law to receive service. **If law requires service by mail, it must be by hand and mail.**
 
-- {:.indent-2}(i) Even if venue is proper, the court may use its discretion to transfer venue if (1) the transfer is necessary for the convenience of the parties and the convenience of witnesses; **and** (2) the interest of justice so requires **and** (3) the action could have been brought in the receiving court.
+If a court has the power to assert personal jurisdiction over a party, that power becomes active at the moment the defendant is served with process or a waiver is filed with the court, if service is accomplished by request for waiver.
 
-- {:.indent-2}(ii)	**Forum non conveniens**. When the more appropriate forum is not a U.S. District Court (aka forum non conveniens), courts will apply a balancing test between private and public interests.
-- {:.indent-4}(1)	**Private interests** include access to evidence and witnesses, connection of plaintiff’s claim to forum, etc.
-- {:.indent-4}(2) **Public interests** include good use of court’s finite resources, avoiding multiple sets of laws which may confuse jury, local interest in having a case heard at home, etc.
-
-Courts do not take into consideration which forum has more favorable laws for plaintiff's claim.
+Where a plaintiff relies on transient jurisdiction (aka tag) to subject the defendant to personal jurisdiction, the court’s personal jurisdiction is created and activated when the plaintiff is served.
 
 ---
 
-## IX. Service of process and notice
+## Service and Due Process
 
-(a)	Insufficient or defective service of process can result in technical dismissal.
+The defendant is entitled to notice of the claims against them and an opportunity to respond to those claims. When a person is served, they have notice. To satisfy due process, service must be reasonably calculated to inform the defendant of the action against them.
 
-(b)	Disambiguation of terms:
-- {:.indent-2}(i)	**Service** simply refers to the delivery of the required documents
-- {:.indent-2}(ii)	**Process** is another name for the summons
-- {:.indent-2}(iii)	**Notice** is what you are trying to accomplish (notify the defendant of action)
+*Notice without service may be a constitutional issue.*
 
-(c)	Must have Summons and Complaint
-- {:.indent-2}(i)	A **summons** notifies the defendant of required details facilitating their right to be heard. The summons should
-- {:.indent-4}(1)	Name the court and the parties
-- {:.indent-4}(2)	State the name of plaintiff’s attorney (if there is one)
-- {:.indent-4}(3)	State date and time within which defendent must appear and/or defend
-- {:.indent-4}(4)	Notify the defendant that failure to appear or answer will result in a default judgment
-- {:.indent-4}(5)	For a list of required items, see FRCP 4(a)
+To satisfy due process requirement for notice, the plaintiff must take steps that are reasonably calculated to inform the defendant of the action against them.
 
-- {:.indent-2}(ii)	Complaint is the instrument by which a lawsuit is filed (hint: it’s a copy of the lawsuit)
+---
 
-(d)	Service must be made by person at least 18 years old who is not a party to the action.
+## Responding to a Complaint
 
-(e)	The method of service must be consistent with the constitutional requirements of due process
-- {:.indent-2}(i)	Serving an individual
-- {:.indent-4}(1)	To the individual personally
-- {:.indent-4}(2)	To someone of suitable age and discretion at individual’s current dwelling
-- {:.indent-4}(3)	To an authorized agent
+**Answer**
 
-- {:.indent-2}(ii)	Serving a corporation, partnership or association
-- {:.indent-4}(1)	In accordance with state law of forum state and state where service occurs
-- {:.indent-4}(2)	Delivery to an officer or agent of the corporation
-- {:.indent-6}(a)	Officer = person in executive role
-- {:.indent-6}(b)	Agent = managing or authorized agent
+A defendant's **answer** to a complaint is where the defendant admits or denies the plaintiff’s allegations and lists defenses. The defendant should specifically admit or deny each allegation. If an allegation is not denied, it is admitted. There is no limit to how many defenses a defendant can list. Common defenses are statute of limitations, statute of frauds, and assumption of risk. If a defense is not included in the answer, generally it is forfeited. However, there are some exceptions. Even if a defendant does not list them, the defendant does not forfeit defenses of (1) failure to state a claim upon which relief should be granted; (2) failure to join a necessary party; and (3) lack of subject matter jurisdiction.
 
-- {:.indent-2}(iii)	Serving a foreign defendant
-- {:.indent-4}(1)	By internationally agreed to means; or
-- {:.indent-4}(2)	If an international agreement exists **and** it satisfies constitutional requirements of due process
+**Motion for more definite statement:** Instead of filing an answer, a defendant can file a motion for more definite statement. The court will order a pleading to be clarified if it is so vague that the responding party cannot reasonably prepare a response.
 
-- {:.indent-2}(iv)	More rules for how to serve specific types of parties are found in FRCP 4(g)-(j)
+**Motion to strike:** The court can (on its own or on motion) order material stricken if the complaint or answer contains redundant, immaterial, or scandalous material.
 
-The FRCP actually incentivizes parties to accept service and waive their right to object by giving them a longer window to respond.
+**Motion to dismiss:** Seeks dismissal, can be filed by any defending party.
 
-When analyzing whether the “constitutional requirements of due process” are met service of process hypo, a helpful question to answer is: Was the service of process “reasonably calculated” to notify the defendant of the action and give them an opportunity to object?
+## Timing of Responses
+
+Initial response (answer or pre-answer motion):
+
+If the defendant was actually served with process - **21 days** to respond.
+If service of process was waived - **60 days** to respond.
+If the defendant responds and motion for more definite statement, motion to strike, or motion to dismiss is **denied**, the defendant must file an answer within **14 days** of denial.
+
+---
+
+## Ethical Obligations
+
+The submission of a document to the court must be based on **good faith**, **good facts**, and **good law**.
+
+Safe harbor for 21 days after service to amend complaint.
+
+Rule 11 does not apply to discovery.
+
+---
+
+## Provisional Relief
+
+The plaintiff files suit seeking injunctive relief, but can’t litigate the suit fast enough to get that relief before the defendant commits some irreversible harm.
+
+---
+
+## Preliminary Injunction
+
+There must be notice to the adverse party and the plaintiff must show (1) likelihood of success on the merits; (2) irreparable harm to the plaintiff if preliminary injunction is not granted; (3) balance of hardships where if the harm to the plaintiff would be greater were the preliminary injunction denied than the harm to the defendant if it were granted; (4) the injunction would not be injurious to the public interest; and (5) payment of security where the plaintiff deposits enough money with the court to pay damages if the suit is unsuccessful.
+
+---
+
+## Temporary Restraining Order
+
+Same test as preliminary injunction, but temporary restraining order expires 14 days after issuance. It can be extended for 14 days upon good cause shown.
+
+A temporary restraining order can be **ex parte** (issued without notice) if (1) specific facts clearly show that immediate and irreparable injury, loss, or damage will result before the adverse party can be heard in opposition; and (2) the movant’s attorney certifies in writing any efforts made to give notice and the reasons why it should not be required.
 
 ---
