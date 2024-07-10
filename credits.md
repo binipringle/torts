@@ -3,8 +3,8 @@ layout: page
 title: Credits
 ---
 
-### [Sabina Pringle (she/ella)](https://sabinapringle.commons.gc.cuny.edu/) law student, digital humanist, paralegal  
+### [Sabina Pringle (she/her)](https://sabinapringle.commons.gc.cuny.edu/), JD, MADH
 
-1L JD Candidate at CUNY School of Law, City University of New York (CUNY), class of 2024. President of the Ethical and Equitable Tech student group (EET) at CUNY School of Law (2021-22). Since January 2021, Sabina Pringle is Paralegal in the Office of Legal Affairs and Labor Relations at Baruch College. Before that, she was Adjunct Lecturer in English at City College of New York and Baruch College (2017-2020), and Fulbright English Teaching Assistant at Universidad del Atlántico, Barranquilla, Colombia (2015-2017). Sabina has an M.A. in Digital Humanities from The Graduate Center, CUNY (2020) and a B.A. in English Literature from the City College of New York, CUNY (2014).
+Juris Doctorate, CUNY School of Law, 2024; Master of Arts in Digital Humanities, The Graduate Center, 2020; Bachelor of Arts in English Literature, City College of New York, 2014; City University of New York (CUNY). My current job is Paralegal, Office of Legal Affairs and Labor Relations, Baruch College, CUNY, where I have worked since 2017. Adjunct Lecturer in English, City College of New York and Baruch College, CUNY, 2017-2020. Fulbright Teaching Assistant, Universidad del Atlántico, Barranquilla, Colombia, 2015-17. Before that I was a truck dispatcher (then traffic manager) and taught English as a second language in Spain, as well as Production Assistant for Drap’Art international festival of artistic recycling, Barcelona, Spain.
 
 ---

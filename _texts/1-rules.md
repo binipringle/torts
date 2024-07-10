@@ -8,7 +8,9 @@ toc:
 
 ---
 
-Beginning of a rule statement: a federal court can only hear cases where it has SMJx and PJx. A federal court has SMJx if there is (1) a federal question, (2) diversity jurisdiction (divjx), or (3) supplemental jurisdiction. When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims arising from the same case or controversy.
+Beginning of a rule statement: a federal court can only hear cases where it has subject matter jurisdiction and personal jurisdiction. A federal court has subject matter jurisdiction if there is (1) a federal question, (2) diversity jurisdiction, or (3) supplemental jurisdiction.
+
+When federal court has jurisdiction over some claims, it can exercise supplemental jurisdiction over state claims arising from the same case or controversy.
 
 ---
 
