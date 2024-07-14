@@ -299,7 +299,7 @@ The plaintiff files suit seeking injunctive relief, but can’t litigate the sui
 
 ## Preliminary Injunction
 
-There must be notice to the adverse party and the plaintiff must show (1) likelihood of success on the merits; (2) irreparable harm to the plaintiff if preliminary injunction is not granted; (3) balance of hardships where if the harm to the plaintiff would be greater were the preliminary injunction denied than the harm to the defendant if it were granted; (4) the injunction would not be injurious to the public interest; and (5) payment of security where the plaintiff deposits enough money with the court to pay damages if the suit is unsuccessful.
+There must be notice to the adverse party and the plaintiff must show (1) likelihood of success on the merits; (2) irreparable harm to the plaintiff if preliminary injunction is not granted; (3) the harm to the plaintiff would be greater were the preliminary injunction denied than the harm to the defendant if it were granted; (4) the injunction would not be injurious to the public interest; and (5) payment of security where the plaintiff deposits enough money with the court to pay damages if the suit is unsuccessful.
 
 ---
 
