@@ -436,6 +436,7 @@ After a Rule 26(f) conference has been held, the court may order the parties to 
 **Proportionality:** Relevant and otherwise discoverable information may be undiscoverable if the request is not proportional to the needs of the case. In determining proportionality, courts look at (1) the importance of the issues at stake; (2) the amount in controversy; (3) parties' relative access to relevant information; (4) parties’ resources; (5) the importance of the discovery in resolving the issues; and (5) whether the burden or expense of the proposed discovery outweighs its likely benefit. The court must limit the discovery if it is (a) not proportional to the needs of the case; (b) unreasonably cumulative or can be obtained in a less burdensome way; or (c) the party seeking the discovery has already had ample opportunity to obtain the information. *Usually proportionality turns on money – for example if discovery is going to be nearly as expensive as damages sought*
 
 **Experts:** Documents pertaining to a **non-testifying expert** are undiscoverable unless the requesting party has an extraordinary need and no other way to obtain such information (this is rare). Documents pertaining to a **testifying expert** are discoverable to a limited extent. Opinions may be discoverable, as may be communications concerning compensation for the expert’s study or testimony; data provided by an attorney to the expert; or any assumption the attorney asked the expert to make in developing the expert opinion.
+
 ---
 
 ## Methods of Discovery
