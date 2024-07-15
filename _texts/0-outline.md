@@ -211,6 +211,8 @@ General rules of pleading includes the complaint, amendments, statute of limitat
 
 A complaint must have (1) grounds for subject-matter jurisdiction; (2) a statement of facts sufficient to show that the plaintiff is entitled to relief; and (3) a demand for judgment and the relief sought. Rule 8.
 
+Under the traditional rules of pleading, a pleading that states a claim for relief must only contain [Fed. R. Civ. P. 8]: (1) a short and plain statement of: (a) the grounds upon which the court's jurisdiction rests; and (b) a statement of a claim, which, if true, would entitle the claimant to relief; and (2) a demand of relief. However, two Supreme Court cases suggest that more detailed pleadings are required [*Bell Atlantic Corp. v. Twombly*, 550 U.S. 544 (2007); *Ashcroft v. Iqbal*, 556 U.S. 662 (2009)]. In these cases, the Supreme Court explained that the "short and plain statement of the claim" required under Rule 8 must include "sufficient factual matter" to state a plausible claim.
+
 ---
 
 ## Amendments
@@ -537,19 +539,21 @@ The right to file a **motion to dismiss** on the grounds of **failure to join an
 
 ## Waiver of Defenses
 
-The defendant must raise the following defenses **in their first response** (either motion to dismiss or answer) or they are forfeited:
+**A defendant waives an affirmative defense if he does not raise it in his first responsive pleading** (motion to dismiss or answer). *Contributory negligence is an affirmative defense.*
+
+A defendant waives the following defenses if he does not raise it in his first responsive pleading:
 
 - lack of personal jurisdiction;
 - improper venue;
 - insufficient process; and/or
 - insufficient service of process.
 
-The defendant must raise the following defenses **any time before trial ends**, or they are forfeited:
+The defendant must raise the following defenses **any time before trial ends**, or they are waived:
 
 - failure to state a claim upon which relief can be granted; and/or
 - failure to join a necessary party.
 
-**The defense of lack of subject matter jurisdiction is never forfeited**. It may be raised anytime, even on appeal.
+**The defense of lack of subject matter jurisdiction is never waived**. It may be raised at any time, **even on appeal**.
 
 ---
 
