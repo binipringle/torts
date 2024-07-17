@@ -11,6 +11,7 @@ toc:
 - Federal Question
 - Diversity Jurisdiction
 - Supplemental Jurisdiction
+- Federal Common Law
 - Personal Jurisdiction
 - Venue
 - Removal
@@ -76,62 +77,71 @@ toc:
 
 ## Subject Matter Jurisdiction
 
-Subject-matter jurisdiction is the power of a court to hear a specific kind of claim. Federal courts have limited subject matter jurisdiction. They have subject matter jurisdiction if (1) the case is a federal question; or (2) there is complete diversity of citizenship between adverse parties and the amount in controversy is more than $75,000.
+Subject-matter jurisdiction is the power of a court to hear a specific kind of claim.
+
+Federal courts have limited subject matter jurisdiction. They have subject matter jurisdiction if (1) the case is a federal question; or (2) there is complete diversity of citizenship between adverse parties and the amount in controversy is more than $75,000.
 
 ## Federal Question
 
 Federal courts have subject matter jurisdiction over a case if the cause of action states that there has been a violation of federal law. The alleged violation of federal law has to be the reason why the case is being brought; it cannot be an additional charge if that charge does not go to the heart of the alleged offense.
 
-**Federal common law** is generally confined to (1) maritime law; (2) foreign relations; (3) commercial rights and liabilities of the federal government; and (4) property rights and liabilities of the federal government. In these cases, federal courts will apply (and, if need be, create) federal common law and ignore any state law that might otherwise apply.[^1]
-
-[^1]:The U.S. Treasury issued a check that was stolen and fraudulently cashed at a bank. The bank has asked the federal government to pay it the funds that it paid out to the fraudster. If the check was issued by a private individual, state law would control the check writer’s obligation and require the check writer to pay the funds. Because this case concerns the commercial rights and obligation of the federal government, however, the federal courts have the power to craft federal common law that will preempt any contrary state law. The federal courts may craft a rule that relieves the federal government of any obligation to pay on the check.
-
 ---
 
 ## Diversity Jurisdiction
 
-Federal courts can have subject matter jurisdiction if there is (a) complete diversity of citizenship between adverse parties and (b) the amount in controversy is more than $75,000. Complete diversity of citizenship is when all the adverse parties are citizens of different states.
+For a federal court to have diversity jurisdiction over a claim, there must be complete diversity between the adverse parties and the amount in controversy must exceed $75,000. Complete diversity of citizenship is when all the adverse parties are citizens of different states.
 
 A **person** is a citizen of a state where they have their domicile. A domicile is the place where a person lives and intends to continue living in the foreseeable future. Factors that contribute to showing that a state is a person’s domicile include whether that person resides in the state, owns property in the state, is licensed in the state, participates in political processes in the state (i.e., voting), pays taxes in the state, and is involved in community activities in the states.
 
-A **corporation** is domiciled (1) where it was incorporated, and (2) where its principal place of business is located (where principal officers control corporate activities or the corporation has its “nerve center”).
+A **corporation** is a citizen of the state where they are incorporated, and the state where they have their principal place of business or “nerve center”. A corporation cannot have more than one principal place of business.
 
-The second requirement for a federal court to have diversity jurisdiction is that **the amount in controversy be more than $75,000**. A court will defer to the plaintiff’s allegation of financial injury unless it appears to a legal certainty that the plaintiff's allegation is incorrect.
+The second requirement for a federal court to have diversity jurisdiction is that **the amount in controversy be more than $75,000**. A court will defer to the plaintiff’s allegation of financial injury unless it appears to a legal certainty that the plaintiff's claim does not exceed $75,000.
 
-The court **will aggregate claims** if the plaintiff brings multiple claims against a **single defendant**. The claims can be totally unrelated; there is no same transaction or occurrence. The court **will not aggregate claims** against **multiple defendants**.
+The court **will aggregate claims** if the plaintiff brings multiple claims against a **single defendant**. The claims can be totally unrelated; there is no same transaction or occurrence. **The court will not aggregate claims against multiple defendants**.
+
+**Multiple plaintiffs cannot aggregate their claims against a single defendant** to meet the amount in controversy requirement **unless** the plaintiffs are enforcing a single title or right in which they have a **common and undivided interest**. This is rare and difficult.
 
 ---
 
 ## Supplemental Jurisdiction
 
-28 U.S.C. 1367(a) provides that where federal district courts have subject matter jurisdiction in any civil action, they also have **supplemental jurisdiction** over other claims so related to the original claim that they form part of the same case or controversy under Article III of the Constitution. Supplemental jurisdiction includes claims asserted by the original plaintiff against the original defendant, but also by the defendant against the plaintiff or other parties, or by plaintiffs against such parties, or by defendants against one another, and so on. See 28 U.S.C. 1367(a) (affirming that supplemental jurisdiction covers matters involving the joinder of additional parties).
+Where federal district courts have subject matter jurisdiction in any civil action, they also have **supplemental jurisdiction** over other claims so related to the original claim that they form part of the same case or controversy under Article III of the Constitution. Supplemental jurisdiction includes claims asserted by the original plaintiff against the original defendant, but also by the defendant against the plaintiff or other parties, or by plaintiffs against such parties, or by defendants against one another, and so on. See 28 U.S.C. 1367(a) (affirming that supplemental jurisdiction covers matters involving the joinder of additional parties).
 
-The test for “same case or controversy” is if a claim for which there is no independent basis for federal jurisdiction has a **common  nucleus of operative fact** with a claim that does have an independent basis for federal jurisdiction. For there to be a common nucleus of operative fact there must be a logical relationship between the claims. The two claims do not need to have exactly the same facts, but they should be “so logically connected that considerations of judicial economy and fairness dictate that all issues be resolved in one lawsuit.” *Jones v. Ford Motor Credit Co.*, 358 F.3d 205, 209-211 (2d. Cir. 2004).
+The test for “same case or controversy” is if a claim for which there is no independent basis for federal jurisdiction has a **common  nucleus of operative fact** with a claim that does have an independent basis for federal jurisdiction. For there to be a common nucleus of operative fact there must be a logical relationship between the claims. **The two claims do not need to have exactly the same facts, but they should be “so logically connected that considerations of judicial economy and fairness dictate that all issues be resolved in one lawsuit.”** *Jones v. Ford Motor Credit Co.*, 358 F.3d 205, 209-211 (2d. Cir. 2004).
 
 *Watch out for sneaky plaintiffs in diversity jurisdiction trying to sneak claims which would not normally be allowed in diversity jurisdiction:*
 
-28 U.S.C. 1367(b) places a **limitation on supplemental jurisdiction** where the sole basis for federal subject matter jurisdiction over any part of the case is **diversity jurisdiction**. The basic purpose of 28 U.S.C. 1367(b) is to prevent the original plaintiff to a lawsuit from commencing a suit where initially there is complete diversity, but later on the plaintiff tries to bring in a non-diverse party by asserting a supplemental jurisdiction claim against that party, in a seeming effort to use supplemental jurisdiction to sneak past the complete diversity requirements of 28 U.S.C. 1332.
+Under 28 U.S.C. 1367(b) there is a **limitation on supplemental jurisdiction** where the sole basis for federal subject matter jurisdiction over any part of the case is **diversity jurisdiction**. This is to prevent the original plaintiff from bringing a suit where there is complete diversity, but later on trying to bring in a non-diverse party by asserting a supplemental jurisdiction claim against that party, in a seeming effort to use supplemental jurisdiction to sneak past the complete diversity requirements of 28 U.S.C. 1332.
 
 Under 28 U.S.C. 1367(c), **a federal court may decline to exercise supplemental jurisdiction** over a claim if (1) the claim raises a **novel or complex issue of state law**; (2) the claim as to which there is only supplemental jurisdiction **substantially predominates** over those as to which there is freestanding subject matter jurisdiction; (3) the federal court has **dismissed** all claims with independent subject matter jurisdiction; or (4) other compelling reasons in exceptional circumstances.
 
 ---
 
+## Federal Common Law
+
+**Federal common law** is generally confined to (1) maritime law; (2) foreign relations; (3) commercial rights and liabilities of the federal government; and (4) property rights and liabilities of the federal government. In these cases, federal courts will apply (and, if need be, create) federal common law and ignore any state law that might otherwise apply.[^1]
+
+[^1]:For example, if a person stole and fraudulently cashed a U.S. Treasury check and the bank asked the federal government to pay it the funds it had paid to the person, state law does not govern and the federal courts may craft a rule that relieves the federal government of obligation.
+
+---
+
 ## Personal Jurisdiction
 
-In addition to subject matter jurisdiction over the case, a federal court must have personal jurisdiction over the defendant. The three different types of personal jurisdiction a federal court can have are **general jurisdiction**; **in personam jurisdiction**; or **minimum contacts**.
+Under the Federal Rules of Civil Procedure, a federal court must have personal jurisdiction over the defendant. Personal jurisdiction can be based on (1) **general jurisdiction** (domicile, consent, or "at home" in the forum state); (2) **transient or "in personam" jurisdiction** (physical presence and service in the state); or (3) **specific jurisdiction (minimum contacts)**.
 
-For a federal court to have **general jurisdiction** over a person, the person must (1) be domiciled in the forum state or (2) assents to the case being heard in the forum state.
+For a federal court to have **general jurisdiction** over a defendant, the defendant must either (1) be domiciled in the forum state or (2) consent to the case being heard in the forum state.
 
-A federal court has **in personam jurisdiction** if the person is transient in the forum state and is notified.
+A federal court can also have **general jurisdiction** over a defendant if the defendant's business activity in the forum state is **so substantial that the company is essentially at home in the forum state.** Substantial business is a high bar to clear. The defendant must do business in the forum state to such an extent that the defendant is **essentially “at home”** in the forum state. *The "at home in the forum state" analysis is also possible for defendants who are persons rather than corporations.*
 
-A federal court can exercise specific general jurisdiction over a defendant that has **minimum contacts** with forum the state, meaning that the contacts with the forum state must have been (1) purposefully undertaken by the defendant; (2) such that it is foreseeable that he could be sued there; and (3) the exercise of jurisdiction would not offend traditional notions of fair play and substantial justice.
+For a federal court to have **transient jurisdiction** (also known as "tag" jurisdiction) over a defendant, the defendant must be physically present in the forum state and be served with process while in the state.
+
+A federal court can exercise **specific jurisdiction** over a defendant that has **minimum contacts** with forum the state, meaning that the contacts with the forum state must have been (1) **purposefully undertaken** by the defendant; (2) such that it is **foreseeable that he could be sued there**; and (3) the exercise of jurisdiction would **not offend traditional notions of fair play and substantial justice**.
 
 If the defendant is engaged in **e-commerce**, courts look at three factors to determine if the defendant’s product reached the forum state through e-commerce: (1) The level of interactivity on the defendant’s website; (2) The extent of “hits” on that website by users located in the forum state; and (3) The extent of commercial activity conducted by defendant in the forum state.
+
 In determining whether the exercise of personal jurisdiction is fair and reasonable courts consider (1) the burden on the defendant of having to litigate in the forum state; (2) the plaintiff’s interest in a convenient forum for obtaining relief; (3) the state’s interest in providing a forum; and (4) the interests of the interstate judicial system in efficiently resolving disputes.
 
-**Long-Arm Statute**
-
-A state long-arm statute often says that a state may exercise jurisdiction over absent defendants to the “full extent permitted by the due process clause of the United States Constitution.”
+**Long-Arm Statute:** A state long-arm statute often says that a state may exercise jurisdiction over absent defendants to the “full extent permitted by the due process clause of the United States Constitution.”
 
 ---
 
@@ -584,6 +594,8 @@ If both forms of relief are sought, the right to a jury exists for any issue of 
 Courts will look at whether a claim can be analogized to a $20 1791 common law claim. However, the nature of the remedy tends to be the primary inquiry.
 
 Any party has a right to trial by jury. To exercise this right, a party **must demand a trial by jury** *(if you don’t ask for a jury you just get a judge all the way through in civil court)*. Any party can exercise the right. If there are ten parties, just one has to want it. The demand must be filed **no later than 14 days after the last pleading directed to the jury-eligible issue is filed**.
+
+**If a party has expressly demanded a jury trial in accordance with state law prior to the case being removed to federal court, the demand need not be renewed after removal. The party will still be entitled to a jury trial.**
 
 The party exercising the right must file and serve on other parties a written demand for a jury trial.
 
