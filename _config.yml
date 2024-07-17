@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Civil Procedure'
+title:               'Torts'
 tagline:             'notes for the bar exam'
 description:         'This is a useful way of organizing information.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/civilprocedure'
+baseurl:             '/torts'
 
 # About/contact
 author:
@@ -14,7 +14,7 @@ author:
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: cyan
+color-scheme: magenta
 
 # Permalinks
 permalink: pretty
