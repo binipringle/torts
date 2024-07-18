@@ -11,6 +11,6 @@ Author of this website. Doctor of Law, Digital Humanist. Paralegal, Office of Le
 
 ### [Legal Information Institute, Cornell Law School](https://www.law.cornell.edu/)
 
-Many thanks to the Legal Information Institute (LII) for their tremendously useful free resources which have been and continue to be a valuable source of reference. Many of the rules on this website are from LII. LII's material is covered by a Creative Commons license, viewable at http://creativecommons.org/licenses/by-nc-sa/2.5/.  
+Many thanks to the Legal Information Institute (LII) for their tremendously useful free resources which have been and continue to be a valuable source of reference. Many of the rules on this website are from LII. LII's material is covered by a Creative Commons license, viewable at [http://creativecommons.org/licenses/by-nc-sa/2.5/](http://creativecommons.org/licenses/by-nc-sa/2.5/). 
 
 ---
