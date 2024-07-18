@@ -15,7 +15,9 @@ toc:
 ---
 
 A tort is an act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability. In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment that an individual suffers.
+
 Torts claims are governed by common law and state statutory law. Judges have wide latitude in determining which actions qualify as legally cognizable wrongs, which defenses may override any given claim, and the appropriate measure of damages. Although tort law varies by state, many courts utilize the Restatement of Torts (2nd) as an influential guide.
+
 Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).
 
 ---

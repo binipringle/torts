@@ -3,8 +3,16 @@ layout: page
 title: Credits
 ---
 
-### [Sabina Pringle (she/her)](https://sabinapringle.commons.gc.cuny.edu/), JD, MADH
+### [Sabina Pringle (she/her)](https://sabinapringle.commons.gc.cuny.edu/)
 
-Juris Doctorate, CUNY School of Law, 2024; Master of Arts in Digital Humanities, The Graduate Center, 2020; Bachelor of Arts in English Literature, City College of New York, 2014; City University of New York (CUNY). My current job is Paralegal, Office of Legal Affairs and Labor Relations, Baruch College, CUNY, where I have worked since 2017. Adjunct Lecturer in English, City College of New York and Baruch College, CUNY, 2017-2020. Fulbright Teaching Assistant, Universidad del Atlántico, Barranquilla, Colombia, 2015-17. Before that I was a truck dispatcher (then traffic manager) and taught English as a second language in Spain, as well as Production Assistant for Drap’Art international festival of artistic recycling, Barcelona, Spain.
+Author of this website. Paralegal, Office of Legal Affairs and Labor Relations, Baruch College, City University of New York (CUNY), since 2017. Intern, Legal Aid Society, Bronx, New York, 2021-2024. Adjunct Lecturer in English, City College of New York and Baruch College, CUNY, 2017-2020. Senior Fulbright Teaching Assistant, Universidad del Atlántico, Barranquilla, Colombia, 2015-17. Teacher of English as an Additional Language, Alicante, Spain, 2010-2015. International Logistics Manager (truck dispatcher, traffic manager), Alicante and Barcelona, Spain, 2005-2010. Production Assistant for Drap’Art International Festival of Artistic Recycling, Barcelona, Spain, 2001-2015.
+
+Education: Juris Doctorate, CUNY School of Law, 2024; Master of Arts in Digital Humanities, The Graduate Center, CUNY, 2020; Bachelor of Arts in English Literature, City College of New York, CUNY, 2014.
+
+---
+
+### [Legal Information Institute, Cornell Law School](https://www.law.cornell.edu/)
+
+I am indebted to the Legal Information Institute (LII) for their tremendously useful free resources which have been a valuable source of reference for me since I started law school. Many of the rules on this website are from LII. LII's material is covered by a Creative Commons license, viewable at http://creativecommons.org/licenses/by-nc-sa/2.5/.  
 
 ---
