@@ -11,8 +11,8 @@ toc:
 - Intentional Torts
 - Voluntary Act
 - Intent
-- Causation (Intentional Torts)
-- Harm (Intentional Torts)
+- Causation for Intentional Torts
+- Harm for Intentional Torts
 - Battery
 - Assault
 - False Imprisonment
@@ -28,7 +28,7 @@ toc:
 - Defense of Others
 - Defense of Property
 - Authority Privilege
-- Shopkeeper's Privilege
+- Shopkeepers Privilege
 - Parent Teacher Discipline Privilege
 - Necessity Privilege
 - Public Necessity
@@ -77,13 +77,13 @@ If the defendant acted with necessary intent to inflict certain intentional tort
 
 ---
 
-## Causation
+## Causation for Intentional Torts
 
 There is causation if the defendant’s act or a force set in motion by the defendant caused the plaintiff’s injury.
 
 ---
 
-## Harm
+## Harm for Intentional Torts
 
 Varies based on the kind of tort. *Ways to establish harm: (1) establish elements of the tort; (2) prove specific injury.*
 
@@ -296,7 +296,7 @@ In an intentional torts claim a defendant can assert the privilege of authority.
 
 ---
 
-## Shopkeeper's Privilege
+## Shopkeepers Privilege
 
 A shopkeeper is not liable for false imprisonment if they had a reasonable suspicion that the defendant stole something from the shop. A shopkeeper can only detain a person for a reasonable amount of time and in a reasonable manner on the premises or immediate vicinity.
 
@@ -336,13 +336,63 @@ If the emergency which caused the defendant to commit trespass on the plaintiff'
 
 To bring a cause of action for negligence, the plaintiff has to prove (1) that the defendant owed the plaintiff a duty of care; (2) that the defendant breached that duty; (3) causation (both actual cause and proximate cause); and (4) damages.
 
+OR
+
+Negligence is conduct that falls below the applicable standard of care. A prima facie negligence claim requires that (1) defendant owed plaintiff a duty of care; (2) defendant breached the duty owed; (3) defendant’s breach was the factual cause of plaintiff’s harm; (4) defendant’s breach was the proximate cause of plaintiff’s harm; and (5) plaintiff suffered legally compensable harm.
+
 ---
 
 ## Duty
 
-Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. The test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.[^3]
+Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.[^3]
 
-[^3]: To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.
+[^3]:Rule from Core spring 2024: the test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.
+
+---
+
+## Rescuer
+
+A defendant has a duty to act if they volunteered to protect the plaintiff from harm, possibly preventing others from protecting the plaintiff. The omission of actions may be negligent when the defendant had a duty to act. If an individual voluntarily initiates a rescue attempt, that individual has a duty to complete the rescue to the extent reasonably possible, especially if the person in need of rescue reasonably relied on the individual who initiated the rescue attempt. Nonprofessional rescuers are foreseeable plaintiff’s as a matter of policy and can recover against the negligent party creating the need.
+
+If a defendant's tortious conduct creates the need to rescue, the defendant has a duty to rescue plaintiffs endangered by that conduct.
+
+Generally, there is no duty to rescue another person unless the defendant has voluntarily undertaken the rescue. In some jurisdictions, a person who initially undertakes a rescue may cease acting so long as the endangered person is not left in a worse position than she would have been in had the undertaking never been initiated. This is contrary to the majority view, which requires a person undertaking a rescue to act reasonably.
+
+Many states have good samaritan statutes that protect a rescuer unless she is reckless or engages in intentional wrongdoing.
+
+*Special relationship of dependence or mutual dependence (carrier/passenger, inn keeper/guest, captain/passengers, drinking buddies).*
+
+---
+
+## Duty to Control Third Parties
+
+Generally there is no duty to control the conduct of a third party to prevent harm to another. However, a special relationship between the defendant and a third party may create a duty to control a third party’s conduct.
+
+---
+
+## Providers of Alcohol
+
+Under the traditional rule, a provider of alcohol is not responsible for DUI injuries.
+
+The Dram Shop Acts impose liability on establishments when they know or should know that a patron is drunk and that person drives while intoxicated and harms a third party. The Dram Shop Acts do not apply to social hosts, but only to those who are licensed to sell alcohol.
+
+---
+
+## Therapist
+
+A therapist who becomes aware that her patient presents a specific, credible threat of physical violence to **a specific person** has an affirmative duty to warn that specific person. *This is not a duty that requires a full analysis so don’t do breach or causation.*
+
+---
+
+## Negligent Entrustment
+
+A defendant can be liable for negligent entrustment if they give something dangerous to a person they know or should know is not competent to handle it (for example, giving a gun to a small child).
+
+---
+
+## Duty to Protect Third Parties
+
+A special relationship between the defendant and a third party may create a duty for the defendant to protect them.
 
 ---
 
@@ -352,21 +402,83 @@ A business has a duty to use reasonable care to prevent injuries to business inv
 
 ---
 
-## Rescuer
+## Landlord Tenant
 
-A person who volunteers to rescue or protect another person has a heightened duty of care towards that person. The omission of actions may be negligent when the defendant had a duty to act. A defendant has a duty to act if they volunteered to protect the plaintiff from harm, possibly preventing others from protecting the plaintiff. If an individual voluntarily initiates a rescue attempt, that individual has a duty to complete the rescue to the extent reasonably possible, especially if the person in need of rescue reasonably relied on the individual who initiated the rescue attempt.
+Similar to business invitee.
 
-Generally, there is no duty to rescue another person unless the defendant has voluntarily undertaken the rescue. In some jurisdictions, a person who initially undertakes a rescue may cease acting so long as the endangered person is not left in a worse position than she would have been in had the undertaking never been initiated. This is contrary to the majority view, which requires a person undertaking a rescue to act reasonably.
-
-## Therapist
-
-A therapist who becomes aware that her patient presents a specific, credible threat of physical violence to others may have an affirmative duty to warn the intended victim. *This is not a duty that requires a full analysis so don’t do breach or causation.*
+Some jurisdictions only find duty where there is a special relationship **and** prior similar incidents that make the third party criminal conduct particularly foreseeable.
 
 ---
 
 ## Breach
 
 A defendant breached their duty of care if they failed to act as a reasonably prudent person would have acted under the same or similar circumstances. A reasonably prudent person takes precautions to avoid foreseeable risks.
+
+For the reasonably prudent person standard, breach is determined through the application of the Carroll Towing test, which weighs the burden of taking precautions and/or engaging in alternative conduct against the likelihood of harm due to the breach and the potential gravity of harm due to the breach. When likelihood of harm and potential gravity of harm outweigh burden, defendant has breached.
+
+---
+
+## Standard of Care
+
+A defendant owes a foreseeable plaintiff the duty to act as a reasonably prudent person would act under the same or similar circumstances to protect foreseeable plaintiffs from unreasonable risks of harm.
+
+---
+
+## Superior Knowledge
+
+Superior knowledge does not change the reasonably prudent person standard, but it should be considered in the context of the breach analysis. That defendant had superior knowledge or experience is part of the circumstances, and the defendant is expected to act reasonably with that knowledge or experience. A jury can consider how a reasonable person would behave if they knew of the dangers known to the defendant.[^4]
+
+[^4]:Superior knowledge doesn’t tend to change likelihood of harm or potential gravity; goes to burden if the defendant did not have the burden of getting information because they had it.
+
+---
+
+## Dangerous instrumentality
+
+The standard of care for negligence actions involving dangerous instrumentalities and/or dangerous circumstances remains the reasonably prudent person standard *under the circumstances*. Though the standard of care does not vary, the degree of care that is reasonable varies, and must be  proportionate to the foreseeable danger of the activity. Dangerous instrumentality should be considered in the context of the breach analysis.[^5]
+
+[^5]:Dangerous instrumentality heightens likelihood of harm. Can also go to potential gravity.
+
+---
+
+## Mental disability
+
+Mental disability is not considered part of the circumstances, so a person with mental disability is held to the same general standard of care as a reasonably prudent person without mental disability. Therefore, [defendant’s mental disability] does not change the reasonably prudent person standard and cannot be considered in the context of the breach analysis.
+
+---
+
+## Private Standard and Industry Customs
+
+The defendant may have adhered to private standard and industry customs when they acted in a way that caused harm. The private standard and industry custom does not change the reasonably prudent person standard of care, but evidence of private standards and industry customs are admissible at trial, and can impact the breach analysis. However, such evidence does not in itself determine whether the defendant adhered to the ordinary duty of care.[^6]
+
+[^6]:Private standard and industry custom can heighten burden – think of netting which was not customarily installed in the U.S. but anyway was easy and cheap to install so burden to put up netting was low.
+
+---
+
+## Eggshell Plaintiff Rule
+
+Under the common law eggshell plaintiff rule, a defendant is liable for the full extent of a plaintiff’s injury if the type of injury was foreseeable, even if the scope of the injury was not foreseeable. This is true even when the plaintiff has a preexisting condition or sensitivity that exacerbates the injury.
+
+---
+
+## Negligence Per Se
+
+Negligence is conduct that falls below the applicable standard of care. A prima facie negligence claim requires that (1) defendant owed plaintiff a duty of care; (2) defendant breached the duty owed; (3) defendant’s breach was the factual cause of plaintiff’s harm; (4) defendant’s breach was the proximate cause of plaintiff’s harm; and (5) plaintiff suffered legally compensable harm.
+
+Where there is a relevant statute, negligence per se may apply. Negligence per se is the unexcused breach of a specific judge-made or legislature-made law establishing the duty of care. Negligence per se resolves only the duty and breach elements. To prove the entire negligence cause of action, a plaintiff must also show that there was factual causation, proximate causation and actual harm.
+
+*If negligence per se is not satisfied, then the statute does not substitute the reasonably prudent person standard, negligence per se fails, and you default back to using the reasonably prudent person standard.*
+
+---
+
+## Duty for Negligence Per Se
+
+To replace the general duty of care with a duty of care from a statute, a plaintiff must prove that (1) the statute clearly defines the required standard of conduct applicable to the facts of the case; (2) the statute was intended to prevent the type of harm the defendant’s act or omission caused; and (3) the plaintiff is a member of the class of persons the statute was designed to protect.
+
+---
+
+## Breach for Negligence Per Se
+
+Even where a defendant breaches a statutory duty of care, they are not negligent if they have a legally sufficient excuse for violating the statute. Legally sufficient excuses for violating a statute include (1) incapacity; (2) not knowing of occasion for compliance; (3) inability to comply after reasonable diligence or care; (4) emergency not due to own misconduct; and (5) compliance involving greater risk of harm to defendant or others.
 
 ---
 
@@ -378,7 +490,31 @@ Under torts law, causation is satisfied if there is actual cause and proximate c
 
 ## Actual Cause
 
-A defendant’s conduct is the actual cause of an event if that event would not have occurred but for the defendant’s conduct.
+A defendant’s conduct is the actual cause of the plaintiff's harm if that harm would not have occurred but for the defendant’s conduct.
+
+To satisfy this standard, defendant’s breach need not be the sole “but for” cause, just a “but for” cause, of plaintiff’s harm.
+
+*If but-for test fails, see if breaching conduct was actual cause under an alternative theory of factual causation.*
+
+---
+
+## Alternative Theory of Actual Causation
+
+In order to serve the underlying goals of tort law, compensation of innocent plaintiffs, courts have developed additional tests for actual cause.
+
+---
+
+## Substantial Factor Test
+
+The substantial factor test provides that the actual cause element is satisfied where (1) there are two or more successive or concurrent causes of plaintiff’s harm; (2) each cause in itself would be sufficient to cause plaintiff’s entire harm; and (3) plaintiff endures a single, indivisible harm.
+
+---
+
+## Alternative Causation Test
+
+The alternative causation test provides that when the “but-for” test does not work, the actual cause element is satisfied as to each defendant where (1) there are two or more defendants, all of whom are before the court; (2) all defendants breached their duty of care; (3) injury was caused by only one of the defendants;  and (4) it was impossible to tell from the facts which defendant caused the injury.
+
+*In such cases, the “but for” analysis does not work; remember the shotguns in the field.*
 
 ---
 
@@ -386,18 +522,130 @@ A defendant’s conduct is the actual cause of an event if that event would not 
 
 A defendant’s conduct is the proximate cause of an event if the event was foreseeable, and no intervening cause came between the defendant’s conduct and the event.
 
+Proximate cause is not about causation – it is a policy analysis that asks whether it is fair to hold a defendant liable where that defendant is the actual cause of the plaintiff’s harm.
+
 ---
 
-## Damages
+## Foreseeability
+
+For defendant’s breach to be a proximate cause of plaintiff’s injury, first, the type of harm suffered by the plaintiff must be a foreseeable consequence of the defendant’s breaching conduct.
+
+*Check whether eggshell plaintiff rule triggered!!*
+
+---
+
+## Intervening Acts
+
+Four types of intervening acts are generally considered unforeseeable (although on the facts, they might be foreseeable). These are (1) acts of nature; (2) intentional torts of third parties; (3) criminal acts of third parties; and (4) gross negligence of third parties. Gross negligence is the “conscious and voluntary disregard of the need to use reasonable care.” It involves a greater degree of carelessness than ordinary negligence.
+
+Generally, ordinary negligence by third parties is a foreseeable intervening cause. However, the foreseeability of all intervening acts (including the above) must be determined by a factual analysis.
+
+---
+
+## Harm or Damages
+
+For a defendant to be liable for negligence, the plaintiff must have suffered a legally compensable harm. Legally compensable harm includes physical or emotional injury to the plaintiff, as well as injury to the plaintiff's property.
+
+OR
 
 Under torts law, harm to the plaintiff must be either bodily harm or harm to property (personal property or real property).
 
 ---
 
-## Eggshell Plaintiff Rule
+## Defenses for Negligence
 
-Under the common law eggshell plaintiff rule, a defendant is liable for the full extent of a plaintiff’s injury if the type of injury was foreseeable, even if the scope of the injury was not foreseeable. This is true even when the plaintiff has a preexisting condition or sensitivity that exacerbates the injury.
+There are certain defenses that the plaintiff may assert.
 
 ---
 
-## Defenses
+## Contributory Negligence
+
+Contributory negligence is conduct by the plaintiff that falls below the applicable standard of care and that defendant can raise as a defense against plaintiff’s prima facie negligence claim. Similar to the prima facie case of negligence, contributory negligence requires proof that (1) plaintiff owed herself a duty of care; (2) plaintiff breached the duty owed; (3) plaintiff’s breach was the actual cause of plaintiff’s harm; (4) plaintiff’s breach was the proximate cause of plaintiff’s harm; and (5) plaintiff suffered legally compensable harm.
+
+---
+
+## Duty for Contributory Negligence
+
+The reasonably prudent person standard may or may not apply to the contributory negligence analysis.
+
+*If the reasonably prudent person standard applies, only breach and actual cause need to be analyzed.*
+
+---
+
+## Breach for Contributory Negligence
+
+For contributory negligence, breach is determined through the application of the Carroll Towing test, which weighs the likelihood of harm due to the plaintiff’s breach and the potential gravity of harm due to the plaintiff’s breach against the plaintiff’s burden of taking precautions or engaging in alternative conduct. When the likelihood of harm and gravity of harm outweigh the burden, plaintiff has breached.
+
+*See Carrol Towing analysis for breach above*
+
+---
+
+## Actual Cause for Contributory Negligence
+
+The default test is “but for,” which for contributory negligence asks whether the plaintiff’s harm would have occurred absent the plaintiff’s breaching conduct. To satisfy this standard, plaintiff’s breach need not be the sole “but for” cause, just a “but for” cause, of plaintiff’s harm.
+
+---
+
+## Proximate Cause for Contributory Negligence
+
+A defendant’s conduct is the proximate cause of an event if the event was foreseeable, and no intervening cause came between the defendant’s conduct and the event.
+
+*Do foreseeability and intervening acts analysis (see above).*
+
+---
+
+## Vicarious Liability
+
+Vicarious liability is a doctrine under which an employer can be held liable for the negligence of its employees. In order for an employer to be vicariously liable, (1) the tortfeasor must be an employee of the employer, and (2) the tortfeasor must have acted in the scope of employment.
+
+*If the instructions say to assume that [employee] was an employee of [employer] and that [he/she/they] acted negligently, only the second element – whether [employee] acted negligently in the scope of [his/her/their] employment – needs to be analyzed.*
+
+---
+
+## Negligence for Vicarious Liability
+
+An employee acted negligently in the scope of their employment if they commit a tort within the scope of employment when performing a service in furtherance of the employer’s business.
+
+*See if going and coming rule is triggered*
+
+---
+
+## Going and Coming Rule
+
+When a tort occurs during an employee’s commute to or from work, the Going and Coming rule determines whether the employee was acting in furtherance of the employer’s business at the time. The rule states that an employee going to and from work is ordinarily not acting in furtherance of the employer’s business because they are outside the time and space restrictions of their employment. Therefore, generally, the employer is not vicariously liable for a tort that occurs during an employee’s commute to or from work.
+
+However, there are exceptions to the Going and Coming rule.
+
+---
+
+## Incidental Benefit Exception to Going and Coming Rule
+
+Incidental Benefit is an exception to the Going and Coming rule. Where the trip involves an incidental benefit to employer that is not common to the commute of ordinary members of the work force, the Going and Coming rule does not apply and the employee acts within the scope of employment.
+
+---
+
+## Dual Purpose Exception to Going and Coming Rule
+
+Dual Purpose Doctrine is an exception to the Going and Coming rule. An employer is vicariously liable if, in addition to going home or to work, an employee is performing some work-related task.[^7]
+
+[^7]:From professor’s rubric (watch out because very fact specific but also law): Although plausible, dual purpose is not the strongest argument here because (1) this scenario does not fit the mold of a standard dual purpose exception to the Going and Coming rule because it does not involve the employee performing an additional discrete task while commuting (e.g., picking up tools at the employer’s request on the way to/from work); and (2) the dual purpose analysis relates directly to the employee’s tort (i.e., speeding), rather than to some separate act (e.g., completing an expense report in the Edgewater case). Courts are less likely to glean a dual purpose from the tortious conduct, as tortious conduct is arguably always against the interests of an employer.
+
+---
+
+## Special Hazard Exception to Going and Coming Rule
+
+Special Hazard is an exception to the Going and Coming rule. An employer is vicariously liable when the employee’s commute involves a special hazard.
+
+---
+
+## Frolic and Detour
+
+An employee acts within the scope of employment when she commits a tort while performing service in furtherance of the employer’s business. The frolic and detour rules apply to factual scenarios where an employee leaves work during work hours.
+
+The frolic rule states that an employee acts outside the scope of employment when, during work hours, the employee goes to a place not associated with work for a purpose not associated with work and commits a tort then.
+
+The detour rule states that an employee acts within the scope of employment if, during work hours, the employee makes a slight departure from work and commits a tort then.
+
+To distinguish between frolic and detour, courts consider (1) the length of time of departure; (2) physical distance of departure from place or route assigned or expected to be used; and (3) the extent to which the employee was at the time secondarily accomplishing the purpose of employment.
+
+---
