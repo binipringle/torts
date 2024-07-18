@@ -37,13 +37,15 @@ toc:
 
 ---
 
-A tort is an act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability. In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment that an individual suffers.
+A tort is an act or omission that gives rise to injury or harm[^1] to another and amounts to a civil wrong for which courts impose liability.
 
 Torts claims are governed by common law and state statutory law. Judges have wide latitude in determining which actions qualify as legally cognizable wrongs, which defenses may override any given claim, and the appropriate measure of damages. Although tort law varies by state, many courts utilize the Restatement of Torts (2nd) as an influential guide.
 
-Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).[^1]
+Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).[^2]
 
-[^1]:General rule and other rules in this outline adapted from Legal Information Institute, Cornell Law School.
+[^1]:In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment that an individual suffers.
+
+[^2]:General rule and other rules in this outline adapted from Legal Information Institute, Cornell Law School.
 
 ---
 
@@ -51,9 +53,9 @@ Torts fall into three general categories. These are (1) **intentional torts**; (
 
 1.	Is this torts (not criminal law or something else)?
 2.	Who is the plaintiff?
-3.	Who is the defendant or responsible parties?
+3.	Who is the defendant?
 4.	What is the harm?
-5.	What legal theory or theories can the plaintiff assert?
+5.	What legal theories can the plaintiff assert?
 
 ---
 
@@ -197,9 +199,9 @@ There must be actual damage, but it does not need to be actual damage to the cha
 
 Remedies include damages such as cost of repair, fair market rental value, as well as punitive damages if the defendant is a particularly bad actor (willful, wanton, or malicious conduct).
 
-Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^2]
+Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^3]
 
-[^2]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
+[^3]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
 
 ---
 
@@ -344,9 +346,9 @@ Negligence is conduct that falls below the applicable standard of care. A prima 
 
 ## Duty
 
-Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.[^3]
+Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.[^4]
 
-[^3]:Rule from Core spring 2024: the test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.
+[^4]:Rule from Core spring 2024: the test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.
 
 ---
 
@@ -426,17 +428,17 @@ A defendant owes a foreseeable plaintiff the duty to act as a reasonably prudent
 
 ## Superior Knowledge
 
-Superior knowledge does not change the reasonably prudent person standard, but it should be considered in the context of the breach analysis. That defendant had superior knowledge or experience is part of the circumstances, and the defendant is expected to act reasonably with that knowledge or experience. A jury can consider how a reasonable person would behave if they knew of the dangers known to the defendant.[^4]
+Superior knowledge does not change the reasonably prudent person standard, but it should be considered in the context of the breach analysis. That defendant had superior knowledge or experience is part of the circumstances, and the defendant is expected to act reasonably with that knowledge or experience. A jury can consider how a reasonable person would behave if they knew of the dangers known to the defendant.[^5]
 
-[^4]:Superior knowledge doesn’t tend to change likelihood of harm or potential gravity; goes to burden if the defendant did not have the burden of getting information because they had it.
+[^5]:Superior knowledge doesn’t tend to change likelihood of harm or potential gravity; goes to burden if the defendant did not have the burden of getting information because they had it.
 
 ---
 
 ## Dangerous instrumentality
 
-The standard of care for negligence actions involving dangerous instrumentalities and/or dangerous circumstances remains the reasonably prudent person standard *under the circumstances*. Though the standard of care does not vary, the degree of care that is reasonable varies, and must be  proportionate to the foreseeable danger of the activity. Dangerous instrumentality should be considered in the context of the breach analysis.[^5]
+The standard of care for negligence actions involving dangerous instrumentalities and/or dangerous circumstances remains the reasonably prudent person standard *under the circumstances*. Though the standard of care does not vary, the degree of care that is reasonable varies, and must be  proportionate to the foreseeable danger of the activity. Dangerous instrumentality should be considered in the context of the breach analysis.[^6]
 
-[^5]:Dangerous instrumentality heightens likelihood of harm. Can also go to potential gravity.
+[^6]:Dangerous instrumentality heightens likelihood of harm. Can also go to potential gravity.
 
 ---
 
@@ -448,9 +450,9 @@ Mental disability is not considered part of the circumstances, so a person with 
 
 ## Private Standard and Industry Customs
 
-The defendant may have adhered to private standard and industry customs when they acted in a way that caused harm. The private standard and industry custom does not change the reasonably prudent person standard of care, but evidence of private standards and industry customs are admissible at trial, and can impact the breach analysis. However, such evidence does not in itself determine whether the defendant adhered to the ordinary duty of care.[^6]
+The defendant may have adhered to private standard and industry customs when they acted in a way that caused harm. The private standard and industry custom does not change the reasonably prudent person standard of care, but evidence of private standards and industry customs are admissible at trial, and can impact the breach analysis. However, such evidence does not in itself determine whether the defendant adhered to the ordinary duty of care.[^7]
 
-[^6]:Private standard and industry custom can heighten burden – think of netting which was not customarily installed in the U.S. but anyway was easy and cheap to install so burden to put up netting was low.
+[^7]:Private standard and industry custom can heighten burden – think of netting which was not customarily installed in the U.S. but anyway was easy and cheap to install so burden to put up netting was low.
 
 ---
 
@@ -626,9 +628,9 @@ Incidental Benefit is an exception to the Going and Coming rule. Where the trip 
 
 ## Dual Purpose Exception to Going and Coming Rule
 
-Dual Purpose Doctrine is an exception to the Going and Coming rule. An employer is vicariously liable if, in addition to going home or to work, an employee is performing some work-related task.[^7]
+Dual Purpose Doctrine is an exception to the Going and Coming rule. An employer is vicariously liable if, in addition to going home or to work, an employee is performing some work-related task.[^8]
 
-[^7]:From professor’s rubric (watch out because very fact specific but also law): Although plausible, dual purpose is not the strongest argument here because (1) this scenario does not fit the mold of a standard dual purpose exception to the Going and Coming rule because it does not involve the employee performing an additional discrete task while commuting (e.g., picking up tools at the employer’s request on the way to/from work); and (2) the dual purpose analysis relates directly to the employee’s tort (i.e., speeding), rather than to some separate act (e.g., completing an expense report in the Edgewater case). Courts are less likely to glean a dual purpose from the tortious conduct, as tortious conduct is arguably always against the interests of an employer.
+[^8]:From professor’s rubric (watch out because very fact specific but also law): Although plausible, dual purpose is not the strongest argument here because (1) this scenario does not fit the mold of a standard dual purpose exception to the Going and Coming rule because it does not involve the employee performing an additional discrete task while commuting (e.g., picking up tools at the employer’s request on the way to/from work); and (2) the dual purpose analysis relates directly to the employee’s tort (i.e., speeding), rather than to some separate act (e.g., completing an expense report in the Edgewater case). Courts are less likely to glean a dual purpose from the tortious conduct, as tortious conduct is arguably always against the interests of an employer.
 
 ---
 
