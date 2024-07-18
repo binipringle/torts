@@ -7,6 +7,6 @@ source:
 
 ---
 
-References will be listed here (for example, secondary sources and so on) 
+References might be listed here (for example, secondary sources and so on). 
 
 ---
