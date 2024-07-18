@@ -11,6 +11,29 @@ toc:
 - Intentional Torts
 - Voluntary Act
 - Intent
+- Causation (Intentional Torts)
+- Harm (Intentional Torts)
+- Battery
+- Assault
+- False Imprisonment
+- Intentional Infliction of Emotional Distress
+- Trespass to Land
+- Trespass to Chattels
+- Conversion
+- Defenses and Privileges to Intentional Torts
+- Consent
+- Express Consent
+- Implied consent
+- Self-Defense
+- Defense of Others
+- Defense of Property
+- Authority Privilege
+- Shopkeeper's Privilege
+- Parent Teacher Discipline Privilege
+- Necessity Privilege
+- Public Necessity
+- Private Necessity
+- Negligence
 
 ---
 
@@ -18,7 +41,9 @@ A tort is an act or omission that gives rise to injury or harm to another and am
 
 Torts claims are governed by common law and state statutory law. Judges have wide latitude in determining which actions qualify as legally cognizable wrongs, which defenses may override any given claim, and the appropriate measure of damages. Although tort law varies by state, many courts utilize the Restatement of Torts (2nd) as an influential guide.
 
-Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).
+Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).[^1]
+
+[^1]:General rule and other rules in this outline adapted from Legal Information Institute, Cornell Law School.
 
 ---
 
@@ -172,15 +197,15 @@ There must be actual damage, but it does not need to be actual damage to the cha
 
 Remedies include damages such as cost of repair, fair market rental value, as well as punitive damages if the defendant is a particularly bad actor (willful, wanton, or malicious conduct).
 
-Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^1]
+Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^2]
 
-[^1]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
+[^2]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
 
 ---
 
-## Trespass to Conversion
+## Conversion
 
-A person is liable for trespass to conversion if they intentionally exercise dominion or control over or cause the destruction of or serious and substantial interference with another person’s chattel.
+A person is liable for conversion if they intentionally exercise dominion or control over or cause the destruction of or serious and substantial interference with another person’s chattel.
 
 Mistake is not a defense. A defendant is liable for conversion even if acting in good faith.
 
@@ -190,7 +215,7 @@ Destruction or Serious and Substantial Interference is the exercise by the defen
 
 Remedies include forced sale (common), where the price will be the fair market value at the time the chattel was converted, and replevin.
 
-## Table
+---
 
 | Trespass to Chattels | Conversion |
 |--------------------------------------------------|--------------------------------------------------|
@@ -271,7 +296,7 @@ In an intentional torts claim a defendant can assert the privilege of authority.
 
 ---
 
-## Shopkeeper’s Privilege
+## Shopkeeper's Privilege
 
 A shopkeeper is not liable for false imprisonment if they had a reasonable suspicion that the defendant stole something from the shop. A shopkeeper can only detain a person for a reasonable amount of time and in a reasonable manner on the premises or immediate vicinity.
 
@@ -306,3 +331,73 @@ Private necessity does not serve as an absolute defense to liability for trespas
 If the emergency which caused the defendant to commit trespass on the plaintiff's property continues, the defendant is entitled to remain on the plaintiff's land and cannot be ejected as long as the emergency continues.
 
 ---
+
+## Negligence
+
+To bring a cause of action for negligence, the plaintiff has to prove (1) that the defendant owed the plaintiff a duty of care; (2) that the defendant breached that duty; (3) causation (both actual cause and proximate cause); and (4) damages.
+
+---
+
+## Duty
+
+Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. The test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.[^3]
+
+[^3]: To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.
+
+---
+
+## Business Invitee
+
+A business has a duty to use reasonable care to prevent injuries to business invitees. A business invitee is a person welcomed inside or onto property by a business for commercial purposes. The business has a duty to discover dangerous artificial conditions that invitees would not reasonably be aware of, and warn invitees of the existence of such conditions or to make such conditions safe.
+
+---
+
+## Rescuer
+
+A person who volunteers to rescue or protect another person has a heightened duty of care towards that person. The omission of actions may be negligent when the defendant had a duty to act. A defendant has a duty to act if they volunteered to protect the plaintiff from harm, possibly preventing others from protecting the plaintiff. If an individual voluntarily initiates a rescue attempt, that individual has a duty to complete the rescue to the extent reasonably possible, especially if the person in need of rescue reasonably relied on the individual who initiated the rescue attempt.
+
+Generally, there is no duty to rescue another person unless the defendant has voluntarily undertaken the rescue. In some jurisdictions, a person who initially undertakes a rescue may cease acting so long as the endangered person is not left in a worse position than she would have been in had the undertaking never been initiated. This is contrary to the majority view, which requires a person undertaking a rescue to act reasonably.
+
+## Therapist
+
+A therapist who becomes aware that her patient presents a specific, credible threat of physical violence to others may have an affirmative duty to warn the intended victim. *This is not a duty that requires a full analysis so don’t do breach or causation.*
+
+---
+
+## Breach
+
+A defendant breached their duty of care if they failed to act as a reasonably prudent person would have acted under the same or similar circumstances. A reasonably prudent person takes precautions to avoid foreseeable risks.
+
+---
+
+## Causation
+
+Under torts law, causation is satisfied if there is actual cause and proximate cause.
+
+---
+
+## Actual Cause
+
+A defendant’s conduct is the actual cause of an event if that event would not have occurred but for the defendant’s conduct.
+
+---
+
+## Proximate Cause
+
+A defendant’s conduct is the proximate cause of an event if the event was foreseeable, and no intervening cause came between the defendant’s conduct and the event.
+
+---
+
+## Damages
+
+Under torts law, harm to the plaintiff must be either bodily harm or harm to property (personal property or real property).
+
+---
+
+## Eggshell Plaintiff Rule
+
+Under the common law eggshell plaintiff rule, a defendant is liable for the full extent of a plaintiff’s injury if the type of injury was foreseeable, even if the scope of the injury was not foreseeable. This is true even when the plaintiff has a preexisting condition or sensitivity that exacerbates the injury.
+
+---
+
+## Defenses
