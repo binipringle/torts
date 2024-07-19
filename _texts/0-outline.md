@@ -46,7 +46,7 @@ A tort is an act or omission that gives rise to injury or harm[^1] to another an
 
 ---
 
-## Intentional Torts
+# Intentional Torts
 
 An intentional tort is an injury or harm that the defendant knew or should have known would result from their act or omission. Elements of intentional torts are (1) voluntary act; (2) intent; (3) causation; and (4) harm.
 
@@ -321,7 +321,7 @@ If the emergency which caused the defendant to commit trespass on the plaintiff'
 
 ---
 
-## Negligence
+# Negligence
 
 To bring a cause of action for negligence, the plaintiff has to prove that (1) the defendant owed the plaintiff a duty of care; (2) the defendant breached that duty; (3) the defendant’s breach caused the plaintiff’s harm; and (5) the plaintiff suffered legally compensable harm.
 
@@ -799,6 +799,18 @@ An employee acted negligently in the scope of their employment if they commit a 
 
 ---
 
+## Independent Contractors for Vicarious Liability
+
+An employer is not vicariously liable for torts committed by independant contractors. Independant contractor status depends on whether the employer who hired dictates the means, method, and manner of the independant contractor's work. The more control exercised, the more likely the person is an employee and not an independant contractor.
+
+---
+
+## Parent Child for Vicarious Liability
+
+Parents are not generally vicariously liable for torts of the child absent a statute saying otherwise. Parents can be liable for their own negligence, negligent supervision, or entrustment.
+
+---
+
 ## Going and Coming Rule
 
 When a tort occurs during an employee’s commute to or from work, the Going and Coming rule determines whether the employee was acting in furtherance of the employer’s business at the time. The rule states that an employee going to and from work is ordinarily not acting in furtherance of the employer’s business because they are outside the time and space restrictions of their employment. Therefore, generally, the employer is not vicariously liable for a tort that occurs during an employee’s commute to or from work.
@@ -839,94 +851,354 @@ To distinguish between frolic and detour, courts consider (1) the length of time
 
 ---
 
-# STRICT LIABILITY
+# Strict Liability
 
-Strict Liability (SL): defendant is liable for injuring plaintiff regardless of whether defendant exercised due care. plaintiff does not have to show proof of fault.
+In tort law, there are two broad categories of activities for which a plaintiff may be held strictly liable. These are possession of certain animals and abnormally dangerous activities.  Additionally, in the area of torts known as products liability, there is a sub-category known as strict products liability which applies when a defective product for which an appropriate defendant holds responsibility causes injury to an appropriate plaintiff.
 
-### Possession of Animals
-
-**Wild Animal Rule:** If defendant keeps a wild animal and plaintiff gets injured because it does something characteristic of that animal, keeper is strictly liable no matter how unforeseeable the harm.
-
-*For example, even if a pet tiger has always been gentle, owner is going to be held strictly liable if the tiger bites off a plaintiff's hand.*
-
-**Domestic Pet Rule:** “Every dog gets one free bite.” Not liable unless defendant is on notice of danger.
-
-### Abnormally Dangerous Activities
-
-An activity is abnormally dangerous when:
-- There is a high risk of serious harm to others;
-- D cannot engage in the activity without risk, and cannot eliminate the risk with care; and
-- It is not a commonly undertaken activity in the community.
-
-P can recover absent proof of fault as long as defendant was involved and the activity caused the harm.
-
-**Proximate Cause:** plaintiff must be injured by the risk that makes the activity dangerous.
+If a defendant is strictly liable for injuring a plaintiff, the plaintiff does not have to show proof of fault.
 
 ---
 
-### Defenses
+## Possession of Wild Animals
 
-**Contributory Negligence:** defendant generally cannot raise this defense with strict liability.
+If defendant keeps a wild animal and plaintiff gets injured because it does something characteristic of that animal, keeper is strictly liable no matter how unforeseeable the harm.
 
-**Exception:** plaintiff knew of the danger that justified imposition of strict liability, and his action caused exactly that danger to manifest. Here, plaintiff could be said to have assumed the risk, and plaintiff is completely barred from recovery.
+*For example, even if a pet tiger has always been gentle, owner is going to be held strictly liable if the tiger bites off a plaintiff's hand.*
 
-*Example:* Pam is driving on the highway and she is listening to the radio when she sees a sign that says “Danger: Blasting—Radio signals can trigger an explosion. Turn off your radio” that Dynaco had posted. Pam did not turn off her radio. There is an explosion that causes injury to her, and she sues Dynaco in strict liability. Dynaco can assert a defense that she knew of the danger and chose to confront it, and therefore assumed the risk of injury. If Pam were speeding and did not see the sign, she gets full recovery because contributory negligence would not be a defense to strict liability.
+**Domestic Pet Rule:** “Every dog gets one free bite.” The defendant is not liable unless the defendant knows the dog is dangerous.
 
-# PRODUCTS LIABILITY
+---
 
-### Strict Products Liability
+## Abnormally Dangerous Activities
 
-**Proper P:** Any plaintiff who is a user, consumer, or bystander physically injured by a defective product. No requirement of contract privity.
+An activity is abnormally dangerous when (1) there is a high risk of serious harm to others; (2) the defendant cannot engage in the activity without risk, and cannot eliminate the risk with care; and (3) the activity is not commonly undertaken in the community.
 
-**Proper D:** Commercial suppliers at all levels of the distribution chain and those in the market of selling the product – manufacturer, wholesaler, and retailer. Does not include occasional sellers and those supplying services.
+**Proximate Cause:** plaintiff must be injured by the risk that makes the activity dangerous.
 
-**Proper Context for Products Liability:** Generally services alone are not enough. When both a product and services are present, the goods/product must dominate.
+The plaintiff can recover unless they were also at fault.
 
-*Example:* Prudence goes into Valerie’s beauty salon and wants a perm. Valerie chooses a perm manufactured by DunCo and applies it to Prudence. Prudence goes bald and sues Valerie in strict liability. The court says that the product predominates and Valerie can be a proper defendant in strict products liability. Different from a dentist using a defective needle to administer Novocain.
+---
 
-**Defect:** Almost all jurisdictions impose strict liability where the product is in an unreasonably dangerous defective condition. Formulations of liability occur under 3 categories of defect:
+## Defenses to Strict Liability
 
-**Manufacturing Defect:** Manufactured in a form other than intended by manufacturer. plaintiff must show:
-- Product is in a condition not intended by manufacturer and defect existed when leaving manufacturer’s hands.
+A defendant can bring various defenses against strict liability.
 
-**Design Defect:** Made as intended by manufacturer but still presents a danger of personal injury or property damage to plaintiff because of a flawed design. Two tests:
-- **Ordinary Consumer Expectation Test:** Product is more dangerous than would be contemplated by the ordinary consumer who possesses ordinary knowledge common to the community.
-*Example:* The goggles only protect the front, but not the side. Plaintiff is welding and a piece of metal flies into his eye. Plaintiff sues for a design defect, saying that the design of the goggles should have protected the side. Plaintiff loses under this approach. Ordinary consumer would not expect side protection.
+## Contributory Negligence for Strict Liability
 
-- **Risk-Utility Balancing Test:** Jury determines whether the danger the design threatens (cost in human injury and property damage), outweighs its utility to society. Product will be found defective if an alternative design could have reduced the danger at about the same cost.
-  - Questions to ponder: How easy would it be to swap out the defective design for the alternatives? How high is the likelihood of harm and how bad would the harm be if it happened? How important/useful is the product?
+A defendant generally cannot raise the contributory negligence defense with strict liability, except where plaintiff knew of the danger that justified the imposition of strict liability, and the plaintiff's action caused exactly that danger to manifest. Here, plaintiff could be said to have assumed the risk, and plaintiff is completely barred from recovery.
 
-**Warnings**
+---
 
-**P is Asserting a Warning is Inadequate:** The test here is reasonableness. Does the warning reasonably inform a reader of the risks of the product and how to reduce them? Look at language, placement, size of font, and clarity.
-*Example:* DunCo manufactures a pod-shaped laundry detergent called, Clothes-B-Clean that looks a lot like candy. The box includes the words, “Danger—Keep Out of Reach of Children.” A child thinks the pod is candy, eats it, becomes extremely ill and is hospitalized. A better warning would explicitly state that the pods could cause significant harm if eaten.
+## Strict Products Liability
 
-**P is Asserting There is no Warning:** A manufacturer has to warn about risks of which it knows or should know. Consider the gravity and probability of harm.
-- 1% risk of death – they should warn.
-- 1% risk of tooth discoloration – probably not.
+A **proper plaintiff** is any plaintiff who is a user, consumer, or bystander physically injured by a defective product. No requirement of contract privity.
+
+A **proper defendant** is a commercial supplier at all levels of the distribution chain and in the market selling the product, including manufacturer, wholesaler, and retailer. This does not include occasional sellers and those supplying services.
+
+---
+
+## Proper Context for Products Liability
+
+Generally services alone are not enough. When both a product and services are present, the goods or product must dominate.
+
+*For example, if a beauty salon applies a perm manufactured by PermaCo causing plaintiff to go bald, beauty salon is strictly liable. This is different from a dentist using a defective needle.*
+
+---
+
+## Defect
+
+Almost all jurisdictions impose strict liability where the product is in an unreasonably dangerous defective condition. Formulations of liability occur under 3 categories of defect. These are **Manufacturing Defect**, **Design Defect**, and **Inadequate Warning**.
+
+---
+
+## Manufacturing Defect
+
+To show that there was a manufacturing defect, the plaintiff must show that (1) the product is in a condition not intended by the manufacturer and; (2) the defect existed when it left the manufacturer’s hands.
+
+---
+
+## Design Defect
+
+To show that there was a design defect, the plaintiff must show that the product was as intended by manufacturer but still presented a danger of personal injury or property damage to the plaintiff because of a flawed design. There are two tests for design defect.
+
+The **ordinary consumer expectation test:** If the product is more dangerous than would be contemplated by the ordinary consumer who possesses ordinary knowledge common to the community, the defendant is liable for design defect.
+
+Courts use the **Risk-Utility Balancing Test** to determine whether the danger the design threatens (cost in human injury and property damage), outweighs its utility to society. Product will be found defective if an alternative design could have reduced the danger at about the same cost.
+
+*Think of how easy it would be to change design, likelihood of harm, gravity of harm, and utility of product.
+
+---
+
+## Inadequate Warning
+
+A plaintiff can bring a strict product liability claim on the basis that the warning was inadequate. Courts use a reasonableness test, which asks if the warning reasonably informs a reader of the risks of the product and how to reduce them. *Look at language, placement, size of font, and clarity.*
+
+---
+
+## No Warning
+
+A manufacturer has a duty to warn about risks of which it knows or should know. Courts consider the gravity and probability of harm.
+
+*If there is 1% risk of death – they should warn; if there is 1% risk of tooth discoloration – probably not.*
+
+---
+
+## Causation for Strict Product Liability
 
 **Cause-in-Fact:** Usually proven by showing that the defect that injured plaintiff was in existence at the time it left defendant’s control.
 
 **Proximate Cause:** Look for superseding causes which might break the chain of causation. For instance, did plaintiff use/alter the product in an unforeseeable way?
-*Example:* Manufacturer mixes gasoline and kerosene and sells to a pharmacy. Pharmacy discovers the mixture and calls the manufacturer and alerts it. Pam comes in and buys the mixture. She is injured and sues the manufacturer. The pharmacy’s decision to continue to sell the defective product is a superseding cause.
 
 **Learned Intermediary Doctrine:** If a manufacturer provides a warning to a doctor, the manufacturer can expect that the doctor will pass the warning on to the patient. If the doctor does not, the doctor is a superseding cause of the patient’s harm.
 
-**Damages:** Recoverable when there is personal injury or property damage other than to the product itself. Where the harm is only to the product itself, the only claim is breach of warranty.
+---
 
-*Hypothetical:* DunCo sells a defective truck to Paul. Because of the defect, one morning, Paul cannot get the truck to start and thus is unable to make his scheduled deliveries, causing him to lose $10,000. May Paul pursue a strict product liability action? NO. Even though there is a design defect in the truck, he cannot bring an action because the only harm is to the product itself with subsequent economic losses. Only remedy is warranty. If the truck had caused damage to his garage, he would have been able to bring an action because of other property damage.
+## Damages for Strict Product Liability
 
-### Defenses
+Recoverable when there is personal injury or property damage other than to the product itself. Where the harm is only to the product itself, the only claim is breach of warranty.
 
-**Misuse:** plaintiff’s use of the product is neither intended nor foreseeable. defendant may still be held liable for foreseeable misuse.
-*Example:* Plaintiff contracts a rash after Jello wrestling and sues. Wrestling in Jello is not the intended use of the product; therefore, Jello wrestling is a misuse of a product that is not defective and plaintiff cannot recover.
+---
 
-**Alteration:** Employer removes safety devices to increase efficiency.
-- Alteration or modification must occur between the time the product leaves the manufacturer’s control and the time of plaintiff’s injury.
+## Defenses for Strict Product Liability
 
-**Assumption of the Risk:** Where plaintiff has used the product with knowledge of the risk.
-*Example:* Dumont manufactures a TV. Pam is watching TV and it is the final moments of the final episode of her favorite television show. Pam sees that the TV is smoking and sparking, but refuses to turn it off. The TV explodes and burns a carpet and the sofa. Pam sues. Dumont can assert assumption of the risk. However, if Pam did not see the smoke and sparks, then Pam did not assume the risk and recovery is not barred.
+There are various defenses for strict product liability.
 
-**Contributory Negligence:** As initially conceived, a plaintiff’s unreasonable conduct was not a defense to a strict products liability action unless the plaintiff knew of the defect, comprehended the risks posed by the defect, and voluntarily elected to expose himself to those risks. That is, only an assumption of the risk was a defense to strict products liability. At modern law, contributory negligence only applies as a defense to strict products liability if the plaintiff’s conduct rises to the level of misuse, abnormal use, or independent negligence (i.e., not where the plaintiff’s wrongful conduct is a failure to discover the defect). A plaintiff’s continued use of a product which the plaintiff knows to be defective is not voluntary, and thus not an assumption of the risk, if there are no practicable alternatives to such use. Where a defendant can show that his product was subsequently altered in an unforeseeable manner by someone in the chain of distribution or a third party, courts usually relieve that defendant of liability.
+---
 
-**Comparative Negligence:** Some jurisdictions that have adopted a comparative negligence system as to negligence also apply that system to strict liability. A plaintiff’s wrongful conduct that contributes, along with the defective product
+## Misuse
+
+If the plaintiff’s use of the product is neither intended nor foreseeable, the defendant may have a defense. If the misuse was foreseeable, the defendant may be held liable for foreseeable misuse.
+
+---
+
+## Alteration
+
+If the product was altered or modified between the time the product leaves the manufacturer’s control and the time of plaintiff’s injury, the manufacturer may not be strictly liable.
+
+---
+
+## Assumption of the Risk for Strict Product Liability
+
+If plaintiff has used the product with knowledge of the risk, the defendant may not be strictly liable for the product.
+
+---
+
+## Contributory Negligence for Strict Product Liability
+
+At modern law, contributory negligence only applies as a defense to strict products liability if the plaintiff’s conduct rises to the level of misuse, abnormal use, or independent negligence (i.e., not where the plaintiff’s wrongful conduct is a failure to discover the defect). A plaintiff’s continued use of a product which the plaintiff knows to be defective is not voluntary, and thus not an assumption of the risk, if there are no practicable alternatives to such use. Where a defendant can show that his product was subsequently altered in an unforeseeable manner by someone in the chain of distribution or a third party, courts usually relieve that defendant of liability.
+
+---
+
+## Comparative Negligence  for Strict Product Liability
+
+Some jurisdictions that have adopted a comparative negligence system as to negligence also apply that system to strict liability. A plaintiff’s wrongful conduct that contributes, along with the defective product to his own injury reduces his recovery in some amount. This is usually limited to misuse, abnormal use, or independent negligence situations (i.e., not where the plaintiff’s wrongful conduct is a failure to discover the defect). In some jurisdictions that permit comparative fault, the plaintiff’s unreasonable conduct in failing to discover and guard against the defect is not a defense.
+
+---
+
+## Product Liability on Negligence Theory
+
+Any foreseeable plaintiff can bring an action.
+
+*Analyze the conduct of each defendant and ask whether defendant acted reasonably. (This is different from strict products liability, which focuses on the product, not the actions of the defendant.)*
+
+Res Ipsa Loquitur takes the place of manufacturing defect in negligence theory.
+
+All negligence defenses apply.
+
+---
+
+## Product Liability on Warranty Theory
+
+An express Warranty exists where defendant makes a specific representation as to the quality or nature of the product that becomes a basis of the bargain. Any seller can make this warranty (manufacturer, distributor, seller). The warranty can occur via advertising, during negotiations, or as a contract provision.
+
+---
+
+## Implied Warranty or Warranty of Merchantability
+
+If a merchant deals in goods of a particular kind, the sale of such goods constitutes an implied warranty that those goods will be merchantable (i.e. the goods are of average quality for goods of that kind and are generally fit for the purpose for which such goods are normally used).
+
+There must be privity and notice. The implied warranty can be disclaimed by contract. Where harm is to the product itself, the only claim a plaintiff can pursue is for warranty.
+
+---
+
+## Nuisance
+
+A nuisance can be public or private.
+
+---
+
+## Public Nuisance
+
+A public nuisance is an unreasonable interference with a right common to the general public (for example, health, safety, and morals of community).
+
+A public nuisance claim is typically brought by a government actor such as an attorney general.
+
+To recover damages as an individual, one must have suffered harm different from that suffered by other members of the public.
+
+---
+
+## Private Nuisance
+
+A private nuisance is a thing or activity that substantially and unreasonably interferes with a plaintiff’s use and enjoyment of the plaintiff’s land.
+
+A private nuisance is usually an intentional tort, because once a defendant is placed on notice that defendant is interfering, and defendant still does not stop, they are acting intentionally.
+
+Courts do a five-factor balancing test to determine whether interference was substantial and unreasonable. They look at (1) the value of defendant’s activity; (2) whether there are alternatives; (3) the nature of locality; (4) the extent of plaintiff’s injury; and (5) who was there first (used to be a defense now just a factor).
+
+For remedy of injunction (equitable relief), plaintiff must showw that plaintiff is suffering or will suffer irreparable harm, and damages are an inadequate remedy. Judge will then do balancing test.
+
+---
+
+## Defamation
+
+Defamation is a statement that injures a third party's reputation. The tort of defamation includes both libel (written statements) and slander (spoken statements). State common law and statutory law governs defamation actions, and each state varies in their standards for defamation and potential damages. Defamation is a tricky area of law as the lines between stating an opinion versus a fact can be vague, and defamation tests the limits of the first amendment freedoms of speech and press.
+
+To prove prima facie defamation, a plaintiff must show four things. These are (1) a false statement purporting to be fact; (2) publication or communication of that statement to a third person; (3) fault amounting to at least negligence; and (4) damages, or some harm caused to the reputation of the person or entity who is the subject of the statement.[^9]
+
+In addition to the defendant who originated the defamatory message, other persons who republish the defamatory message are potentially liable as well.
+
+[^9]:Legal Information Institute, Cornell University. [https://www.law.cornell.edu/wex/defamation](https://www.law.cornell.edu/wex/defamation)
+
+---
+
+## Libel v Slander
+
+Libel is a defamatory message embodied in any relative permanent form. Reputational harm is presumed, but the damages have to be proven.
+
+Slander is defamation in spoken rather than written form.
+
+To recover, plaintiff must prove special damages (specific economic losses that flow from the slander). plaintiff can also receive reputational damages.
+
+Slander per se is slander which imputes to plaintiff behavior or characteristics that are incompatible with the proper conduct of plaintiff’s business, profession, or office; slander that imputes to plaintiff commission of a crime involving moral turpitude or infamous punishment (prison/death); allegations that plaintiff has some loathsome disease; and falsely imputing lack of chastity to a woman.
+
+---
+
+## Defenses to Defamation Claims
+
+**Truth** is widely accepted as a complete defense to all defamation claims.
+
+**Absolute Privilege** is a complete defense to a defamation claim. This privilege can be asserted in communications between spouses; statements made on the floor of the legislature; communications between high ranking executive officials; and statements made in conduct of judicial proceedings. The privilege ends if someone repeats in a non-privileged situation.
+
+**Qualified Privilege** permits someone to make a statement that would typically be considered defamatory, but because of particular circumstances, a particular statement made would not be considered to be defamatory. However, if the statement is made with actual malice, then the speaker will no longer be entitled to the qualified privilege. The particular circumstances can include comments reasonably necessary to protect or advance the defendant’s own legitimate interests; comments communicated on a matter of interest to the recipient of the communication or a third person; or comments communicated concerning a matter of public interest to one empowered to protect that interest.
+
+A defendant will lose privilege if they have a bad intent, acts out of malice, or is reckless as to the statement’s truth or falsity, or does not believe the truth of the defamatory communication.
+
+**Public Official:** If defamation is related to capacity as a public official, plaintiff must prove actual malice by clear and convincing evidence (higher standard than preponderance of the evidence).
+
+A Public figure is treated just like a public official. Same standard of clear and convincing evidence.
+
+If the subject matter of the defamation is a matter of public concern, defendant must be shown to have exhibited some degree of fault higher than strict liability, which presumably means negligence.
+
+Private Concern: plaintiff does not have to prove actual malice to get presumed or punitive damages (note - not settled; not tested).
+
+---
+
+## Other Torts
+
+There are other torts.
+
+---
+
+## Invasion of Privacy
+
+There is an invasion of privacy if a defendant unreasonably intrudes into plaintiff’s seclusion (zone of privacy). The intrusion must be highly objectionable to a reasonable person (e.g. wiretapping, stalking).
+
+Damages include compensatory damages, and, if bad enough, punitive damages.
+
+---
+
+## Use of Likeness
+
+Unauthorized use of plaintiff’s name, voice, or likeness for defendant’s commercial advantage. Newsworthy purpose of plaintiff’s likeness or identity is exempt.
+
+---
+
+## Public Disclosure of Private True Facts
+
+To show public disclosure of private true facts, a plaintiff must prove that the disclosure would be highly offensive to a reasonable person and not newsworthy.
+
+*Look for passage of time – 20 years pass and facts are less relevant.*
+
+Need some sort of publication or dissemination of information.
+
+Injunction is possible because the information is true (unlike defamation).
+
+If the defendant got the information from public records, defendant cannot be liable for sharing that information.
+
+----
+
+## Portrayal in False Light
+
+To bring a torts claim for portrayal in false light, the plaintiff must show that the defendant published matters portraying plaintiff in a false light.
+
+The plaintiff must show (1) publication; (2) false information; (3) divulging of information is highly offensive to reasonable person; and (4) some level of fault (parallel to defamation rules – actual malice, etc.).
+
+---
+
+## Wrongful Institution of Legal Proceedings
+
+**Malicious prosecution** is a tort where criminal proceedings were instituted by defendant for an improper purpose and without probable cause, that terminate favorably for plaintiff and cause plaintiff damages. Plaintiff must prevail on the merits.
+
+**Wrongful institution of civil proceedings** is a tort similar to malicious prosecution.
+
+**Abuse of Process** is a tort where defendant intentionally misuses a judicial process (civil or criminal) for a purpose other than that for which it was intended. Also similar to malicious prosecution.
+
+---
+
+## Economic Torts
+
+There are economic torts.
+
+---
+
+## Intentional Misrepresentation
+
+
+To show intentional misrepresentation, the plaintiff must prove (1) intentional material misrepresentation by the defendant (2) of past or present fact (3) made with knowledge and
+(4) on which the plaintiff justifiably relies to plaintiff’s economic detriment.
+
+Misrepresentation can be a false, affirmative assertion of fact (engine is new) or an active concealment (roll back odometer). Failure to disclose is not enough unless (1) there is a fiduciary relationship; (2) there is an ambiguous or misleading statement that causes reliance; (3) defendant makes an assertion, believing it is true, but then discovers it was false (or circumstances changed) and defendant fails to disclose; (5) defendant makes a false assertion not intending reliance but discovers plaintiff relied; or (6) plaintiff reasonably expects there would be disclosure.
+
+Mental state is key. Defendant must intend plaintiff (or class of persons which plaintiff belongs) to rely (will act or fail to act in reliance on defendant’s misrepresentation).
+
+Scienter present when defendant knew statement was false or is reckless as to veracity.[^10]
+
+[^10]:Scienter is a legal term that refers to the intent or knowledge of wrongdoing. In the context of law, scienter denotes that a party had knowledge of the falsity or fraudulent nature of a statement or action, and acted with the intent to deceive or defraud another party. It is often a key element in cases involving fraud, securities violations, and other misconduct where proving intent is crucial to establishing liability. The term "scienter" comes from Latin. It is derived from the Latin word "sciens," which means "knowing," the present participle of "scire," which means "to know." The suffix "-ter" is an adverbial suffix in Latin, so "scienter" essentially means "knowingly" or "with knowledge."
+
+---
+
+## Negligent Misrepresentation
+
+Under torts law, a defendant has no duty to avoid negligent infliction of pure economic loss unless there is a special relationship, like a fiduciary duty, or if the defendant knows that they are acting for the benefit of a third party, and that third party relies on the defendant's actions and suffers economic loss.
+
+---
+
+## Interference with Contractual Relations
+
+Interference with contractual relations is a tort. To show interference with contractual relations, the plaintiff must prove that (1) the defendant knew that there is a contract between plaintiff and a third party; and (2) the defendant acted with the purpose of having the contract breached or making it harder to perform.
+
+---
+
+## Interference with Prospective Economic Advantage
+
+Interference with prospective economic advantage is a tort. To prevail, a plaintiff must show that the defendant (1) knew of prospective economic advantage; and (2) acted to interfere with it for improper motives. A defendant can act to protect their own competitive interests.
+
+---
+
+## Injurious Falsehood
+
+To bring a torts claim of injurious falsehood, the plaintiff must prove that (1) the defendant made a false statement; (2) the defendant acted with atual malice or knew the statement was false or recklessly disregarded veracity; (3) made to another person or published the statement; and (4) caused specific economic injury to the plaintiff.
+
+*Injurious falsehood is not about reputational harm but about economic loss.*
+
+---
+
+## Abatement or Survival of Action and Wrongful Death
+
+**Survival Statutes** are modern. Under these statutes, death of the victim or tortfeasor no longer abates tort action and a claim can be brought by estate of decedent.
+
+**Wrongful Death Statutes:** All jurisdictions statutorily provide for an action by which either heirs of a deceased victim or personal representative of victim’s estate may bring action for wrongful death for their own losses resulting from victim’s death (e.g. wages the victim might have earned over their lifetime, damages such as the victim’s medical expenses).
+
+**Loss of Consortium:** Where a spouse is killed, the surviving spouse may bring a claim for intangible injuries of loss, comfort, companionship, and others.
+
+---
