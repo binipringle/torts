@@ -7,7 +7,6 @@ rights:
 source:
 toc:
 
-- Approach for torts questions
 - Intentional Torts
 - Voluntary Act
 - Intent
@@ -37,31 +36,19 @@ toc:
 
 ---
 
-A tort is an act or omission that gives rise to injury or harm[^1] to another and amounts to a civil wrong for which courts impose liability.
-
-Torts claims are governed by common law and state statutory law. Judges have wide latitude in determining which actions qualify as legally cognizable wrongs, which defenses may override any given claim, and the appropriate measure of damages. Although tort law varies by state, many courts utilize the Restatement of Torts (2nd) as an influential guide.
-
-Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) strict liability torts (e.g., liability for making and selling defective products or products liability).[^2]
+A tort is an act or omission that gives rise to injury or harm[^1] to another and amounts to a civil wrong for which courts impose liability.[^2] Torts fall into three general categories. These are (1) **intentional torts**; (2)  **negligent torts**; and (3) **strict liability torts**.[^3]
 
 [^1]:In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment that an individual suffers.
 
-[^2]:General rule and other rules in this outline adapted from Legal Information Institute, Cornell Law School.
+[^2]:Torts claims are governed by common law and state statutory law. Judges have wide latitude in determining which actions qualify as legally cognizable wrongs, which defenses may override any given claim, and the appropriate measure of damages. Although tort law varies by state, many courts utilize the Restatement of Torts (2nd) as an influential guide.
 
----
-
-## Approach for torts questions
-
-1.	Is this torts (not criminal law or something else)?
-2.	Who is the plaintiff?
-3.	Who is the defendant?
-4.	What is the harm?
-5.	What legal theories can the plaintiff assert?
+[^3]:General rule and other rules in this outline adapted from Legal Information Institute, Cornell Law School.
 
 ---
 
 ## Intentional Torts
 
-Intentional torts are wrongs that the defendant knew or should have known would result through their actions or omissions. Elements of intentional torts are (1) voluntary act; (2) intent; (3) causation; and (4) harm.
+An intentional tort is an injury or harm that the defendant knew or should have known would result from their act or omission. Elements of intentional torts are (1) voluntary act; (2) intent; (3) causation; and (4) harm.
 
 ---
 
@@ -73,15 +60,15 @@ A voluntary act is an act performed consciously or willingly. A purely reflexive
 
 ## Intent
 
-Under torts law, there is intent if the defendant either desired the act to cause a harmful result (purpose intent); or knew with substantial certainty that such a result would occur (knowledge intent).
+Under torts law, there is intent if the defendant either desired the act to cause a harmful result; or knew with substantial certainty that such a result would occur.
 
-If the defendant acted with necessary intent to inflict certain intentional torts against a person, but instead caused injury to another person, the defendant’s intent is transferred to the injured person. Transferred intent only applies to (1) battery, (2) assault, (3) false imprisonment, (4) trespass to land, and (5) trespass to chattels.
+If the defendant acted with intent to inflict intentional torts against a person but instead injured another person, the defendant’s intent transfers to the other person. Transferred intent only applies to (1) battery, (2) assault, (3) false imprisonment, (4) trespass to land, and (5) trespass to chattels.
 
 ---
 
 ## Causation for Intentional Torts
 
-There is causation if the defendant’s act or a force set in motion by the defendant caused the plaintiff’s injury.
+There is causation if the defendant’s act or a force set in motion by the defendant's act caused the plaintiff’s injury.
 
 ---
 
@@ -199,9 +186,9 @@ There must be actual damage, but it does not need to be actual damage to the cha
 
 Remedies include damages such as cost of repair, fair market rental value, as well as punitive damages if the defendant is a particularly bad actor (willful, wanton, or malicious conduct).
 
-Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^3]
+Replevin is a legal action that allows a person to recover personal property of which they were wrongfully dispossessed. A writ of replevin orders the defendant to return property to its rightful owner. [^4]
 
-[^3]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
+[^4]:"replevin" comes from the Old French word "replevir," which means "to recover or take back." It is derived from the Latin word "replegere," which means "to take back or regain."
 
 ---
 
@@ -336,19 +323,37 @@ If the emergency which caused the defendant to commit trespass on the plaintiff'
 
 ## Negligence
 
-To bring a cause of action for negligence, the plaintiff has to prove (1) that the defendant owed the plaintiff a duty of care; (2) that the defendant breached that duty; (3) causation (both actual cause and proximate cause); and (4) damages.
-
-OR
-
-Negligence is conduct that falls below the applicable standard of care. A prima facie negligence claim requires that (1) defendant owed plaintiff a duty of care; (2) defendant breached the duty owed; (3) defendant’s breach was the factual cause of plaintiff’s harm; (4) defendant’s breach was the proximate cause of plaintiff’s harm; and (5) plaintiff suffered legally compensable harm.
+To bring a cause of action for negligence, the plaintiff has to prove that (1) the defendant owed the plaintiff a duty of care; (2) the defendant breached that duty; (3) the defendant’s breach caused the plaintiff’s harm; and (5) the plaintiff suffered legally compensable harm.
 
 ---
 
 ## Duty
 
-Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.[^4]
+Under torts law, people do not generally have an affirmative duty to protect others. However, a defendant generally owes a duty to foreseeable plaintiffs. To be a foreseeable plaintiff, the plaintiff must be within the zone of danger created by defendant’s conduct. To determine whether plaintiff is in the zone of danger, courts consider the relationship between plaintiff and defendant, the time and space between plaintiff and defendant’s breach, and other facts relevant to whether plaintiff was foreseeable.[^5]
 
-[^4]:Rule from Core spring 2024: the test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.
+[^5]:Rule from Core spring 2024: the test for foreseeability is whether the defendant could reasonably predict that their actions might cause harm to someone.
+
+---
+
+## Standard of Care
+
+A defendant owes a foreseeable plaintiff the duty to act as a reasonably prudent person would act under the same or similar circumstances to protect foreseeable plaintiffs from unreasonable risks of harm.
+
+The law does not take into account mental ability, speed of reflexes, or mental health. The law does take into account physical conditions (blind, deaf, amputee). In this case, defendant will be held to the standard of a reasonably prudent person with that condition.
+
+Emergencies not of defendant’s own making can change the standard of care (for example, rushing to hospital because child is dying). Jury can consider emergency to determine if defendant acted reasonably under the circumstances.
+
+---
+
+## Eggshell Plaintiff Rule
+
+Under the common law eggshell plaintiff rule, a defendant is liable for the full extent of a plaintiff’s injury if the type of injury was foreseeable, even if the scope of the injury was not foreseeable. This is true even when the plaintiff has a preexisting condition or sensitivity that exacerbates the injury.
+
+---
+
+## Children
+
+The majority rule provides that minor defendant’s conduct is assessed according to what a reasonable child of the same age, experience, education, and intelligence as defendant would have done, except if the child was engaging in adult, inherently dangerous activities, in which case children are held to an adult standard of care (for example, driving).
 
 ---
 
@@ -396,6 +401,8 @@ A defendant can be liable for negligent entrustment if they give something dange
 
 A special relationship between the defendant and a third party may create a duty for the defendant to protect them.
 
+Some jurisdictions only find duty where there is a special relationship **and** prior similar incidents that make the third party criminal conduct particularly foreseeable.
+
 ---
 
 ## Business Invitee
@@ -404,41 +411,103 @@ A business has a duty to use reasonable care to prevent injuries to business inv
 
 ---
 
-## Landlord Tenant
+## Plaintiffs on Land
 
-Similar to business invitee.
-
-Some jurisdictions only find duty where there is a special relationship **and** prior similar incidents that make the third party criminal conduct particularly foreseeable.
+Plaintiffs on land can be (1) invitees; (2) licensees; or (3) tresspassers.
 
 ---
 
-## Breach
+## Invitees
+
+If a plaintiff enters onto defendant’s land at defendant’s express or implied invite and for a purpose relating to defendant’s interest or activities, the defendant has a duty to exercise reasonable care to prevent injuries caused by activities conducted on defendant’s land.
+
+---
+
+## Licensees
+
+If a plaintiff enters onto defendant’s land with defendant’s express or implied permission and are not there for a purpose benefiting defendant or defendant’s activities, nor is the land held open to the public, the defendant must warn of known concealed dangers (just warn, not cure) that are not obvious.
+
+---
+
+## Trespassers
+
+If a plaintiff enters defendant’s land without express or implied consent of land possessor, the land possessor has a duty to avoid infliction of willful or wanton harm.
+
+A land possessor owes a duty of reasonable care to all defendants engaged in an activity on the land except unknown trespassers.
+
+If the trespasser is a known or frequent trespasser (must be obvious - e.g. a well-worn path), the land possessor has a duty to warn of known and concealed dangerous artificial conditions.
+
+---
+
+## Attractive Nuisance Doctrine
+
+A land possessor has a heightened duty to prevent harm to a child caused by artificial conditions on the land, even if the child is trespassing. The plaintiff must show that (1) the child was too young to appreciate the danger; (2) defendant knew, or had reason to know, of the trespass; (3) defendant knew of the dangerous condition; (4) the condition is artificial (fountain, pool, equipment that looks fun to climb on); and (5) the risk of danger of the artificial condition outweighs its utility and burden to fix it.
+
+---
+
+## Adjacent Plaintiff
+
+A land possessor has a duty of reasonable care to prevent harm from artificial conditions to plaintiffs who are adjacent to the land.
+
+A land possessor has no duty to prevent harm to adjacent plaintiffs from natural condition on land, except from trees in urban areas.
+
+---
+
+## Landlord Tenant
+
+A landlord may be liable for injuries in common areas over which the landlord retains control; negligent repairs; a concealed dangerous condition that the landlord knew about at time of lease; or knowledge that tenant is going to hold property open to public.
+
+---
+
+## Breach for Negligence
 
 A defendant breached their duty of care if they failed to act as a reasonably prudent person would have acted under the same or similar circumstances. A reasonably prudent person takes precautions to avoid foreseeable risks.
 
-For the reasonably prudent person standard, breach is determined through the application of the Carroll Towing test, which weighs the burden of taking precautions and/or engaging in alternative conduct against the likelihood of harm due to the breach and the potential gravity of harm due to the breach. When likelihood of harm and potential gravity of harm outweigh burden, defendant has breached.
+---
+
+## Burden of Proof for Negligence
+
+The plaintiff has the burden to prove all elements of negligence by a preponderance of the evidence.
 
 ---
 
-## Standard of Care
+## Hand Formula
 
-A defendant owes a foreseeable plaintiff the duty to act as a reasonably prudent person would act under the same or similar circumstances to protect foreseeable plaintiffs from unreasonable risks of harm.
+To determine whether there was breach, courts look at (1) the probability of harm occurring from defendant’s conduct; (2) the likely magnitude of the harm; and (3) the burden on defendant to avoid the harm.
+
+---
+
+## Carroll Towing Test
+
+For the reasonably prudent person standard, breach is determined through the application of the Carroll Towing test, which weighs the burden of taking precautions and/or engaging in alternative conduct against the likelihood of harm due to the breach and the potential gravity of harm due to the breach. When likelihood of harm and potential gravity of harm outweigh defendant's burden of taking precautions, defendant has breached.
+
+---
+
+## Res Ipsa Loquitur
+
+Res ipsa loquitur is only used to show breach. If successfully invoked, the jury can draw an inference of the breach. To prove res ipsa loquitur, the plaintiff must show that (1) the type of accident does not normally occur unless there was negligence; (2) the defendant had control over instrumentality of the harm; and (3) the plaintiff did not contribute to the injury.
+
+Res ipsa loquitur can be used in medical malpractice cases.
+
+The plaintiff does not have to prove the three elements listed above under the **common knowledge exception** when for example equipment is sewn into a plaintiff or a sponge is left inside a plaintiff after surgery, the plaintiff does not need experts to establish that this is negligent conduct.
+
+Res ipsa loquitur usually cannot be used in multiple defendant cases, except where a medical team is acting as a unit. In such as case, the defendants will be held jointly and severally liable unless individual defendants prove that they did not cause the injury.
 
 ---
 
 ## Superior Knowledge
 
-Superior knowledge does not change the reasonably prudent person standard, but it should be considered in the context of the breach analysis. That defendant had superior knowledge or experience is part of the circumstances, and the defendant is expected to act reasonably with that knowledge or experience. A jury can consider how a reasonable person would behave if they knew of the dangers known to the defendant.[^5]
+Superior knowledge does not change the reasonably prudent person standard, but it should be considered in the context of the breach analysis. That defendant had superior knowledge or experience is part of the circumstances, and the defendant is expected to act reasonably with that knowledge or experience. A jury can consider how a reasonable person would behave if they knew of the dangers known to the defendant.[^6]
 
-[^5]:Superior knowledge doesn’t tend to change likelihood of harm or potential gravity; goes to burden if the defendant did not have the burden of getting information because they had it.
+[^6]:Superior knowledge doesn’t tend to change likelihood of harm or potential gravity; goes to burden if the defendant did not have the burden of getting information because they had it.
 
 ---
 
 ## Dangerous instrumentality
 
-The standard of care for negligence actions involving dangerous instrumentalities and/or dangerous circumstances remains the reasonably prudent person standard *under the circumstances*. Though the standard of care does not vary, the degree of care that is reasonable varies, and must be  proportionate to the foreseeable danger of the activity. Dangerous instrumentality should be considered in the context of the breach analysis.[^6]
+The standard of care for negligence actions involving dangerous instrumentalities and/or dangerous circumstances remains the reasonably prudent person standard *under the circumstances*. Though the standard of care does not vary, the degree of care that is reasonable varies, and must be  proportionate to the foreseeable danger of the activity. Dangerous instrumentality should be considered in the context of the breach analysis.[^7]
 
-[^6]:Dangerous instrumentality heightens likelihood of harm. Can also go to potential gravity.
+[^7]:Dangerous instrumentality heightens likelihood of harm. Can also go to potential gravity.
 
 ---
 
@@ -450,15 +519,33 @@ Mental disability is not considered part of the circumstances, so a person with 
 
 ## Private Standard and Industry Customs
 
-The defendant may have adhered to private standard and industry customs when they acted in a way that caused harm. The private standard and industry custom does not change the reasonably prudent person standard of care, but evidence of private standards and industry customs are admissible at trial, and can impact the breach analysis. However, such evidence does not in itself determine whether the defendant adhered to the ordinary duty of care.[^7]
+The defendant may have adhered to private standard and industry customs when they acted in a way that caused harm. The private standard and industry custom does not change the reasonably prudent person standard of care, but evidence of private standards and industry customs are admissible at trial, and can impact the breach analysis. However, such evidence does not in itself determine whether the defendant adhered to the ordinary duty of care.[^8]
 
-[^7]:Private standard and industry custom can heighten burden – think of netting which was not customarily installed in the U.S. but anyway was easy and cheap to install so burden to put up netting was low.
+[^8]:Private standard and industry custom can heighten burden – think of netting which was not customarily installed in the U.S. but anyway was easy and cheap to install so burden to put up netting was low.
 
 ---
 
-## Eggshell Plaintiff Rule
+## Medical Malpractice
 
-Under the common law eggshell plaintiff rule, a defendant is liable for the full extent of a plaintiff’s injury if the type of injury was foreseeable, even if the scope of the injury was not foreseeable. This is true even when the plaintiff has a preexisting condition or sensitivity that exacerbates the injury.
+Physicians are required to possess and use the knowledge, skill, and training of other physicians in good standing in the relevant geographic community. Specialists are held to the national standard. General practitioners are held to the locality standard.
+
+---
+
+## Lack of Informed Consent
+
+Under the traditional rule, a physician is liable for battery if there was no informed consent about risks. In that case, the patient’s consent is negated because of lack of disclosure. This is still the case when there is a gross deviation from actual consent (for example, a plaintiff agrees to tonsillectomy, but leg is amputated instead). The traditional standard is a physician must divulge risks that are customarily divulged by a physician in the same set of circumstances.
+
+---
+
+## New Trend Standard of Materiality
+
+A physician must divulge all **material** risks, meaning risks that a reasonable patient would want to know in deciding whether to undergo the procedure or treatment. Failure to divulge material risk is malpractice if plaintiff can show she would have refused the procedure if the physician divulged the risk.
+
+---
+
+## Lawyers Architects Accountants
+
+So long as the professional complies with custom, the professional cannot be found to have breached their duty. A deviation from custom means breach of that duty, **except where customs are outdated and/or unreasonable that a court might reject.**
 
 ---
 
@@ -508,7 +595,9 @@ In order to serve the underlying goals of tort law, compensation of innocent pla
 
 ## Substantial Factor Test
 
-The substantial factor test provides that the actual cause element is satisfied where (1) there are two or more successive or concurrent causes of plaintiff’s harm; (2) each cause in itself would be sufficient to cause plaintiff’s entire harm; and (3) plaintiff endures a single, indivisible harm.
+The substantial factor test provides that the actual cause element is satisfied where (1) there are two or more successive or concurrent causes of plaintiff’s harm; (2) each defendant alone would have been enough to cause the plaintiff’s entire harm; and (3) plaintiff endures a single, indivisible harm.
+
+**Joint and several liability** is available in situations where two or more defendants acting in concert or independently injure the plaintiff and damages cannot be allocated to a particular defendant. In this situation **all of the defendants are liable for the entirety of the plaintiff’s injury.** The plaintiff can execute against each defendant for the total damages suffered, although the plaintiff may only recover from any or all defendants an amount equal to the total damages awarded.
 
 ---
 
@@ -516,7 +605,25 @@ The substantial factor test provides that the actual cause element is satisfied 
 
 The alternative causation test provides that when the “but-for” test does not work, the actual cause element is satisfied as to each defendant where (1) there are two or more defendants, all of whom are before the court; (2) all defendants breached their duty of care; (3) injury was caused by only one of the defendants;  and (4) it was impossible to tell from the facts which defendant caused the injury.
 
+The burden shifts to the defendants to show that they were not the cause. If the defendants cannot do so, they will be jointly/severally liable.
+
 *In such cases, the “but for” analysis does not work; remember the shotguns in the field.*
+
+---
+
+## Loss of Chance
+
+This is a minority rule. The plaintiff must show that but for the medical malpractice, plaintiff would not have lost chance/died.
+
+---
+
+## Market Share Liability
+
+If the harm was caused by a generic product and the plaintiff cannot show which of a large group of negligent defendants was responsible for manufacturing the product that caused her harm, the plaintiff can bring a claim of negligence against those who might have caused her harm, and each defendant is responsible based on its share of the market.
+
+The burden shifts to the defendant to show that they could not have made the product that harmed the plaintiff (the defendant is severably liable).
+
+*Several liability – X had 10% of the relative market; X will pay 10% of plaintiff’s damages unless X can show it could not have made the product that harmed P.*
 
 ---
 
@@ -548,9 +655,53 @@ Generally, ordinary negligence by third parties is a foreseeable intervening cau
 
 For a defendant to be liable for negligence, the plaintiff must have suffered a legally compensable harm. Legally compensable harm includes physical or emotional injury to the plaintiff, as well as injury to the plaintiff's property.
 
-OR
+---
 
-Under torts law, harm to the plaintiff must be either bodily harm or harm to property (personal property or real property).
+## Damages
+
+Th plaintiff must affirmatively prove damages by showing that there was a cognizable injury. Personal injury and property damages are recoverable for negligence. Nominal damages are not available for negligence. Punitive damages are not available for negligence.
+
+---
+
+## Compensatory Damages
+
+Compensatory damages return the plaintiff to their pre-injury position. To be entitled to compensatory damages, (1) the **type** of damage must be foreseeable; (2) the damage must be reasonably certain (not speculative); and (3) the damage must be avoidable.
+
+---
+
+## Avoidable Consequences Rule
+
+The plaintiff must take reasonable steps after injury to avoid increasing or exacerbating the injury.
+
+---
+
+## Special Damages
+
+Special damages include medical costs, lost wages, and cost of repair. A plaintiff can recover past, present, and future damages. Future damages will be reduced to present value.
+
+---
+
+## Collateral Source Rule
+
+The fact that plaintiff has insurance to cover some or all damages does not mean that defendant does not have to pay up. Defendant should not benefit from plaintiff’s foresight. Rule also applies to gratuitous services (e.g., spouse who provides caretaking for injured P).
+
+---
+
+## General Damages
+
+General damages are intangible and difficult to measure. They include pain and suffering.
+
+---
+
+## Punitive Damages
+
+Punitive damages are never recoverable just for negligent conduct. Defendant’s acts must be more culpable than negligence - like willful, malicious, or reckless.
+
+The purpose of punitive damages is deterrance.
+
+The wealth of the defendant is highly relevant here.
+
+The Due Process Clause limits the amount of punitive damages. *Generally, more than 10% ratio to compensatory damages is considered to be unconstitutional.*
 
 ---
 
@@ -596,6 +747,42 @@ A defendant’s conduct is the proximate cause of an event if the event was fore
 
 ---
 
+## Damages for Contributory Negligence
+
+In some jurisdictions, any fault by plaintiff bars recovery.
+
+Some jurisdictions follow the **one last clear chance doctrine**. *In a multiple choice question this is generally the wrong answer!* Under this doctrine, if the defendant’s negligence occurs after plaintiff’s negligence, so that defendant had the last opportunity to avoid the harm, then plaintiff is entitled to full recovery.
+
+---
+
+## Comparative Fault for Contributory Negligence
+
+*Assume pure comparative fault where joint and several liability applies unless told otherwise.*
+
+The plaintiff can recover no matter how much the plaintiff is at fault. Recovery is the amount of damages minus the percentage that plaintiff is at fault.
+
+---
+
+## Modified Comparative Fault for Contributory Negligence
+
+The plaintiff is barred from recovery if the plaintiff is as much at fault or more at fault than the defendant. If the plaintiff is less at fault than the defendant, the plaintiff can recover the percentage of their damages corresponding to the percentage of the defendant's fault.
+
+*For example, if plaintiff is 60% at fault, plaintiff is barred from recovery. If plaintiff is 40% at fault, then plaintiff would recover 60% of plaintiff’s damages.*
+
+---
+
+## Assumption of Risk
+
+There is assumption of risk where the plaintiff, orally or in writing, relieves defendant of responsibility to be non-negligent.
+
+This is typically done through a waiver that accompanies athletic activities and recreational sports.
+
+Assumption of risk is not allowed for necessities. For example, if a landlord rents an apartment or a hospital provides care.
+
+A plaintiff may impliedly assume the risk.
+
+---
+
 ## Vicarious Liability
 
 Vicarious liability is a doctrine under which an employer can be held liable for the negligence of its employees. In order for an employer to be vicariously liable, (1) the tortfeasor must be an employee of the employer, and (2) the tortfeasor must have acted in the scope of employment.
@@ -628,9 +815,9 @@ Incidental Benefit is an exception to the Going and Coming rule. Where the trip 
 
 ## Dual Purpose Exception to Going and Coming Rule
 
-Dual Purpose Doctrine is an exception to the Going and Coming rule. An employer is vicariously liable if, in addition to going home or to work, an employee is performing some work-related task.[^8]
+Dual Purpose Doctrine is an exception to the Going and Coming rule. An employer is vicariously liable if, in addition to going home or to work, an employee is performing some work-related task.[^9]
 
-[^8]:From professor’s rubric (watch out because very fact specific but also law): Although plausible, dual purpose is not the strongest argument here because (1) this scenario does not fit the mold of a standard dual purpose exception to the Going and Coming rule because it does not involve the employee performing an additional discrete task while commuting (e.g., picking up tools at the employer’s request on the way to/from work); and (2) the dual purpose analysis relates directly to the employee’s tort (i.e., speeding), rather than to some separate act (e.g., completing an expense report in the Edgewater case). Courts are less likely to glean a dual purpose from the tortious conduct, as tortious conduct is arguably always against the interests of an employer.
+[^9]:From professor’s rubric (watch out because very fact specific but also law): Although plausible, dual purpose is not the strongest argument here because (1) this scenario does not fit the mold of a standard dual purpose exception to the Going and Coming rule because it does not involve the employee performing an additional discrete task while commuting (e.g., picking up tools at the employer’s request on the way to/from work); and (2) the dual purpose analysis relates directly to the employee’s tort (i.e., speeding), rather than to some separate act (e.g., completing an expense report in the Edgewater case). Courts are less likely to glean a dual purpose from the tortious conduct, as tortious conduct is arguably always against the interests of an employer.
 
 ---
 
@@ -651,3 +838,95 @@ The detour rule states that an employee acts within the scope of employment if, 
 To distinguish between frolic and detour, courts consider (1) the length of time of departure; (2) physical distance of departure from place or route assigned or expected to be used; and (3) the extent to which the employee was at the time secondarily accomplishing the purpose of employment.
 
 ---
+
+# STRICT LIABILITY
+
+Strict Liability (SL): defendant is liable for injuring plaintiff regardless of whether defendant exercised due care. plaintiff does not have to show proof of fault.
+
+### Possession of Animals
+
+**Wild Animal Rule:** If defendant keeps a wild animal and plaintiff gets injured because it does something characteristic of that animal, keeper is strictly liable no matter how unforeseeable the harm.
+
+*For example, even if a pet tiger has always been gentle, owner is going to be held strictly liable if the tiger bites off a plaintiff's hand.*
+
+**Domestic Pet Rule:** “Every dog gets one free bite.” Not liable unless defendant is on notice of danger.
+
+### Abnormally Dangerous Activities
+
+An activity is abnormally dangerous when:
+- There is a high risk of serious harm to others;
+- D cannot engage in the activity without risk, and cannot eliminate the risk with care; and
+- It is not a commonly undertaken activity in the community.
+
+P can recover absent proof of fault as long as defendant was involved and the activity caused the harm.
+
+**Proximate Cause:** plaintiff must be injured by the risk that makes the activity dangerous.
+
+---
+
+### Defenses
+
+**Contributory Negligence:** defendant generally cannot raise this defense with strict liability.
+
+**Exception:** plaintiff knew of the danger that justified imposition of strict liability, and his action caused exactly that danger to manifest. Here, plaintiff could be said to have assumed the risk, and plaintiff is completely barred from recovery.
+
+*Example:* Pam is driving on the highway and she is listening to the radio when she sees a sign that says “Danger: Blasting—Radio signals can trigger an explosion. Turn off your radio” that Dynaco had posted. Pam did not turn off her radio. There is an explosion that causes injury to her, and she sues Dynaco in strict liability. Dynaco can assert a defense that she knew of the danger and chose to confront it, and therefore assumed the risk of injury. If Pam were speeding and did not see the sign, she gets full recovery because contributory negligence would not be a defense to strict liability.
+
+# PRODUCTS LIABILITY
+
+### Strict Products Liability
+
+**Proper P:** Any plaintiff who is a user, consumer, or bystander physically injured by a defective product. No requirement of contract privity.
+
+**Proper D:** Commercial suppliers at all levels of the distribution chain and those in the market of selling the product – manufacturer, wholesaler, and retailer. Does not include occasional sellers and those supplying services.
+
+**Proper Context for Products Liability:** Generally services alone are not enough. When both a product and services are present, the goods/product must dominate.
+
+*Example:* Prudence goes into Valerie’s beauty salon and wants a perm. Valerie chooses a perm manufactured by DunCo and applies it to Prudence. Prudence goes bald and sues Valerie in strict liability. The court says that the product predominates and Valerie can be a proper defendant in strict products liability. Different from a dentist using a defective needle to administer Novocain.
+
+**Defect:** Almost all jurisdictions impose strict liability where the product is in an unreasonably dangerous defective condition. Formulations of liability occur under 3 categories of defect:
+
+**Manufacturing Defect:** Manufactured in a form other than intended by manufacturer. plaintiff must show:
+- Product is in a condition not intended by manufacturer and defect existed when leaving manufacturer’s hands.
+
+**Design Defect:** Made as intended by manufacturer but still presents a danger of personal injury or property damage to plaintiff because of a flawed design. Two tests:
+- **Ordinary Consumer Expectation Test:** Product is more dangerous than would be contemplated by the ordinary consumer who possesses ordinary knowledge common to the community.
+*Example:* The goggles only protect the front, but not the side. Plaintiff is welding and a piece of metal flies into his eye. Plaintiff sues for a design defect, saying that the design of the goggles should have protected the side. Plaintiff loses under this approach. Ordinary consumer would not expect side protection.
+
+- **Risk-Utility Balancing Test:** Jury determines whether the danger the design threatens (cost in human injury and property damage), outweighs its utility to society. Product will be found defective if an alternative design could have reduced the danger at about the same cost.
+  - Questions to ponder: How easy would it be to swap out the defective design for the alternatives? How high is the likelihood of harm and how bad would the harm be if it happened? How important/useful is the product?
+
+**Warnings**
+
+**P is Asserting a Warning is Inadequate:** The test here is reasonableness. Does the warning reasonably inform a reader of the risks of the product and how to reduce them? Look at language, placement, size of font, and clarity.
+*Example:* DunCo manufactures a pod-shaped laundry detergent called, Clothes-B-Clean that looks a lot like candy. The box includes the words, “Danger—Keep Out of Reach of Children.” A child thinks the pod is candy, eats it, becomes extremely ill and is hospitalized. A better warning would explicitly state that the pods could cause significant harm if eaten.
+
+**P is Asserting There is no Warning:** A manufacturer has to warn about risks of which it knows or should know. Consider the gravity and probability of harm.
+- 1% risk of death – they should warn.
+- 1% risk of tooth discoloration – probably not.
+
+**Cause-in-Fact:** Usually proven by showing that the defect that injured plaintiff was in existence at the time it left defendant’s control.
+
+**Proximate Cause:** Look for superseding causes which might break the chain of causation. For instance, did plaintiff use/alter the product in an unforeseeable way?
+*Example:* Manufacturer mixes gasoline and kerosene and sells to a pharmacy. Pharmacy discovers the mixture and calls the manufacturer and alerts it. Pam comes in and buys the mixture. She is injured and sues the manufacturer. The pharmacy’s decision to continue to sell the defective product is a superseding cause.
+
+**Learned Intermediary Doctrine:** If a manufacturer provides a warning to a doctor, the manufacturer can expect that the doctor will pass the warning on to the patient. If the doctor does not, the doctor is a superseding cause of the patient’s harm.
+
+**Damages:** Recoverable when there is personal injury or property damage other than to the product itself. Where the harm is only to the product itself, the only claim is breach of warranty.
+
+*Hypothetical:* DunCo sells a defective truck to Paul. Because of the defect, one morning, Paul cannot get the truck to start and thus is unable to make his scheduled deliveries, causing him to lose $10,000. May Paul pursue a strict product liability action? NO. Even though there is a design defect in the truck, he cannot bring an action because the only harm is to the product itself with subsequent economic losses. Only remedy is warranty. If the truck had caused damage to his garage, he would have been able to bring an action because of other property damage.
+
+### Defenses
+
+**Misuse:** plaintiff’s use of the product is neither intended nor foreseeable. defendant may still be held liable for foreseeable misuse.
+*Example:* Plaintiff contracts a rash after Jello wrestling and sues. Wrestling in Jello is not the intended use of the product; therefore, Jello wrestling is a misuse of a product that is not defective and plaintiff cannot recover.
+
+**Alteration:** Employer removes safety devices to increase efficiency.
+- Alteration or modification must occur between the time the product leaves the manufacturer’s control and the time of plaintiff’s injury.
+
+**Assumption of the Risk:** Where plaintiff has used the product with knowledge of the risk.
+*Example:* Dumont manufactures a TV. Pam is watching TV and it is the final moments of the final episode of her favorite television show. Pam sees that the TV is smoking and sparking, but refuses to turn it off. The TV explodes and burns a carpet and the sofa. Pam sues. Dumont can assert assumption of the risk. However, if Pam did not see the smoke and sparks, then Pam did not assume the risk and recovery is not barred.
+
+**Contributory Negligence:** As initially conceived, a plaintiff’s unreasonable conduct was not a defense to a strict products liability action unless the plaintiff knew of the defect, comprehended the risks posed by the defect, and voluntarily elected to expose himself to those risks. That is, only an assumption of the risk was a defense to strict products liability. At modern law, contributory negligence only applies as a defense to strict products liability if the plaintiff’s conduct rises to the level of misuse, abnormal use, or independent negligence (i.e., not where the plaintiff’s wrongful conduct is a failure to discover the defect). A plaintiff’s continued use of a product which the plaintiff knows to be defective is not voluntary, and thus not an assumption of the risk, if there are no practicable alternatives to such use. Where a defendant can show that his product was subsequently altered in an unforeseeable manner by someone in the chain of distribution or a third party, courts usually relieve that defendant of liability.
+
+**Comparative Negligence:** Some jurisdictions that have adopted a comparative negligence system as to negligence also apply that system to strict liability. A plaintiff’s wrongful conduct that contributes, along with the defective product
