@@ -12,8 +12,8 @@ toc:
 - Intent
 - Causation for Intentional Torts
 - Harm for Intentional Torts
-- Battery
 - Assault
+- Battery
 - False Imprisonment
 - Intentional Infliction of Emotional Distress
 - Trespass to Land
@@ -60,7 +60,7 @@ A voluntary act is an act performed consciously or willingly. A purely reflexive
 
 ## Intent
 
-Under torts law, there is intent if the defendant either desired the act to cause a harmful result; or knew with substantial certainty that such a result would occur.
+Under torts law, there is intent if the defendant either desired the act to cause a harmful result or knew with substantial certainty that such a result would occur.
 
 If the defendant acted with intent to inflict intentional torts against a person but instead injured another person, the defendant’s intent transfers to the other person. Transferred intent only applies to (1) battery, (2) assault, (3) false imprisonment, (4) trespass to land, and (5) trespass to chattels.
 
@@ -74,33 +74,17 @@ There is causation if the defendant’s act or a force set in motion by the defe
 
 ## Harm for Intentional Torts
 
-Varies based on the kind of tort. *Ways to establish harm: (1) establish elements of the tort; (2) prove specific injury.*
-
 Liability for an intentional tort requires that there are no applicable privileges or defenses.
 
----
-
-## Battery
-
-A person is liable for the intentional tort of battery if they intentionally cause harmful or offensive contact with another person or with something closely connected to the other person. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause an immediate harmful or offensive contact; or (2) knew that such contact was substantially certain to occur.
-
-A harmful contact of battery is contact causing physical impairment or injury. An offensive contact of battery is a contact that makes a reasonable person of ordinary sensibilities feel threatened.
-
-Even if the plaintiff doesn’t suffer actual damages, they can claim nominal damages. Thus, their proof of actual harm is not required in a battery. If a defendant acts with malice (e.g., deliberate disregard of a high probability of harm), the plaintiff may claim punitive damages. For unforeseen consequences, the defendant may still be liable under the “eggshell rule.”
-
-*The injured person does not need to be aware of the contact (unlike assault).*
-
-*The plaintiff does not have to prove injury; will get compensatory damages just by showing the elements.*
-
-*Watch out for Privileges and defenses – **consent** comes up a lot in the context of battery.*
+*Varies based on the kind of tort. Ways to establish harm for intentional tort: (1) establish elements of the tort; (2) prove specific injury.*
 
 ---
 
 ## Assault
 
-A person is liable for the intentional tort of assault if they intentionally cause a person to be in reasonable apprehension of an imminent harmful or offensive contact. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause an immediate harmful or offensive contact or the reasonable apprehension of such contact; or (2) knew that such a result was substantially certain to occur. It does not matter if the goal of the actor was merely to scare the victim or if the act was meant as a joke. The actor need not have intended for the contact to be harmful or offensive, only to have intended the actual contact.
+A person is liable for the tort of assault if they intentionally cause a person to be in reasonable apprehension of an imminent harmful or offensive contact. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause an immediate harmful or offensive contact or the reasonable apprehension of such contact; or (2) knew that such a result was substantially certain to occur. It does not matter if the goal of the actor was merely to scare the victim or if the act was meant as a joke. The actor need not have intended for the contact to be harmful or offensive, only to have intended the actual contact.
 
-For a person to have a reasonable apprehension of imminent harmful or offensive contact, the person must have a reasonable belief that the act will lead to imminent harmful or offensive contact. The plaintiff must show that a reasonable person in the same position as the plaintiff would have experienced the same apprehension. If the apprehension is reasonable, it doesn’t matter whether D could actually carry out the threat. *For instance, brandishing an unloaded gun can still be assault.*
+For a person to have a reasonable apprehension of imminent harmful or offensive contact, the person must have a reasonable belief that the act will lead to imminent harmful or offensive contact. The plaintiff must show that a reasonable person in the same position as the plaintiff would have experienced the same apprehension. If the apprehension is reasonable, it doesn’t matter whether the defendant could actually carry out the threat. *For instance, brandishing an unloaded gun can be assault.*
 
 The victim does not need to prove fear, only that they were aware that such a contact might occur. If the victim and the tortfeasor do not know each other, then the legal standard is what an ordinary reasonable person under the same circumstances as the victim would have believed.
 
@@ -121,6 +105,20 @@ There is some disagreement among jurisdictions in regard to the role of consent.
 Assault is typically paired with battery as assault and battery. In assault and battery, assault refers to the act that causes the victim to immediately apprehend a harmful or offensive contact, whereas battery refers to the act that causes the actual contact. * Some jurisdictions label assault as attempted battery.*
 
 For imminent battery, battery must be able to occur almost instantly.
+
+---
+
+## Battery
+
+A person is liable for the tort of battery if they intentionally cause harmful or offensive contact with another person or with something closely connected to the other person. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause an immediate harmful or offensive contact; or (2) knew that such contact was substantially certain to occur.
+
+A harmful contact is contact causing physical impairment or injury. An offensive contact is a contact that makes a reasonable person of ordinary sensibilities feel threatened.
+
+Proof of actual injury is not required in a battery. Even if the plaintiff doesn’t suffer actual injury, they can claim nominal damages. If a defendant acts with malice, the plaintiff may claim punitive damages. Malice is the deliberate disregard of a high probability of harm.  For unforeseen consequences, the defendant may still be liable under the eggshell plaintiff rule.
+
+*The injured person does not need to be aware of the contact (unlike assault).*
+
+*Watch out for Privileges and defenses – **consent** comes up a lot in the context of battery.*
 
 ---
 
