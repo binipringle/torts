@@ -236,7 +236,7 @@ Proof of actual injury is not required in a battery. Even if the plaintiff doesn
 
 ### False Imprisonment
 
-A person commits false imprisonment when they intentionally confine another person in a restricted area against the confined person’s will and the confined person knows of the confinement or is injured by it. False imprisonment is an intentional tort.
+A person commits false imprisonment when they (1) intentionally confine another person in a restricted area (2) against the confined person’s will and (3) the confined person (a) knows of the confinement or (b) is injured by it. False imprisonment is an intentional tort.
 
 For there to be intent, the plaintiff must show that the defendant either (1) desired to confine or restrain the confined person in a restricted area; or (2) knew that such confinement was virtually certain to result.
 
