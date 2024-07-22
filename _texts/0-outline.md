@@ -110,23 +110,23 @@ toc:
 - Abnormally Dangerous Activities
 - Defenses to Strict Liability
 - Contributory Negligence for Strict Liability
-- Strict Products Liability
+- Products Liability
 - Proper Context for Products Liability
 - Defect
 - Manufacturing Defect
 - Design Defect
 - Inadequate Warning
 - No Warning
-- Causation for Strict Product Liability
-- Damages for Strict Product Liability
-- Defenses for Strict Product Liability
+- Causation for Strict Products Liability
+- Damages for Strict Products Liability
+- Defenses for Strict Products Liability
 - Misuse
 - Alteration
-- Assumption of the Risk for Strict Product Liability
-- Contributory Negligence for Strict Product Liability
-- Comparative Negligence for Strict Product Liability
-- Product Liability on Negligence Theory
-- Product Liability on Warranty Theory
+- Assumption of the Risk for Strict Products Liability
+- Contributory Negligence for Strict Products Liability
+- Comparative Negligence for Strict Products Liability
+- Products Liability on Negligence Theory
+- Products Liability on Warranty Theory
 - Implied Warranty or Warranty of Merchantability
 - Nuisance
 - Public Nuisance
@@ -198,29 +198,25 @@ Liability for an intentional tort requires that there are no applicable privileg
 
 ### Assault
 
-A person is liable for the tort of assault if they intentionally cause a person to be in reasonable apprehension of an imminent harmful or offensive contact. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause an immediate harmful or offensive contact or the reasonable apprehension of such contact; or (2) knew that such a result was substantially certain to occur. It does not matter if the goal of the actor was merely to scare the victim or if the act was meant as a joke. The actor need not have intended for the contact to be harmful or offensive, only to have intended the actual contact.
+A person is liable for the tort of assault if they intentionally cause a person to be in reasonable apprehension of an imminent harmful or offensive contact. For there to be intent, the plaintiff must show that the defendant either (1) desired to cause (a) an immediate harmful or offensive contact or (b) the apprehension of such contact; or (2) knew that such a result was substantially certain to occur. It does not matter if the actor just wanted to scare the victim or if the act was meant as a joke. The actor does not need to have intended the contact to be harmful or offensive, only to have intended the contact.
 
-For a person to have a reasonable apprehension of imminent harmful or offensive contact, the person must have a reasonable belief that the act will lead to imminent harmful or offensive contact. The plaintiff must show that a reasonable person in the same position as the plaintiff would have experienced the same apprehension. If the apprehension is reasonable, it doesn’t matter whether the defendant could actually carry out the threat. *For instance, brandishing an unloaded gun can be assault.*
+For a person to have a reasonable apprehension of imminent harmful or offensive contact, the person must have a reasonable belief that the act will lead to imminent harmful or offensive contact. The plaintiff must show that a reasonable person in the same position as the plaintiff would have experienced the same apprehension. If the apprehension is reasonable, it doesn’t matter whether the defendant could actually carry out the threat. *For instance, brandishing an unloaded gun can be assault.* The victim does not need to prove fear.
 
-The victim does not need to prove fear, only that they were aware that such a contact might occur. If the victim and the tortfeasor do not know each other, then the legal standard is what an ordinary reasonable person under the same circumstances as the victim would have believed.
+If the victim and the tortfeasor do not know each other, then the legal standard is what an ordinary reasonable person under the same circumstances as the victim would have believed.
 
 If the victim and tortfeasor have special knowledge of each other, this special knowledge may be considered when determining whether the victim’s apprehension was reasonable.
 
-“Imminent” in the context of assault, means the threatened harmful or offensive contact must be certain or likely to occur very soon.
+“Imminent” in the context of assault means the threatened harmful or offensive contact must be certain or likely to occur very soon.
 
-“Harmful or offensive” in the context of assault, is an objective standard referring to touching that is likely to or capable of causing harm or offending a reasonable person by violating prevailing social standards of acceptable touching.
+“Harmful or offensive” in the context of assault is an objective standard referring to touching that is likely to or capable of causing harm or offending a reasonable person by violating prevailing social standards of acceptable touching. An otherwise inoffensive contact may be deemed offensive if the tortfeasor knew the victim was unusually averse to such a contact.
 
-An otherwise inoffensive contact may be deemed offensive if the tortfeasor knew the victim was unusually averse to such a contact.
-
-There is some disagreement among jurisdictions in regard to the role of consent.
+There is some disagreement among jurisdictions with regard to the role of consent.
 
 *Look for words that negate intent. For example, “If it weren’t a tort, I would punch you in the face.” These negate the intent and you won’t be able to say there was a tort.*
 
 *Words alone rarely create an assault.*
 
-Assault is typically paired with battery as assault and battery. In assault and battery, assault refers to the act that causes the victim to immediately apprehend a harmful or offensive contact, whereas battery refers to the act that causes the actual contact. * Some jurisdictions label assault as attempted battery.*
-
-For imminent battery, battery must be able to occur almost instantly.
+Assault is typically paired with battery as assault and battery. In assault and battery, assault refers to the act that causes the victim to immediately apprehend a harmful or offensive contact, whereas battery refers to the act that causes the actual contact. * Some jurisdictions label assault as attempted battery.
 
 ---
 
@@ -481,13 +477,15 @@ The majority rule provides that minor defendant’s conduct is assessed accordin
 
 ### Rescuer
 
-A defendant has a duty to act if they volunteered to protect the plaintiff from harm, possibly preventing others from protecting the plaintiff. The omission of actions may be negligent when the defendant had a duty to act. If an individual voluntarily initiates a rescue attempt, that individual has a duty to complete the rescue to the extent reasonably possible, especially if the person in need of rescue reasonably relied on the individual who initiated the rescue attempt. Nonprofessional rescuers are foreseeable plaintiff’s as a matter of policy and can recover against the negligent party creating the need.
+Generally, there is no duty to rescue another person unless the defendant has voluntarily undertaken the rescue. A defendant has a duty to act if they volunteered to protect the plaintiff from harm, possibly preventing others from protecting the plaintiff. The omission of actions may be negligent when the defendant had a duty to act. If an individual voluntarily initiates a rescue attempt, that individual has a duty to complete the rescue to the extent reasonably possible, especially if the person in need of rescue reasonably relied on the individual who initiated the rescue attempt. Nonprofessional rescuers are foreseeable plaintiff’s as a matter of policy and can recover against the negligent party creating the need.
 
 If a defendant's tortious conduct creates the need to rescue, the defendant has a duty to rescue plaintiffs endangered by that conduct.
 
+**A negligent defendant owes a rescuer an independent duty of care.** Courts recognize that a rescuer is a foreseeable plaintiff. Even when a rescuer is negligent in acting, the negligent defendant will be liable unless it is shown that the rescuer was wantonly reckless.
+
 Professional rescuers (for example, police or firefighters) cannot recover in negligence against the person who created the need for rescue.
 
-Generally, there is no duty to rescue another person unless the defendant has voluntarily undertaken the rescue. In some jurisdictions, a person who initially undertakes a rescue may cease acting so long as the endangered person is not left in a worse position than she would have been in had the undertaking never been initiated. This is contrary to the majority view, which requires a person undertaking a rescue to act reasonably.
+In some jurisdictions, a person who initially undertakes a rescue may cease acting so long as the endangered person is not left in a worse position than she would have been in had the undertaking never been initiated. This is contrary to the majority view, which requires a person undertaking a rescue to act reasonably.
 
 Many states have good samaritan statutes that protect a rescuer unless she is reckless or engages in intentional wrongdoing.
 
@@ -1023,17 +1021,23 @@ A defendant generally cannot raise the contributory negligence defense with stri
 
 ---
 
-# Strict Products Liability
+# Products Liability
 
-A **proper plaintiff** is any plaintiff who is a user, consumer, or bystander physically injured by a defective product. No requirement of contract privity.
+Any parties who manufacture and sell a product are liable for damage caused by that product. Parties include the manufacturer, manufacturers of component parts, assembly company, wholesaler, and retail store owner. This does not include services or occasional sellers. A consumer, including those who borrowed a product or received it as a gift, can bring a products liability claim for harm caused by products containing inherent defects. Products are tangible personal property and intangible personal property such as gas, natural entities including pets and plants, real estate, and writings including navigational charts.
 
-A **proper defendant** is a commercial supplier at all levels of the distribution chain and in the market selling the product, including manufacturer, wholesaler, and retailer. This does not include occasional sellers and those supplying services.
+To prove a prima facie case of products liability, the plaintiff has to show that (1) the defendant sold the product that the plaintiff used; (2) the defendant was the commercial seller of the product; (3) the plaintiff suffered an injury; (4) the item was defective when the defendant sold it; and (5) the defect was an actual and proximate cause of the plaintiff's injury
+
+Products liability claims can be based on negligence, strict liability, or breach of warranty of fitness. This will typically depend on the jurisdiction within which the claim is based, due to the fact that there is no federal products liability law.
 
 ---
 
 ### Proper Context for Products Liability
 
 Generally services alone are not enough. When both a product and services are present, the goods or product must dominate.
+
+A **proper plaintiff** is any plaintiff who is a user, consumer, or bystander physically injured by a defective product. **No requirement of contract privity.**
+
+A **proper defendant** is a commercial supplier at all levels of the distribution chain and in the market selling the product, including manufacturer, wholesaler, and retailer. This does not include occasional sellers and those supplying services.
 
 *For example, if a beauty salon applies a perm manufactured by PermaCo causing plaintiff to go bald, beauty salon is strictly liable. This is different from a dentist using a defective needle.*
 
@@ -1065,7 +1069,7 @@ Courts use the **Risk-Utility Balancing Test** to determine whether the danger t
 
 ### Inadequate Warning
 
-A plaintiff can bring a strict product liability claim on the basis that the warning was inadequate. Courts use a reasonableness test, which asks if the warning reasonably informs a reader of the risks of the product and how to reduce them. *Look at language, placement, size of font, and clarity.*
+A plaintiff can bring a strict products liability claim on the basis that the warning was inadequate. Courts use a reasonableness test, which asks if the warning reasonably informs a reader of the risks of the product and how to reduce them. *Look at language, placement, size of font, and clarity.*
 
 ---
 
@@ -1077,7 +1081,7 @@ A manufacturer has a duty to warn about risks of which it knows or should know. 
 
 ---
 
-### Causation for Strict Product Liability
+### Causation for Strict Products Liability
 
 **Actual cause:** Usually proven by showing that the defect that injured plaintiff was in existence at the time it left defendant’s control.
 
@@ -1087,15 +1091,15 @@ A manufacturer has a duty to warn about risks of which it knows or should know. 
 
 ---
 
-### Damages for Strict Product Liability
+### Damages for Strict Products Liability
 
 Recoverable when there is personal injury or property damage other than to the product itself. Where the harm is only to the product itself, the only claim is breach of warranty.
 
 ---
 
-### Defenses for Strict Product Liability
+### Defenses for Strict Products Liability
 
-There are various defenses for strict product liability.
+There are various defenses for strict products liability.
 
 ---
 
@@ -1111,13 +1115,13 @@ If the product was altered or modified between the time the product leaves the m
 
 ---
 
-### Assumption of the Risk for Strict Product Liability
+### Assumption of the Risk for Strict Products Liability
 
 If plaintiff has used the product with knowledge of the risk, the defendant may not be strictly liable for the product.
 
 ---
 
-### Contributory Negligence for Strict Product Liability
+### Contributory Negligence for Strict Products Liability
 
 At modern law, contributory negligence only applies as a defense to strict products liability if the plaintiff’s conduct rises to the level of misuse, abnormal use, or independent negligence.
 
@@ -1127,13 +1131,13 @@ Where a defendant can show that his product was subsequently altered in an unfor
 
 ---
 
-### Comparative Negligence for Strict Product Liability
+### Comparative Negligence for Strict Products Liability
 
 Some jurisdictions that have adopted a comparative negligence system as to negligence also apply that system to strict liability. A plaintiff’s wrongful conduct that contributes, along with the defective product to his own injury reduces his recovery in some amount. This is usually limited to misuse, abnormal use, or independent negligence situations (i.e., not where the plaintiff’s wrongful conduct is a failure to discover the defect). In some jurisdictions that permit comparative fault, the plaintiff’s unreasonable conduct in failing to discover and guard against the defect is not a defense.
 
 ---
 
-### Product Liability on Negligence Theory
+### Products Liability on Negligence Theory
 
 Any foreseeable plaintiff can bring an action.
 
@@ -1145,7 +1149,7 @@ All negligence defenses apply.
 
 ---
 
-### Product Liability on Warranty Theory
+### Products Liability on Warranty Theory
 
 An express Warranty exists where defendant makes a specific representation as to the quality or nature of the product that becomes a basis of the bargain. Any seller can make this warranty (manufacturer, distributor, seller). The warranty can occur via advertising, during negotiations, or as a contract provision.
 
@@ -1183,7 +1187,7 @@ A private nuisance is usually an intentional tort, because once a defendant is p
 
 Courts do a five-factor balancing test to determine whether interference was substantial and unreasonable. They look at (1) the value of defendant’s activity; (2) whether there are alternatives; (3) the nature of locality; (4) the extent of plaintiff’s injury; and (5) who was there first (used to be a defense now just a factor).
 
-For remedy of injunction (equitable relief), plaintiff must showw that plaintiff is suffering or will suffer irreparable harm, and damages are an inadequate remedy. Judge will then do balancing test.
+For remedy of injunction (equitable relief), plaintiff must show that plaintiff is suffering or will suffer irreparable harm, and damages are an inadequate remedy. Judge will then do balancing test.
 
 ---
 
