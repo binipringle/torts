@@ -1023,7 +1023,7 @@ A defendant generally cannot raise the contributory negligence defense with stri
 
 # Products Liability
 
-In tort law, products liability holds any party who manufactures or sells a product liable for damage caused by that product. Parties include the manufacturer, manufacturers of component parts, assembly company, wholesaler, and retail store owner. This does not include services or occasional sellers. A consumer, including those who borrowed a product or received it as a gift, can bring a products liability claim for harm caused by products containing inherent defects. Products are tangible personal property and intangible personal property such as gas, natural entities including pets and plants, real estate, and writings including navigational charts.
+In tort law, products liability holds any party who manufactures or sells a defective product liable for damage caused by that product. Parties include the manufacturer, manufacturers of component parts, assembly company, wholesaler, and retail store owner. This does not include services or occasional sellers. A consumer, including those who borrowed a product or received it as a gift, can bring a products liability claim for harm caused by products containing inherent defects. Products are tangible personal property and intangible personal property such as gas, natural entities including pets and plants, real estate, and writings including navigational charts. Defects are manufacturing defect, design defect or inadequate warning (marketing defect).
 
 To prove a prima facie case of products liability, the plaintiff has to show that (1) the defendant sold the product that the plaintiff used; (2) the defendant was the commercial seller of the product; (3) the plaintiff suffered an injury; (4) the item was defective when the defendant sold it; and (5) the defect was an actual and proximate cause of the plaintiff's injury
 
@@ -1200,6 +1200,15 @@ To prove prima facie defamation, a plaintiff must show four things. These are (1
 In addition to the defendant who originated the defamatory message, other persons who republish the defamatory message are potentially liable as well.
 
 [^9]:Legal Information Institute, Cornell University. [https://www.law.cornell.edu/wex/defamation](https://www.law.cornell.edu/wex/defamation)
+
+---
+
+### Standard of Proof for Public and Private Figures
+
+| Public Official | Public Figure | Private Figure |
+| --------------- | --------------- | --------------- |
+| Acting in public capacity | Household names and people injecting themselves into controversy | If public concern, plaintiff must show negligence |
+| Actual malice by clear and convincing evidence | Actual malice by clear and convincing evidence | If private concern, no actual malice needed but not settled law |
 
 ---
 
