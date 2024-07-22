@@ -132,6 +132,7 @@ toc:
 - Public Nuisance
 - Private Nuisance
 - Defamation
+- Standard of Proof for Public and Private Figures
 - Libel v Slander
 - Defenses to Defamation Claims
 - Other Torts
