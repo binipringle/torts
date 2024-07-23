@@ -269,6 +269,8 @@ The emotional distress must be severe. Severe emotional distress is emotional di
 
 The severe emotional distress must be long lasting as opposed to transitory.
 
+A defendant is liable for intentional infliction of emotional distress when he engages in extreme and outrageous conduct toward one person with the intent to inflict emotional distress upon a family member of that person. The defendant must be aware of the family member's presence and be substantially certain that the family member witnessing his conduct will suffer emotional distress.
+
 ---
 
 ### Trespass to Land
